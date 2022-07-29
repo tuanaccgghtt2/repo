@@ -1,0 +1,480 @@
+[
+  {
+    "package": "com.hoangtuan.powerselector11",
+    "name": "PowerSelector (iOS 11 to 14)",
+    "time": 1,
+    "timestamp": "2021/11/18 - 12:41:41",
+    "version": "1.3.4",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.dumpdecrypter",
+    "name": "DumpDecrypter",
+    "time": 1,
+    "timestamp": "2021/11/17 - 20:46:43",
+    "version": "1.2-9.4",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.appstoreplusplus",
+    "name": "AppStore++",
+    "time": 1,
+    "timestamp": "2021/11/16 - 08:38:26",
+    "version": "0.9.18",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.rileytestut.altdaemon",
+    "name": "AltDaemon",
+    "time": 1,
+    "timestamp": "2021/11/12 - 10:45:59",
+    "version": "1.0.1",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.zsign",
+    "name": "zsign IPA",
+    "time": 1,
+    "timestamp": "2021/11/11 - 01:07:27",
+    "version": "1.1-8.2",
+    "section": "Development",
+     "size": 1
+  },
+  {
+    "package": "com.hoangtuan.bakgrunnur",
+    "name": "Bakgrunnur",
+    "time": 1,
+    "timestamp": "2021/11/09 - 21:39:09",
+    "version": "1.7.8",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.cydown",
+    "name": "CyDown VH",
+    "time": 1,
+    "timestamp": "2021/11/04 - 09:30:23",
+    "version": "7.1.2",
+    "section": "Tweaks",
+    "size": 1
+  },
+
+  {
+    "package": "com.alaise.azule",
+    "name": "Azule",
+    "time": 1,
+    "timestamp": "2021/10/31 - 15:16:14",
+    "version": "0.3.1",
+    "section": "Development",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.youtubenoads",
+    "name": "YouTube NoAds",
+    "time": 1,
+    "timestamp": "2021/10/16 - 14:57:30",
+    "version": "1.2-1",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.appsmanager",
+    "name": "Apps Manager",
+    "time": 1,
+    "timestamp": "2021/10/14 - 16:13:10",
+    "version": "1.6.1-11",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.amber",
+    "name": "Amber",
+    "time": 1,
+    "timestamp": "2021/10/10 - 13:01:39",
+    "version": "1.0.2",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.weibonoads",
+    "name": "Weibo NoAds",
+    "time": 1,
+    "timestamp": "2021/09/25 - 09:50:00",
+    "version": "1.6-9",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "net.angelxwind.appsyncunified",
+    "name": "AppSync Unified",
+    "time": 1,
+    "timestamp": "2021/09/19 - 15:22:31",
+    "version": "102.0",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.cercube",
+    "name": "Cercube for YouTube",
+    "time": 1,
+    "timestamp": "2021/09/11 - 03:41:12",
+    "version": "5.3.3",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.spotilife",
+    "name": "Spotify Premium",
+    "time": 1,
+    "timestamp": "2021/08/14 - 04:38:11",
+    "version": "1.7a",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "com.level3tjg.bfdecrypt",
+    "name": "bfdecrypt",
+    "time": 1,
+    "timestamp": "2021/08/02 - 22:07:46",
+    "version": "1.3.3",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.picsartpremium",
+    "name": "PicsArt Premium",
+    "time": 1,
+    "timestamp": "2021/07/21 - 12:39:08",
+    "version": "1.1-4",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.milkyway2-ios14fix",
+    "name": "MilkyWay2 (Fix iOS14)",
+    "time": 1,
+    "timestamp": "2021/07/19 - 21:41:44",
+    "version": "0.0.2.1",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.zebra",
+    "name": "Zebra",
+    "time": 1,
+    "timestamp": "2021/07/17 - 17:17:51",
+    "version": "1.1.21",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.udevs.vexillarius",
+    "name": "vexillarius",
+    "time": 1,
+    "timestamp": "2021/05/16 - 13:29:04",
+    "version": "0.0.3",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.substrated",
+    "name": "Unc0ver Support Package",
+    "time": 1,
+    "timestamp": "2021/05/03 - 02:00:51",
+    "version": "0.9.7113",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.linusyang.appinst",
+    "name": "appinst (App Installer)",
+    "time": 1,
+    "timestamp": "2021/05/01 - 22:47:48",
+    "version": "1.1.4",
+    "section": "Development",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.appshacks",
+    "name": "Apps Hacks",
+    "time": 1,
+    "timestamp": "2021/04/15 - 22:11:57",
+    "version": "4.5-3",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.flyjbx",
+    "name": "FlyJB X VH",
+    "time": 1,
+    "timestamp": "2021/04/11 - 18:46:40",
+    "version": "1.2.5",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.nopassafterrespringsafe",
+    "name": "NoPassAfterRespring (Safe)",
+    "time": 1,
+    "timestamp": "2021/04/08 - 13:26:55",
+    "version": "0.0.2",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.newterm2",
+    "name": "NewTerm 2",
+    "time": 1,
+    "timestamp": "2021/03/12 - 20:21:31",
+    "version": "2.5",
+    "section": "Development",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.copylog.tv",
+    "name": "CopyLog (Thêm tiếng Việt)",
+    "time": 1,
+    "timestamp": "2021/03/04 - 07:00:37",
+    "version": "1.5.3",
+    "section": "Localization",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.goodwifi",
+    "name": "GoodWiFi",
+    "time": 1,
+    "timestamp": "2020/12/29 - 09:19:59",
+    "version": "0.0~beta6",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.psexpresspremium",
+    "name": "Adobe Photoshop Express (Premium)",
+    "time": 1,
+    "timestamp": "2020/12/02 - 00:15:41",
+    "version": "1.0.0",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.Lightroom",
+    "name": "Adobe Lightroom Photo Editor Cheats",
+    "time": 1,
+    "timestamp": "2020/11/10 - 11:15:20",
+    "version": "6.0.2",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.wifikey",
+    "name": "WiFi Key",
+    "time": 1,
+    "timestamp": "2020/10/31 - 13:19:45",
+    "version": "1.8",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.documentspremium",
+    "name": "Documents by Readdle (Premium)",
+    "time": 1,
+    "timestamp": "2020/09/28 - 01:09:30",
+    "version": "1.0.1",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.cputool.tv",
+    "name": "CPUTool (Thêm tiếng Việt)",
+    "time": 1,
+    "timestamp": "2020/09/22 - 07:00:01",
+    "version": "1.9",
+    "section": "Localization",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.ytnoupdate",
+    "name": "YouTube Disable Update",
+    "time": 1,
+    "timestamp": "2020/08/04 - 20:49:58",
+    "version": "0.0.1-1+debug",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.bypassmbbank",
+    "name": "Bypass MBBank",
+    "time": 1,
+    "timestamp": "2020/07/30 - 21:18:31",
+    "version": "1.0-20",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.boompremium",
+    "name": "Boom (Premium)",
+    "time": 1,
+    "timestamp": "2020/07/28 - 06:36:40",
+    "version": "1.0.0",
+    "section": "Hack Apps",
+    "size": 1
+  },
+  {
+    "package": "flexdecrypt",
+    "name": "flexdecrypt",
+    "time": 1,
+    "timestamp": "2020/07/01 - 22:43:03",
+    "version": "1.1",
+    "section": "Development",
+    "size": 1
+  },
+  {
+    "package": "plutil",
+    "name": "plutil",
+    "time": 1,
+    "timestamp": "2020/06/03 - 11:06:28",
+    "version": "0.2.2-1",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.iosgodsiapcracker",
+    "name": "iOSGods iAP Cracker",
+    "time": 1,
+    "timestamp": "2020/05/28 - 21:33:00",
+    "version": "1.0-2+debug",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.douyinnoads",
+    "name": "Douyin NoAds",
+    "time": 1,
+    "timestamp": "2020/04/22 - 14:17:22",
+    "version": "1.3",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.milkyway2",
+    "name": "MilkyWay2",
+    "time": 1,
+    "timestamp": "2020/03/06 - 14:44:00",
+    "version": "0.2.1",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.cloneappcmd",
+    "name": "Clone App Command",
+    "time": 1,
+    "timestamp": "2020/02/24 - 18:50:12",
+    "version": "1.0~b2",
+    "section": "Development",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.localiapstore13",
+    "name": "LocaliAPStore13",
+    "time": 1,
+    "timestamp": "2019/11/20 - 18:25:45",
+    "version": "0.0.2",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.videoswipes",
+    "name": "VideoSwipes VH",
+    "time": 1,
+    "timestamp": "2019/11/19 - 03:50:49",
+    "version": "1.4-2",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.ext3nder-installer",
+    "name": "Ext3nder Installer",
+    "time": 1,
+    "timestamp": "2019/10/15 - 08:36:08",
+    "version": "022b",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.videoadsspeed",
+    "name": "VideoAdsSpeed",
+    "time": 1,
+    "timestamp": "2019/09/29 - 12:11:59",
+    "version": "1.0.4-3",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.crackerxi",
+    "name": "CrackerXI+",
+    "time": 1,
+    "timestamp": "2019/09/13 - 19:34:55",
+    "version": "1.1.16",
+    "section": "Utilities",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.bypasstechcombank",
+    "name": "Bypass Techcombank",
+    "time": 1,
+    "timestamp": "2019/04/27 - 23:28:00",
+    "version": "0.0.6",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.level3tjg.insert-dylib",
+    "name": "insert_dylib",
+    "time": 1,
+    "timestamp": "2019/01/24 - 14:33:35",
+    "version": "1.0.3",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.dlgmemorinjected",
+    "name": "DLGMemor Injected",
+    "time": 1,
+    "timestamp": "2018/08/30 - 14:59:08",
+    "version": "11.3.1",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "me.alfhaily.opencli",
+    "name": "Open",
+    "time": 1,
+    "timestamp": "2018/07/21 - 17:22:00",
+    "version": "1.0.0",
+    "section": "System",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.assistivetouchx",
+    "name": "AssistiveTouchX",
+    "time": 1,
+    "timestamp": "2018/04/17 - 23:32:09",
+    "version": "1.0",
+    "section": "Tweaks",
+    "size": 1
+  },
+  {
+    "package": "com.hoangtuan.localiapstore",
+    "name": "LocaliAPStore",
+    "time": 1,
+    "timestamp": "2014/01/01 - 06:25:34",
+    "version": "1.4-5b",
+    "section": "Tweaks",
+    "size": 1
+  },
+]

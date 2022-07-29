@@ -1,0 +1,9 @@
+{
+	"name": "DLGMemor Injected",
+	"desc_short": "Thay đổi bộ nhớ ứng dụng",
+	"desc_long": "&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
+	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://lh3.googleusercontent.com/pw/AM-JKLV1n3tAW1DkX-4-SoO3XJx7HPHpIYvtZMYSwa8z4FxsMEV-bQ3iDWCHaQCidFIJV4pzs1_VDvOxSBDtYvaowkuA6GrNfz6CS1PmXC2Y3lpNSelAvTmVenY4u64cc-L_nfV_DeG1-WtkEzY5-qSFR2-o=h2540' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLV1n3tAW1DkX-4-SoO3XJx7HPHpIYvtZMYSwa8z4FxsMEV-bQ3iDWCHaQCidFIJV4pzs1_VDvOxSBDtYvaowkuA6GrNfz6CS1PmXC2Y3lpNSelAvTmVenY4u64cc-L_nfV_DeG1-WtkEzY5-qSFR2-o=h700'/></a><a href='https://lh3.googleusercontent.com/pw/AM-JKLVZctp0ZZ2cUzVpUWsxLveGQyUYOqJBM7HBR1jOKVJj2qcTyz_qntO5LqXOruPODhOpfUypShEq49S9_kko58B90oX_3UAmTRjClKvsNmeulH6m0jn8xS4A6vyGX5IcIxmy5XfEFoBvhBtNQxd0iyh7=h2540' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLVZctp0ZZ2cUzVpUWsxLveGQyUYOqJBM7HBR1jOKVJj2qcTyz_qntO5LqXOruPODhOpfUypShEq49S9_kko58B90oX_3UAmTRjClKvsNmeulH6m0jn8xS4A6vyGX5IcIxmy5XfEFoBvhBtNQxd0iyh7=h700'/></a><a href='https://lh3.googleusercontent.com/pw/AM-JKLUm8XSz99t55zv_4WBK7qEPjXjQG6CQV-bpEexw4yn4e0jCSiZDpegGUAEW6jNffd41BN8bBBfVkEpshNAUlBbwn3qfra9OOe_hmly9pbmF4ersVj8wXlgBaUkVRW0gqLjGRhviyWJ92mCHnOOdJ962=h2540' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLUm8XSz99t55zv_4WBK7qEPjXjQG6CQV-bpEexw4yn4e0jCSiZDpegGUAEW6jNffd41BN8bBBfVkEpshNAUlBbwn3qfra9OOe_hmly9pbmF4ersVj8wXlgBaUkVRW0gqLjGRhviyWJ92mCHnOOdJ962=h700'/></a><br></div>",
+	"open": true,
+}

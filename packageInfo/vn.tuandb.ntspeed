@@ -1,0 +1,9 @@
+{
+	"name": "NtSpeed",
+	"desc_short": "Hiện tốc độ mạng",
+	"desc_long": "Cấu hình tinh chỉnh trong cài đặt",
+	"compatitle": "iOS 6.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://lh3.googleusercontent.com/pw/AM-JKLXbOUJRgAKq8UlqaAW-rSrqlW8rVYV-bh1gaxyK5dIsJnf4Md16mN2e8mDCYVW3cLuRV2qvfpOZ1vIWVm9gzvLnIBcEDzYt8f_Qhyl4iw11G-D1Ra5gJS2wiV4YcXeNnDxmlMKrY7JY50NGAavpeqJ-=h2208' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLXbOUJRgAKq8UlqaAW-rSrqlW8rVYV-bh1gaxyK5dIsJnf4Md16mN2e8mDCYVW3cLuRV2qvfpOZ1vIWVm9gzvLnIBcEDzYt8f_Qhyl4iw11G-D1Ra5gJS2wiV4YcXeNnDxmlMKrY7JY50NGAavpeqJ-=h700'/></a><br></div>",
+	"open": true,
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Apps Manager",
+	"desc_short": "Sao lưu và khôi phục dữ liệu",
+	"desc_long": "Công cụ để <b>SAO LƯU</b>, <b>KHÔI PHỤC</b> Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt.<hr />Bấm <b style='color:red'>Kích Hoạt</b> nếu có thông báo <b style='color:red'>Kích Hoạt</b>",
+	"compatitle": "iOS 10.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://lh3.googleusercontent.com/pw/AM-JKLV4PzRI0G12rHszQhe04xqrdMthC0ltJpggfzhmNNmzL__By4396NcQ76_VSC0HN09Al42sey-hHVlXEgieK2BFTxor9mLnFbaw9qVWG3zLXwQp2dyxHPdd3x3cMCcu3jP1JvgGgelJqNikJLhrQTt2=h1727' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLV4PzRI0G12rHszQhe04xqrdMthC0ltJpggfzhmNNmzL__By4396NcQ76_VSC0HN09Al42sey-hHVlXEgieK2BFTxor9mLnFbaw9qVWG3zLXwQp2dyxHPdd3x3cMCcu3jP1JvgGgelJqNikJLhrQTt2=h700'/></a><br></div>",
+	"open": true,
+}

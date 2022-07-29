@@ -1,0 +1,9 @@
+{
+	"name": "insert_dylib",
+	"desc_short": "Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib",
+	"desc_long": null,
+	"compatitle": null,
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

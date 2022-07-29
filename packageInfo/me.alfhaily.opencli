@@ -1,0 +1,9 @@
+{
+	"name": "Open",
+	"desc_short": "Launch apps from the command-line, originally made by Conrad Kramer. This package is updated to work with Electra 11.x.",
+	"desc_long": null,
+	"compatitle": null,
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

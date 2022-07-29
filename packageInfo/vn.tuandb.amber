@@ -1,0 +1,9 @@
+{
+	"name": "Amber",
+	"desc_short": "Đèn LED màu vàng",
+	"desc_long": "<p>Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng.</p><hr /><p>Vào<b> Cài đặt, </b>đi đến<b> Trung Tâm điều khiển </b>và thêm<b> Amber </b>để sử dụng</p>",
+	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://lh3.googleusercontent.com/pw/AM-JKLX1DX4_ewZcZfxybck4KIKyNyG3Lg3efr4bop4hOKiyCu5iU2VNWFUsbZDwHeG_qNYw6acDBsDKwt4Kjr-3nZtVub3_QDQT9Y60xPafbX5_O0d7E_dDsmifPP719r1K4hlSFVXvQgc6PuF9I5rXG0-l=h1777' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLX1DX4_ewZcZfxybck4KIKyNyG3Lg3efr4bop4hOKiyCu5iU2VNWFUsbZDwHeG_qNYw6acDBsDKwt4Kjr-3nZtVub3_QDQT9Y60xPafbX5_O0d7E_dDsmifPP719r1K4hlSFVXvQgc6PuF9I5rXG0-l=h700'/></a><a href='https://lh3.googleusercontent.com/pw/AM-JKLUJyRGOiQH1NCOIXYpmT3JGQKIhDg9pgbtqcMHUCMDC17fn7He9OPjfIEPkc0NHrISVKWbv_twHHl8sCo371az_0tGTR56e6S9krnvqfwHlqttHINb5opToCJrI6UIbF5dwVGa9wDqbTbN02D1Y4vff=h1777' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLUJyRGOiQH1NCOIXYpmT3JGQKIhDg9pgbtqcMHUCMDC17fn7He9OPjfIEPkc0NHrISVKWbv_twHHl8sCo371az_0tGTR56e6S9krnvqfwHlqttHINb5opToCJrI6UIbF5dwVGa9wDqbTbN02D1Y4vff=h700'/></a><a href='https://lh3.googleusercontent.com/pw/AM-JKLXBL8RYf3nUwExhCeZf4sLkI0iWzl0Z0ObwTslOHrvwScFDPcYJT6aJ5ZOU41hlBzDHMDyzRFJUwbv8Ua_t64KNn742RZLNRfh_i_ZaqTYtqvnaRVp_08SQe7IHViXm_dHxDs5L45ALbH70Yjjl1O6i=h1777' target='_blank'><img src='https://lh3.googleusercontent.com/pw/AM-JKLXBL8RYf3nUwExhCeZf4sLkI0iWzl0Z0ObwTslOHrvwScFDPcYJT6aJ5ZOU41hlBzDHMDyzRFJUwbv8Ua_t64KNn742RZLNRfh_i_ZaqTYtqvnaRVp_08SQe7IHViXm_dHxDs5L45ALbH70Yjjl1O6i=h700'/></a><br></div>",
+	"open": true,
+}
