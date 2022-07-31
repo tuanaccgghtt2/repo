@@ -191,28 +191,6 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=com.alaise.azule
 Author: Alaise
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
-Package: vn.tuandb.adblockplus
-Architecture: iphoneos-arm
-Version: 2.6
-Priority: optional
-Section: Tweaks
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 308
-Conflicts: ru.rejail.adblockplus, net.kenhtao.adblockplus
-Filename: ./debs/old/vn.tuandb.adblockplus_2.6_iphoneos-arm.deb
-Size: 51536
-MD5sum: 1014cbbeecd8a28f6740e6cb9b4504ab
-SHA1: 83c704c9e90f4a287546f0cc5b7b1dcbbdd8672e
-SHA256: f5473d9f2c8c0f15fccc994acbca90b5417c449efbcc5837fed38d7f6e8b245a
-SHA512: 9b9e7667e38661bf23ecff4a8260f4ecd6b507ec67a0a1c5d74389845c3cc2788113e5538b20708f409d5ef6332ab6b4cf0a1870e0564e9b7ac71cd18f97fbc3
-Homepage: https://repo.tuandb.name.vn
-Description: Chặn quảng cáo trong các ứng dụng ++
-Name: AdBlock++
-Icon: file:///Library/tuandb.IconRepo/Tweaks.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adblockplus
-Author: ReJail
-Support: Hoàng Tuân <contact@tuandb.name.vn>
-
 Package: vn.tuandb.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.5.15
@@ -233,90 +211,6 @@ Name: Bakgrunnur
 Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bakgrunnur
 Author: udevs
-Support: Hoàng Tuân <contact@tuandb.name.vn>
-
-Package: vn.tuandb.dumpdecrypter
-Architecture: iphoneos-arm
-Version: 1.3-5
-Section: Utilities
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 3008
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/old/vn.tuandb.dumpdecrypter_1.3-5_iphoneos-arm.deb
-Size: 927348
-MD5sum: b027abeb28ed4d975a0e8cea6c9ebbbf
-SHA1: 1c3348103fa07d556880c1f3f209529cb34098e3
-SHA256: 620ade4da9db07bc45f5d0926f09c034fc3cb6831c1f2e31852065c15c7f00d4
-SHA512: 37a574e213c4b93ffb93c592a32cbca7739f996f27800c2cbe8154665cd74fe2c887887bc83a6ad653bb8a58d0a2ed6e0580a34d09058dbe9610a604cf34887a
-Homepage: https://repo.tuandb.name.vn
-Description: Giải mã ứng dụng iOS
-Name: DumpDecrypter
-Icon: file:///Library/tuandb.IconRepo/Utilities.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dumpdecrypter
-Author: Netskao
-Support: Hoàng Tuân <contact@tuandb.name.vn>
-
-Package: vn.tuandb.kwyycrack
-Architecture: iphoneos-arm
-Version: 1.3-3.1
-Section: HackApps
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 420
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/old/vn.tuandb.kwyycrack_1.3-3.1_iphoneos-arm.deb
-Size: 114380
-MD5sum: 5dafd12ee8142ad59f2bff28fe1ad4b6
-SHA1: 7ee816d2a33b87943c13511e9d36b3575d74b17c
-SHA256: 20074547f0c0ed407cdf96c824e878c927351ee7f979e69f8619e092d9b981a1
-SHA512: 477a51781e6493160589dc8a7ed394c9c63adebab340fbf5dfa475195ec2c60fb6d46a7acd0541e1c546e6e6ef72c2c034f39909694bee3f7e574c763d517a8e
-Homepage: https://repo.tuandb.name.vn
-Description: Mở Khóa Premium Cho Kuwo Music
-Name: Kuwo Crack
-Icon: file:///Library/tuandb.IconRepo/HackApps.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kwyycrack
-Author: Netskao
-Support: Hoàng Tuân <contact@tuandb.name.vn>
-
-Package: vn.tuandb.safariplus
-Architecture: iphoneos-arm
-Version: 1.7.20
-Section: Tweaks
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 5468
-Depends: firmware (>=8.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>=1.1.3) | firmware (<<14.0)
-Filename: ./debs/old/vn.tuandb.safariplus_1.7.20_iphoneos-arm.deb
-Size: 1187480
-MD5sum: f158a3ff48ca93c44bb15741bd034595
-SHA1: 1a7f9525409ab512e667762ecf37c70a8d6808ce
-SHA256: 4876f7dac1420243d7ea5c32545cba7e31d89833d5164b5f502dac2dcdf62302
-SHA512: 968ff38b24d258ff86cc240be4812b516b825bc7dc0307637567aaf1024ca27f7c55e4e8350d905db98e37ca78ed6c7c12109f9ea5dcbe428d3078df23094df1
-Homepage: https://repo.tuandb.name.vn
-Description: Thêm tinh chỉnh cho Safari
-Name: Safari Plus VH
-Icon: file:///Library/tuandb.IconRepo/Tweaks.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.safariplus
-Author: opa334 <opa334@protonmail.com>
-Support: Hoàng Tuân <contact@tuandb.name.vn>
-
-Package: vn.tuandb.weibonoads
-Architecture: iphoneos-arm
-Version: 1.7-5.9
-Section: Tweaks
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 468
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/old/vn.tuandb.weibonoads_1.7-5.9_iphoneos-arm.deb
-Size: 126424
-MD5sum: 6c1b371545fd7094cf498323d53ab5c7
-SHA1: 74484c302aa0f9aae5cb38d281897d9c9bc7364a
-SHA256: d44029aaa7f60ae4a0a0492aebc78ade62c46512327a270b2295e5ea5c97f1a0
-SHA512: e4d3ae648588cade4d02329b74efdf14a42da8278297b1a5c1c3e319e7b9b1f3a8f8137d5372513b2bb34e83008fdd47afbc2d96365dac3f28da7d45905153ea
-Homepage: https://repo.tuandb.name.vn
-Description: Xoá quảng cáo và tải video Weibo
-Name: Weibo NoAds
-Icon: file:///Library/tuandb.IconRepo/Tweaks.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.weibonoads
-Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.adblockplus
@@ -1114,18 +1008,18 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.picsartpremium
 Architecture: iphoneos-arm
-Version: 1.1-4
+Version: 1.1-5
 Section: HackApps
 Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
 Installed-Size: 236
 Depends: firmware (>= 12.0), mobilesubstrate
-Conflicts: com.hoangtuan.picsartpremium
-Filename: ./debs/vn.tuandb.picsartpremium_1.1-4_iphoneos-arm.deb
-Size: 56516
-MD5sum: e8706a1ff1dffafb07b36e7960df9779
-SHA1: d28f0e4b7eaf6160348d77cffde92798d40ca624
-SHA256: 127104c5726b161077008561b607619437b7b4704857c1f20ed9166ad521c350
-SHA512: 744d8ddf2f3d0282f07811112c911507a2162c18f250e7d1e934de51e72ebe641d3da38f94b56f72ac5b8921cf43a205381057ca6817ef2e7835c8be467a2ea5
+Conflicts: netskao.picsartcrack
+Filename: ./debs/vn.tuandb.picsartpremium_1.1-5_iphoneos-arm.deb
+Size: 56692
+MD5sum: 591490592aae739213cc0b36fed23349
+SHA1: 7f1589249fdfeec5e41ef9a9044e2f8e2a84f845
+SHA256: f40822e7ca2e4420fea7bb8557c2e1df80a02cfd80a442d54639ec1dc7fbb7b0
+SHA512: 1cdcb2ab21bb393baaaa0f3bfabfe980b02321010c01f5f66640cd355f96519bf9bb878d812f04e04fb49383c2b9a4896095ab6850c8c60a53acc12f76c60797
 Homepage: https://repo.tuandb.name.vn
 Description: PicsArt Premium
 Name: PicsArt Premium
