@@ -1,0 +1,9 @@
+{
+	"name": "Ext3nder Installer",
+	"desc_short": "Cydia Extender Installer With Extra Features",
+	"desc_long": "✔️ Quản lý ứng dụng đã cài đặt<br />✔️ Xây dựng lại ứng dụng thành .ipa <br />✔️ Chia sẻ WiFi<br />✔️ Thu hồi chứng chỉ<br />✔️ Trình quản lý tài liệu<br />✔️ Cài đặt các tệp .ipa với Apple Private API<br />✔️ Ứng dụng tự động ký",
+	"compatitle": "iOS 9.0 đến iOS 14.8 (arm64)",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

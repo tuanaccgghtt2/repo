@@ -1,0 +1,9 @@
+{
+	"name": "Douyin NoAds",
+	"desc_short": "Xóa hình mờ và quảng cáo Douyin",
+	"desc_long": "- Loại bỏ các quảng cáo khi khởi động <br />- Tự động phát video tiếp theo <br />- Xoá logo Douyin khi tải video",
+	"compatitle": "iOS 9.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

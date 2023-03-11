@@ -1,0 +1,9 @@
+{
+	"name": "plutil",
+	"desc_short": "Utility for creating and editing Apple property list files.",
+	"desc_long": null,
+	"compatitle": null,
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

@@ -1,0 +1,9 @@
+{
+	"name": "CrackerXI+",
+	"desc_short": "Giải mã ứng dụng iOS",
+	"desc_long": "<p>&ensp;CrackerXI+ chỉ hoạt động tốt nhất với Cydia Substrate, Substitute (Checkra1n, Unc0ver...). Dùng LibSubstrate (Taurine, v.v.v) sẽ không hoạt động (Trừ khi dùng Odysseyra1n = Checkra1n)</p><hr /><p><b><i>Lưu ý:</i></b></p><p>- Tắt các tw chặn jb với ứng dụng cần giải mã<br />- Để Share được IPA thì ứng dụng cần giải mãi phải là nguyên bản (Không tải trực tiếp qua Appstore. Mà phải cài bằng iTunes, iMazing hoặc tw Appstore++).<br />&emsp;+ Video hướng dẫn với Appstore++ (xem 2:36 đến 3:45) ➤<a target='_blank' href='https://bit.ly/ipa-appstore'>bit.ly/ipa-appstore</a></p>",
+	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009832495463805029/crackerxi-img1.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009832495463805029/crackerxi-img1.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009832502908694609/crackerxi-img2.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009832502908694609/crackerxi-img2.png'/></a><br></div>",
+	"open": true,
+}

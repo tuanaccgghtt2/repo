@@ -1,0 +1,9 @@
+{
+	"name": "Succession",
+	"desc_short": "Chạy lại iOS từ file IPSW",
+	"desc_long": "<p>- Vào trang <span style='color: blue'><b>ipsw.me</b></span> để tải file IPSW đúng với bản iOS mà máy<span style='color: red'><b> đang sử dụng</b></span></p><p>- Đổi tên file IPSW vừa tải về thành <b>ipsw.ipsw</b> và chép vào thư mục <b>/var/mobile/Media/Succession</b></p><p>- Vào Succession chọn <span style='color: blue'>Download clean filesystem </span>&#10140;<span style='color: blue'> Use provided IPSW </span>&#10140; <span style='color: red'>Prepare for restore!</span> &#10140; <span style='color: red'>Erase iPhone </span>&#10140; <span style='color: red'>Begin restore</span> &#10140; <span style='color: red'>Restore anyways</span></p><p>- Chú ý mức pin của máy và cắm sạc để không bị hết pin và sập nguồn đột ngột</p><hr /><b><i>Lưu ý: </i></b>Trong một số trường hợp lúc Succession chạy xong sẽ bị lỗi không tự động khởi động lại &#10140; Nên khi bạn thấy nó treo táo ở một điểm tiến trình quá lâu, khoảng 10'-15' mà thanh tiến trình vẫn đứng im thì bạn <b>Force Restart</b> máy bằng phím cứng là được",
+	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

@@ -1,0 +1,1497 @@
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm
+Version: 108.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/backup/ai.akemi.appsyncunified_108.0_iphoneos-arm.deb
+Size: 37476
+MD5sum: 36d28e8430116af72fdcedb8b17b5d72
+SHA1: 2c150e02d198cd44b299a6295e31e4c6e5686456
+SHA256: 8468363ec141169aed79de61265a025996107aa3340951a4156a31ba32247c77
+SHA512: 6cd9a67d4708ec1a461b105b69a993b2a6e5227b692c065200f3662a4c435dbfb3366bd3829c1ce2f367650868f93ab9c214eb2325344463385539d55e569cc2
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm
+Version: 0.3
+Section: System
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/backup/com.ichitaso.otadisabler_0.3_iphoneos-arm.deb
+Size: 27640
+MD5sum: b635278762241cc8482a8094bf6eda20
+SHA1: 7a187c1b5adc8abaf7a107a994fe7a19c9444bb3
+SHA256: ad5a9c16ee3a466a47c28d099b4f1cbe6317a6ed75cd29fbafbd56b39f8a4285
+SHA512: 20916ecc7eb4a86969c609b19e03eb6be075235d9ce9638d110e2e88c75ffb798a4fa31cf0039d0009b594af3b46db7b39a19edcabc5feee01e89b53a572624c
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Author: ichitaso
+
+Package: com.level3tjg.bfdecrypt
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 388
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>=11.0)
+Filename: ./debs/backup/com.level3tjg.bfdecrypt_1.3.4_iphoneos-arm.deb
+Size: 69810
+MD5sum: 7d485a5623d1fac60940178162705f55
+SHA1: 0bf3c243278d5d7ed14089ad056c0e5163df0000
+SHA256: 22561e7ad840be5744de87ea9fef9f658f49e3c8e38826c5b2eb946004bd90c7
+SHA512: 58be1159d204734ea690e0714e3a98d32b33ea4c65c5a588b2e2b4260ea41774fee557f7834b2186aa20902a2f7acff5c3ad4f23e40b610284a88f9015b7bc75
+Description: bfdecrypt for iOS 11+
+Name: bfdecrypt
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.bfdecrypt
+Author: BishopFox
+
+Package: com.level3tjg.insert-dylib
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: level3tjg
+Filename: ./debs/backup/com.level3tjg.insert-dylib_1.0.3_iphoneos-arm.deb
+Size: 40636
+MD5sum: 789c283a43282dfa23f3ae7de8ee3b5d
+SHA1: 01e86b06b89109c0a0249cb0a7e805b750223230
+SHA256: 92f729cbf5aa9e80c34a8f76ec42d4310c0f09fc8b9f8a2b54b8cb53ca018497
+SHA512: 9a221a8ff9d0092ce3bf94eeb773811a9e26896b54ff73f9a938953e8e17c800e803fd884f1f78f5e20b361a6ef1e81eec9adb06fe051e5d8d1f613f63baa651
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Tag: role:hacker
+Name: insert_dylib
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.insert-dylib
+Author: level3tjg
+
+Package: com.linusyang.appinst
+Architecture: iphoneos-arm
+Version: 1.1.4
+Priority: standard
+Section: Utilities
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 392
+Pre-Depends: firmware (>= 5.0)
+Depends: net.angelxwind.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Filename: ./debs/backup/com.linusyang.appinst_1.1.4_iphoneos-arm.deb
+Size: 75224
+MD5sum: bc07d52e849498a244f392d09b8d1ae8
+SHA1: b8e7578118cee54ddb49b739907ad015310601c8
+SHA256: 2b1cce8defe3eba168c4fbd038c8dac4e8ffe7bb8c4ddeba178f8b0a6c597d25
+SHA512: 5b41d6eeb45c74f18366595b87895e64e0c4d9d9f5bcc32f86691c8608f0c6f2e90b6201c6d98b06cc72d2ff3b53ea4697906ce321a5abf3a31ea405e93705b1
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: Install IPAs from the command line
+Tag: role::enduser, purpose::console
+Name: appinst (App Installer)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/com.linusyang.appinst
+
+Package: com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: System
+Maintainer: Riley Testut <support@altstore.io>
+Installed-Size: 2560
+Depends: firmware (>= 12.2)
+Filename: ./debs/backup/com.rileytestut.altdaemon_1.0.1_iphoneos-arm.deb
+Size: 597754
+MD5sum: 86b026f3f838e0ca193b086898e7152a
+SHA1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
+SHA256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
+SHA512: 6cd71f88bb23d7affe94532904e8e8b8fe442df012c28c619fe268c5fbbfef1151e006cbd6ad5a2752db9781277f19aa108ff240a62f5aa01380732b334d0c93
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Tag: compatible_min::ios12.2
+Name: AltDaemon
+Author: Riley Testut <support@altstore.io>
+Icon: https://cdn.chariz.cloud/icon/altdaemon/icon@3x.png
+Depiction: https://chariz.com/get/altdaemon
+
+Package: com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm
+Version: 1.8.1-10
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 5236
+Filename: ./debs/backup/com.tigisoftware.appdatamanager_1.8.1-10_iphoneos-arm.deb
+Size: 1900236
+MD5sum: 3d8c81bd08b88a4bc2990d0b0e89eef0
+SHA1: 7f54cfc8efc4b35fd70cb41a12e4ff8ead359fed
+SHA256: 81401b3ba48dc6fc42dc0f4b307351506b0880fd86a6136c436b9281f0e2b25b
+SHA512: c440945ac580c28f98cd1400f79251c6a3bbc9b3dbb469a9213c01eef8b1cb31704034e715e41be24bc8a5c3d5533d32091049d131d082395221114d8eaaa00e
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Name: Apps Manager
+Author: TIGI Software
+
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Version: 4.0.0-6
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 23200
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/backup/com.tigisoftware.filza64bit_4.0.0-6_iphoneos-arm.deb
+Size: 8700444
+MD5sum: 023705537cb119fd58564b5918ed5cc8
+SHA1: 7c3d8234fa820d3a5f17e52dba8c8ed4596547ab
+SHA256: 1dbe2b7ff2d9463bc92454b3ad3159fc2d3b1ab8dee9f40844d719c3d7c73397
+SHA512: 410d5908344433622dac4ec83078bc43dba1fc43495efa45f55fe70171e6aabe9534c42b1f9a64ddd21fad68cc9a1b33c684cc1b4ddb95bfff9d160ffffb71d0
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
+Package: com.udevs.vexillarius
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: udevs
+Installed-Size: 136
+Filename: ./debs/backup/com.udevs.vexillarius_0.0.3_iphoneos-arm.deb
+Size: 5472
+MD5sum: 4b89ff607885606678559d688c77d5aa
+SHA1: 8e108531b7a78873a1b7767a2469b656e79c8d49
+SHA256: ba5a338afead68820ac3a7a759fe937f8bdd2395e592deadb452bf4dabe16155
+SHA512: 153e8d1c709394cfb96a7daa6eed7bcb4c8893934f8ead0d58ff2769da5eddd12a022bc5710a2663dca96bf13db3fa207dc7fba7db2a8a287160df1df9cbfba0
+Description: Standard Bearer
+Tag: role::hacker
+Name: vexillarius
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vexillarius/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vexillarius
+
+Package: flexdecrypt
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tools
+Maintainer: John Coates
+Depends: firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: ./debs/backup/flexdecrypt_1.1_iphoneos-arm.deb
+Size: 518658
+MD5sum: 1bacb832802ba646770539c288ffaccf
+SHA1: 81ed8a45f74ed4c6143e461bcfbd97c047098a46
+SHA256: 1c44c923e1b9b4e9a3760d8fdf6e40b5b71575df4079cdad03c5bd498205b0ca
+SHA512: dc9d2a56b8ad85e19398162d792fc5ba76c92fc48caeefe1dbe4fae0afd64dfe36ee8020783dd9f14307706d543e635d0165ac6d95be2da7c578974c78c4966a
+Description: Tool for decrypting iOS apps and Mach-O binaries.
+Name: flexdecrypt
+Author: John Coates
+
+Package: me.alfhaily.opencli
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 68
+Filename: ./debs/backup/me.alfhaily.opencli_1.0.0_iphoneos-arm.deb
+Size: 2504
+MD5sum: 64f400c8a9a649697e5e54f1a11d9cf4
+SHA1: 483c509d55722eaa84ada3ed2dc335f061850c8a
+SHA256: c4b201a5591a339245b3cd309a1de4bcbaec594c6ff2943b5c478e5f54f00e43
+SHA512: ab0e59544b9d6683bed21365212f320fe1302db386d7a1a0140fa52ed4ceb842d64404ff996ba3cd8486d29a9f829762498215f7b5cdeeb13ffe261252742efd
+Description: Launch apps from the command-line, originally made by Conrad Kramer. This package is updated to work with Electra 11.x.
+Tag: purpose::console, role::hacker
+Author: Majd Alfhaily <freemanrepo@me.com>
+Name: Open
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: freemanrepo
+
+Package: net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Version: 9999.0
+Section: Tweaks
+Maintainer: Karen/あけみ
+Depends: ai.akemi.appsyncunified
+Filename: ./debs/backup/net.angelxwind.appsyncunified_9999.0_iphoneos-arm.deb
+Size: 804
+MD5sum: be0d8b0b008bdd86d2801fcc1a13e17f
+SHA1: ab9027c3df1a3c092e8b7a8792e8b000781407c1
+SHA256: 8ebf3adec5a13a010b2823df372ae4c94dc6036da481bbab9ebec07ce9669d68
+SHA512: df55bb6fff7e1d27042ad5c58a7d95614d69554b43fdb80936b8be28160179edbfcd44193d984fe91333eb26c634ba697e30f61109382d524f21775c179b9c0a
+Homepage: http://cydia.akemi.ai/
+Description: Transitional package for AppSync Unified.
+Tag: cydia::obsolete
+Author: Karen/あけみ
+Name: AppSync Unified Transitional Package
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional
+
+Package: plutil
+Architecture: iphoneos-arm
+Version: 0.2.2-1
+Section: System
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 164
+Provides: com.bingner.plutil (=0.2.2-1)
+Conflicts: com.ericasadun.utilities, com.bingner.plutil
+Filename: ./debs/backup/plutil_0.2.2-1_iphoneos-arm.deb
+Size: 29920
+MD5sum: 7255363331680cab4ddd93d340a0b574
+SHA1: dec2d23629b63a88d611d9a7d9ba41531e6e0f5f
+SHA256: 8206aa5221f38acdcfd4b78c06e5cde1aee682d9fcba8262c534391115a27077
+SHA512: bc10f67e9665195c2cd7928b898d6c58c06c31d87af3e2e954435e4991b92016c49df809ddd899d05bb6a5c1c7664fa04cea23bd823f86e4bbf3d3b3c50b944d
+Description: Utility for creating and editing Apple property list files.
+Tag: role::hacker
+Author: Samuel Bingner
+
+Package: com.alaise.azule
+Architecture: iphoneos-arm
+Version: 0.7.6
+Priority: optional
+Section: Development
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 5865
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, com.level3tjg.insert-dylib, plutil | com.bingner.plutil, ldid, coreutils, zip, unzip, sed, curl, me.alfhaily.opencli, com.linusyang.appinst
+Filename: ./debs/com.alaise.azule_0.7.6_iphoneos-arm.deb
+Size: 624908
+MD5sum: 89b93d1a6cb1b25ef750b8aa053b9394
+SHA1: c857487c16a60f4b278c05f733da3df4db89883a
+SHA256: 66684ef6af9af0a3bebf2129654dcfef4341416de4e5f05e75e21a5c72b4dd28
+SHA512: 5c494ffa2efcaeb4f9fa342d69a574ea1a85a5e2af784092f6b78886358c519430e39e54cb14346546a3836f86674ce480308955d3e690c9ca8327b7bcec5c49
+Homepage: https://repo.tuandb.name.vn
+Description: A CLI tool that injects tweaks into jailed iOS apps
+Name: Azule
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=com.alaise.azule
+Author: Alaise
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: com.alaise.azule
+Architecture: iphoneos-arm
+Version: 0.4.2
+Section: Development
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 4161
+Depends: odcctools, bash, jq, rsync, com.level3tjg.insert-dylib, plutil | com.bingner.plutil, ldid, coreutils, zip, unzip, sed, curl, me.alfhaily.opencli, com.linusyang.appinst, flexdecrypt
+Filename: ./debs/old/com.alaise.azule_0.4.2_iphoneos-arm.deb
+Size: 755420
+MD5sum: f4a5d0103187ef0cbeccb468566c61c8
+SHA1: f6b66ed733e7b6da662c1f439338b6d5bdf30d70
+SHA256: 7dbff19e057f8dd1e916f6978c4b2928e0dc344b018bb0cf71a56d7a4234307b
+SHA512: 829613210e0caf4e5b6635ca33476ad51c361bef92085cec01c99aa13d8b879c064928c239bfce57b31dd297674ace42d4df0f50238ad433dc874ee4450950a3
+Homepage: https://repo.tuandb.name.vn
+Description: A CLI tool that injects tweaks into jailed iOS apps
+Name: Azule
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=com.alaise.azule
+Author: Alaise
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.5.15
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1416
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Conflicts: com.hoangtuan.bakgrunnur
+Filename: ./debs/old/vn.tuandb.bakgrunnur_1.5.15_iphoneos-arm.deb
+Size: 239368
+MD5sum: fcc235026db4ef2a71da79eb01003f1d
+SHA1: cf3babf0bf86684bd288b7d024bf016c3755645e
+SHA256: 247262dcc5f4a9bbb34379266817a5b551caecb6a1e11f1b28243eff375750c4
+SHA512: 42b0f4e4927e726fa1a44749a5f63cc0e9e2c0e1c7e1b519a9254ccb925dca76fd8a6379f4aace81ebf5f2a41c13b634af5da5bb593b1f69d68c2885cdab542a
+Homepage: https://repo.tuandb.name.vn
+Description: Truly backgrounding your apps
+Name: Bakgrunnur
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bakgrunnur
+Author: udevs
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.adblockplus
+Architecture: iphoneos-arm
+Version: 2.7
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 256
+Conflicts: ru.rejail.adblockplus, net.kenhtao.adblockplus
+Filename: ./debs/vn.tuandb.adblockplus_2.7_iphoneos-arm.deb
+Size: 42692
+MD5sum: 42b47fa4402a462b92f61dd89c7f0f90
+SHA1: 2d5c69da109097f329c7e2a1053b373f0b705ffe
+SHA256: c86388b80207fae0022d1c6175186e17f8d2edfcf2e5009544891e50fa36ad73
+SHA512: afbf353bbc66cbcd06fc645766fa1c55a5d7aff97fef1c7aaaabb79434aa3565f081ebb40cc2fdb5b431ba022d40b2988f4e884deb53369bb833bfdaf6af3216
+Homepage: https://repo.tuandb.name.vn
+Description: Chặn quảng cáo trong các ứng dụng ++
+Name: AdBlock ++
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adblockplus
+Author: ReJail
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.amber
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/vn.tuandb.amber_1.2.0_iphoneos-arm.deb
+Size: 9576
+MD5sum: 900587492ee534f10331dca10d8a7808
+SHA1: 02cf88b93269c52c33c5f8119e440112211b8687
+SHA256: 1a7439c18d037e36d0099cae680853d84797f0b0505c1bb4bba33ba661ca3113
+SHA512: 63f54e5b291d74f6b63a46cba29725f8175f78da3a8710b6bd313b2eef3002a661adab529cce969a38778ac669e1f94a6521d9907b1ab54c2f839870a4a6eb1c
+Homepage: https://repo.tuandb.name.vn
+Description: Amber-ify your LED torch.
+Name: Amber
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.amber
+Author: PoomSmart
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.apphack
+Architecture: iphoneos-arm
+Version: 4.5-4
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 6712
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.firepo.hmodeis.apphack, vn.tuandb.appshacks, com.hoangtuan.appshacks, net.kenhtao.appshacks
+Filename: ./debs/vn.tuandb.apphack_4.5-4_iphoneos-arm.deb
+Size: 3086980
+MD5sum: 40ab3e2011843d7c3b1a1e1919b20604
+SHA1: dd2f84af4ed85253b4f144e35cbb33d0e826918e
+SHA256: a187fd9e166199099a1e57c6961891259b7949ae085f01c3d7a641b19b25a09a
+SHA512: dd603ba105f9704c61da59ef9615ed5509833d02fbff3542d7b0d93836ee71994d07c59e8fa3e17bdf269e33d4d99ebeeb7fa12242c946cd140384b18dd0574b
+Homepage: https://repo.tuandb.name.vn
+Description: Hack VIP cho các ứng dụng
+Name: Apps Hacks
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.apphack
+Author: Enkidu
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.appsmanagercrack
+Architecture: iphoneos-arm
+Version: 1.1-2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 136
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Filename: ./debs/vn.tuandb.appsmanagercrack_1.1-2_iphoneos-arm.deb
+Size: 7336
+MD5sum: e4d34a6e03d203aee2909c0d81492dd5
+SHA1: 8e574a86a034057b3fa10ebdb66ac35235afda85
+SHA256: c7cb5ea82aa5f55f6b3acc2d877a299423048de52c7a0f9103db0afc64b93e39
+SHA512: afb1b827e315d4b2997687eb24a6ab481a0afe6a700a59459fec2d25241114a38a6268c2c89f88a2d789d683115ccb490072c163b83ac46fb831c67907bcbcc5
+Homepage: https://repo.tuandb.name.vn
+Description: AppsManager unlock full functionality, the main program please install in the official source
+Name: AppsManager Crack
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.appsmanagercrack
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.10.1-5
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 11388
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus, net.kenhtao.appstoreplusplus, com.hackyouriphone.appstoreplusplus
+Filename: ./debs/vn.tuandb.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 3122460
+MD5sum: 82713fc648a10c8baa9900d7328be313
+SHA1: ed29c0644c34e65bad7db09ccc4586546e540c43
+SHA256: bb6fdc3c3b0eb44178dc265b6135cdfb7b438092b2ba31a635ac445bbd919b6a
+SHA512: 398182696932ec6acf75c44512fb9839f2104ff426924798432367536da53149f03fb4fec7752591519fe6b7fc452fada87f877d3a0d095a5d6457b29f0e3d9f
+Homepage: https://repo.tuandb.name.vn
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.
+Name: AppStore++
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.appstoreplusplus
+Author: CokePokes
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.assistivetouchx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 715
+Conflicts: com.hoangtuan.assistivetouchx, com.jailbreak365.assistivetouchx
+Filename: ./debs/vn.tuandb.assistivetouchx_1.0_iphoneos-arm.deb
+Size: 459784
+MD5sum: f2b60119f3f1be4253b7ec99f9fdbe6c
+SHA1: d4177e97ca47fdb4f850848ca4c2dc87680a76a4
+SHA256: b147e2f2caebe9d6cadff39c2602d0fddc093e33e7ddfd10e4f639989418557a
+SHA512: 0b952d8cdaace3d05b57ad22a8e9a22874b485a036160c8442a8895fab37c85e1077dd0445977f40fab4c11700a139cd20675a9c7c94b05d1c47d9f9dfd2194f
+Homepage: https://repo.tuandb.name.vn
+Description: AssistiveTouchX thay thế các biểu tượng Assistive Touch mặc định bằng các biểu tượng của iPhone X (làm cho biểu tượng Assistive Touch tròn). QUAN TRỌNG: Tinh chỉnh này sửa đổi một ứng dụng hệ thống, trong khi nó an toàn và đã được thử nghiệm, hãy tự chịu rủi ro khi cài đặt.
+Name: AssistiveTouchX
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.assistivetouchx
+Author: jailbreak365
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.7.12
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1404
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius | firmware(<<14.0)
+Filename: ./debs/vn.tuandb.bakgrunnur_1.7.12_iphoneos-arm.deb
+Size: 260132
+MD5sum: 8b5aba82dc0a097757aa49af6fd47bac
+SHA1: 4fa62b4af3d7657c482986385a6d445e95f7d4f2
+SHA256: df37be39e0c3d034a8b4fdfeeacd7ab709efa0ad17fd452cd052bde220d7d5b3
+SHA512: dd212bd5c563ca08099a0e2d6bf6c21a402527d2968413ea5570158a13668548167b92d35416c9e4e008360263763aa5cceadbc1c7774f4af8128bf281806c2e
+Homepage: https://repo.tuandb.name.vn
+Description: Truly backgrounding your apps
+Name: Bakgrunnur
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bakgrunnur
+Author: udevs
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.boompremium
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 136
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.boompremium
+Filename: ./debs/vn.tuandb.boompremium_1.0.0_iphoneos-arm.deb
+Size: 3560
+MD5sum: 7c2979a7cc0a10c04c664a219669ac5a
+SHA1: 7fc7e7c9f6e7ac525b3bb19c8f3bb6908fb2e3ce
+SHA256: 06eeedda72e75dbee86b46b19a8872255699549db2305c6625db76f64f838b62
+SHA512: 45818ed55dc72f7a15da9504af5306dcd78c300dd71a2d501cf34ec6a7ce0af2eb990d5d901145b10a9a57e4c623c74d3743c06cc3fa9a90abd0e1d284fdb60a
+Homepage: https://repo.tuandb.name.vn
+Description: Enables premium features.
+Name: Boom (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.boompremium
+Author: strejda603 <strejda603@centrum.cz>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.bypassmbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 644
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.bypassmbbank
+Filename: ./debs/vn.tuandb.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 155024
+MD5sum: c634ed17628cc07c6cab013f77830d27
+SHA1: 6b06ce465179ccfefb27bae2a07e0d148c1eda53
+SHA256: 0d4af62bf9bf7719fc9850e31ec556afeb39ac76d83fa6d8ca74b20f18001908
+SHA512: d7a1f22def52201d59491d1358d450735ecbba7523b34b1797d2ac4471b1bda1a45afecd94cdf29f98ec1ca2eeb7fa9ef68d9b1a513840efc80ba0fb54fa8ec3
+Homepage: https://repo.tuandb.name.vn
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MBBank
+Name: Bypass MBBank
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bypassmbbank
+Author: IPALibrary
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.bypasstechcombank
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 67
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.bypasstechcombank
+Filename: ./debs/vn.tuandb.bypasstechcombank_0.0.6_iphoneos-arm.deb
+Size: 3112
+MD5sum: 89c918d0a3c40ddf3e326f9ad2c38714
+SHA1: ab7b64993623abee13ff6087dc462df4c1dd55e7
+SHA256: 3dfc5d98c34b313ac0b7988df72fa39b6f71964d35634eece3a8109afa7217c7
+SHA512: 24ac944da17366bea89e9758ace959bc0c9b69266129841fd0081aea7ef3c2b33d3deae107f5bcd149866d868e9961fb56559748fcf1133c3efcb2c0758ae7e5
+Homepage: https://repo.tuandb.name.vn
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng Techcombank - F@st Mobile.
+Name: Bypass Techcombank
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bypasstechcombank
+Author: Kan
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.cercube
+Architecture: iphoneos-arm
+Version: 5.3.11
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 14300
+Depends: firmware (>= 9.0), mobilesubstrate, vn.tuandb.adblockplus
+Conflicts: ru.rj.c3rcub3, me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack, net.kenhtao.cercube, net.kenhtao.adblockplus
+Filename: ./debs/vn.tuandb.cercube_5.3.11_iphoneos-arm.deb
+Size: 3333296
+MD5sum: 94961b0be6a57e2bb3b506bce2e02f5d
+SHA1: cdfc4ceff4601793597f0b073d4b248364c4b5a6
+SHA256: 3dbd53a196b8875053e0ea4ca04f5b4bf9908050f66ac96d29843d223d4720f3
+SHA512: f1c5fb897dd16bc12f9a4088f139ad2afb1888092cb867207e125c9b8fb815c05fdeda8b83c9b080b9905fd782cab6ae25de7e9cb67cb0b3f619cf6816d54dc2
+Homepage: https://repo.tuandb.name.vn
+Description: Bổ sung tính năng hữu ích cho Youtube!
+Name: Cercube for YouTube
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cercube
+Author: Majd Alfhaily
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.cloneappcmd
+Architecture: iphoneos-arm
+Version: 1.0~b2
+Section: Development
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 297
+Depends: plutil | com.bingner.plutil, net.angelxwind.appsyncunified
+Conflicts: com.hoangtuan.cloneappcmd
+Filename: ./debs/vn.tuandb.cloneappcmd_1.0~b2_iphoneos-arm.deb
+Size: 54552
+MD5sum: 755b62c0830955032ce9667c68f1ed91
+SHA1: 1ba1274cefff616ee420f9600a15746abb574ab5
+SHA256: f7c35d6dda5e1c6dcc531b33c00b37c3a34e5c9e24a5c09027b57abd87eeffe2
+SHA512: e9ae6746c345ff620c347af2befc80015586ac1718342ffb634471808c5776e316e5112992f4eb66c7bfec5d554a313b1296b3d910c132bfc31b3a50f53e291a
+Homepage: https://repo.tuandb.name.vn
+Description: Nhân bản ứng dụng bằng lệnh cmd
+Name: Clone App Command
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cloneappcmd
+Author: shin-chan
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.copylog.tv
+Architecture: iphoneos-arm
+Version: 1.5.3
+Section: Localization
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 3
+Conflicts: com.hoangtuan.copylog.tv
+Filename: ./debs/vn.tuandb.copylog.tv_1.5.3_iphoneos-arm.deb
+Size: 2844
+MD5sum: 90e61ec9b31eb376f392791fe900d24a
+SHA1: 285f046e977fa829d36cdc31b4064cc3c2e60e3a
+SHA256: 17f4b6a1e94b154f62bb03f5a402b792d103d41ded62567c4dccec096c5660ed
+SHA512: d6f44a7d354f0eedf532e40262089acb2167129d333d992426b46b9d3920a07c52955f2fcdb2fa124fd28976d89177b32ff5e3611050878d38d8c9470a116780
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm ngôn ngữ tiếng Việt cho Copylog.
+Name: CopyLog (Vietnamese)
+Icon: file:///Library/tuandb.IconRepo/Localization.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.copylog.tv
+Author: Hoàng Tuân
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.cputool.tv
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Localization
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 3
+Conflicts: com.hoangtuan.cputool.tv
+Filename: ./debs/vn.tuandb.cputool.tv_1.9_iphoneos-arm.deb
+Size: 2704
+MD5sum: a8c30d146a17b51f233d567cfc4ba5d9
+SHA1: 2e3fe844e503644a2d37632cd2ce18607a440225
+SHA256: c1b3219e95ebc6680a40d957f69f011788333509998b2294fdbe9d74433a51ec
+SHA512: ac46ee27dbb932a178885774f7f36a42d840f5b76d605b312824e0082857628285fed9608cd2ad41a78d6db090cd9968ef2ee26e6be44e8809da7c93a0872644
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
+Name: CPUTool (Vietnamese)
+Icon: file:///Library/tuandb.IconRepo/Localization.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cputool.tv
+Author: Hoàng Tuân
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: Utilities
+Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Installed-Size: 29184
+Depends: firmware (>= 11.0)
+Conflicts: com.hoangtuan.crackerxi
+Filename: ./debs/vn.tuandb.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 6187952
+MD5sum: dd01355b9b18588f8b356b910d22a09f
+SHA1: ab09cb5dc80c7f2881abbe918b7db0938fcab377
+SHA256: feb5f514859f61a41d9779a8aeaf7b1beba862c81aadebfa95bd6b5c10b75b6e
+SHA512: b97955294907412a81d0552a051eca116f3bc58ab49b954ea33d4b51fd9ef1e8177e589f2fdbf609eb971dab4655b89c548f23797922cac6cd3e018c5b163bcc
+Homepage: https://repo.tuandb.name.vn
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.crackerxi
+Author: c0pyn1nja
+Support: Hoàng Tuân <contact.tuandb@gmail.com>
+
+Package: vn.tuandb.cydown
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 10900
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.hoangtuan.cydown, com.julioverne.cydown, net.kenhtao.cydown, cydia.kiiimo.org.cydown, hoangdinhphong.cydown
+Filename: ./debs/vn.tuandb.cydown_7.1.2_iphoneos-arm.deb
+Size: 2607432
+MD5sum: 649cb8fd757107ab3f315ef264fe5ffa
+SHA1: 3b5ad3a6ecf1d74a0370a97dfff6aba6540f2b51
+SHA256: 12dc62e0b8d2a7ae372549492c3684e60eb3d4f278208d49945f1a27930a8099
+SHA512: 15cad4e8c4f817afb96b48cf891f68dc24257ed4ca62232e940959ae1e9689f934a6eaecc7c733aa2f4bc807090d233a8d5c11666b32f1b6f102dacfae679de0
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm tính năng bổ sung cho Cydia, Zebra, Installer
+Name: CyDown VH
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cydown
+Author: julioverne <julioverne@me.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.dlgmemorinjected
+Architecture: iphoneos-arm
+Version: 11.3.1
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Installed-Size: 701
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.hoangtuan.dlgmemorinjected, com.yourepo.ghacks.dlgmemorinjected
+Filename: ./debs/vn.tuandb.dlgmemorinjected_11.3.1_iphoneos-arm.deb
+Size: 201280
+MD5sum: 9f3ef54e7315ac7bf4b6c69e880486dd
+SHA1: 0d44be367c8784fcad324f8761c54f7f6c371fef
+SHA256: 470218145336a340b5fde4fed53976df3a6781924f20a4a50aa1b52947149883
+SHA512: 40c6cff8857efb8cb01d3a230f2c0730ed921a2667832a8969fb74391187d1df5e41f4fadeb1f12516f6fa22b2a55dd935969c68b6a1b03b1e6da0681a82645e
+Homepage: https://repo.tuandb.name.vn
+Description: Thay đổi bộ nhớ ứng dụng
+Name: DLGMemor Injected
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dlgmemorinjected
+Author: AnonymousxiosdeV <aligamer889@gmail.com>
+Support: Hoàng Tuân <contact.tuandb@gmail.com>
+
+Package: vn.tuandb.documentspremium
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.documentspremium
+Filename: ./debs/vn.tuandb.documentspremium_1.0.1_iphoneos-arm.deb
+Size: 4624
+MD5sum: ad88d4832ef0f1262ded25450720f1d9
+SHA1: 936e0352b8d49704b55040de0d4a285af791d0b7
+SHA256: 1ded9bc347a9932ba159e6cf3b34e995fab4714ebec58527986bf33402cc06b3
+SHA512: d6b71c57137a899aa88f17216bd43400d45b067dfe5f1feecc7b05892f8575ff477d6b179e4344897b6320a52bfd36ee1fcf2e91d49577247d5ad3f869863156
+Homepage: https://repo.tuandb.name.vn
+Description: Enables Plus features.
+Name: Documents by Readdle (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.documentspremium
+Author: strejda603 <strejda603@centrum.cz>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.douyinnoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 163
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.hoangtuan.douyinnoads, netskao.awemehack
+Filename: ./debs/vn.tuandb.douyinnoads_1.3_iphoneos-arm.deb
+Size: 12568
+MD5sum: 44a18a17b98c0e3cb8eb2594bfc6ed8a
+SHA1: 586f5afc2016b96ab9798a672ac868bbd6d69c73
+SHA256: b3f1dc6a4b28b2cb779a75211173d142b6171587a350fefdd541546e084471dd
+SHA512: e5075ef47c0aa3d57a74e30028628ed2fd3bcb99b7b81392f2d6c1b231f70656c3322b481d69369af176977ea7cf85029b152a214e57a350a179d83ff6ba388e
+Homepage: https://repo.tuandb.name.vn
+Description: Loại bỏ các quảng cáo khi khởi động, Tự động phát video tiếp theo, Xoá logo Douyin khi tải video
+Name: Douyin NoAds
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.douyinnoads
+Author: Agricu <1004571093@qq.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.3-7
+Section: Utilities
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 2428
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/vn.tuandb.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 529224
+MD5sum: d471a62188bdf6ef05b30b3927156726
+SHA1: f392a7026691aebc9f7f55177792ec07fba2f0d4
+SHA256: 6baab9a60b7a62c8514fbcc45006261f788428794044838c1dc13a454309119d
+SHA512: 220fdb0603cb52f5163ac7464506f94e5cfd9b4611b7e64007e503a23a4c0615d05fd49ece69a4445a3817432aab89d88e8ccfd61e71172b55a6f90f8ba61146
+Homepage: https://repo.tuandb.name.vn
+Description: Giải mã ứng dụng iOS
+Name: DumpDecrypter
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dumpdecrypter
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.dvirtualhome
+Architecture: iphoneos-arm
+Version: 0.0.15
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.dgh0st.dvirtualhome, com.hackyouriphone.dvirtualhome, cydia.kiiimo.org.dvirtualhome, com.cydia.love.dvirtualhome, apt.cydiakk.dvirtualhome
+Filename: ./debs/vn.tuandb.dvirtualhome_0.0.15_iphoneos-arm.deb
+Size: 31700
+MD5sum: a7314c1fbb4476249718381dbd0dba9d
+SHA1: 159647a81a0ae599a1cdeb094a519469f007e876
+SHA256: fc4876bc675b2fc716fcd04e647dcb4a85b9c101fe8635e19a23a999dbacbc78
+SHA512: 43b382cf700c444f61d598c8f87ea0dd2eb2bc3adac621857396c529a06a4502f0ed57e3f88cc7dc3cfce01e03423135d4e2820f4deafce28afff311b2c395b6
+Homepage: https://repo.tuandb.name.vn
+Description: Nút Home thành cảm ứng
+Name: DVirtualHome VH
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dvirtualhome
+Author: DGh0st <deeppwnage@yahoo.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ext3nder-installer
+Architecture: iphoneos-arm
+Version: 022b
+Section: Utilities
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1571
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.ext3nder-installer, com.julioverne.ext3nder
+Filename: ./debs/vn.tuandb.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1430996
+MD5sum: 6adeae6a7085f20cce4e0f83bfcaee93
+SHA1: baa590e62d75028cd2e9ffa3cfa3033035586873
+SHA256: 42efbeccfa321392215689bdad2c0a00cc8d2589f8d28a4f9bffcc9d050a1c84
+SHA512: 9c584fc4eaf8e782d4161c0e9940994e60576803f91919d9a503edc3454c4c53374c66b3e2ff2365611c292c680ca2b970134c598935b9e0a565947f01ce15c3
+Homepage: https://repo.tuandb.name.vn
+Description: Cydia Extender Installer With Extra Features
+Name: Ext3nder Installer
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ext3nder-installer
+Author: julioverne
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.filzacrack
+Architecture: iphoneos-arm
+Version: 1.1-8
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 136
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/vn.tuandb.filzacrack_1.1-8_iphoneos-arm.deb
+Size: 7396
+MD5sum: 2b81538dd9fc6f4d32b68cc169dd12b2
+SHA1: 6323d4b737577746ad72a2f3fc06c3f51274bdd6
+SHA256: fe3e0e78941383cc28cc6c80c93a079c0e0059aa6f71b32baa776e9b31a7d725
+SHA512: d2276de613261e51158d987b9d6936c7c68dfe365d82c282a043b30f4629f8e4b9349a402d00002fc5958a167597d49ea3d4fa8730ef3a9716c0488f64971c50
+Homepage: https://repo.tuandb.name.vn
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.filzacrack
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.Flex3beta
+Architecture: iphoneos-arm
+Version: 1:3~Beta98
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 34600
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flex3beta, Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flex3beta, Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/vn.tuandb.flex3beta_3~Beta98_iphoneos-arm.deb
+Size: 9919240
+MD5sum: 5482e86365960296e2a2f03f427885b3
+SHA1: d2a18d49543a7737a0d5bf0ee22b6013588f0018
+SHA256: cb2619a6382f40efa955509027c91e6f07859050f2b306a6a424e4efd6f8a814
+SHA512: 3d5634bb5ae3d43ad00f7ce76720fa6b406da4403476bafa0dddc6f117faf8f400d5ed543276363c6f1898afc03cc3ee9fe34342b111e8f69185bdee31713fb7
+Homepage: https://repo.tuandb.name.vn
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Name: Flex 3 Beta
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.Flex3beta
+Author: John Coates
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.flyjbx
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.flyjbx, kr.xsf1re.flyjbx, kr.xsf1re.flyjb, net.kenhtao.flyjbx, net.kenhtao.flyjb
+Filename: ./debs/vn.tuandb.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 651324
+MD5sum: e190eb3078b0b4104058336244367d30
+SHA1: 830d84969ca9eca3eec1c6285a24e0ebf9f75ba0
+SHA256: 44aff35d5e807fb4459c9d2322eb7d542a61bf6204b49f9082ef3571e2870070
+SHA512: 577d4bcc789261c489ac2efcd5f4972970310e8964a0a5a856e8f45b66c688c1522d496292cda5a4698975ade46f3de9c2921d782d58c828eb64833ae4ca1d9a
+Homepage: https://repo.tuandb.name.vn
+Description: Hide Jailbreak
+Name: FlyJB X VH
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.flyjbx
+Author: XsF1re
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 624
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hoangtuan.goodwifi
+Filename: ./debs/vn.tuandb.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 82080
+MD5sum: 19b94311d41ce5452da1e7efe5a16a3c
+SHA1: f70df5d30e0ce896e4e380858569887af36f9889
+SHA256: d6f8cf308447e370d30914c5f95b66365fad1eabb338a7ea40de49c17895b28b
+SHA512: 3dcc0866981561074ab150ef11514158d1f3ca0194e1714e7bac7ccb287719b8d92b449c092c521f535fd08337d3f3188a9808bd799844033041419dc15f1802
+Homepage: https://repo.tuandb.name.vn
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.goodwifi
+Author: julioverne
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.iconrepo
+Architecture: iphoneos-arm
+Version: 5.3
+Essential: yes
+Section: System
+Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Installed-Size: 161
+Replaces: com.hoangtuantk.github.io.icon, com.hoangtuan.iconrepo
+Filename: ./debs/vn.tuandb.iconrepo_5.3_iphoneos-arm.deb
+Size: 148440
+MD5sum: ae5582c41624a11f82c2730d74f05702
+SHA1: 308273f73ab9321ffb809fbdd1a7053444d2a20f
+SHA256: 144f886f2ddeb06e31078d7c578ef904132abc4beb433b56b71ab60cfd555a20
+SHA512: f57f30687342b4d008cbd600449a5ef3a7ff4e7568605f1246d6de92a62ea71d1aaa97be687b224964677ca7305660b2616d96e3a95f6bd7737e6adb33113ead
+Homepage: https://repo.tuandb.name.vn
+Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Name: IconRepo | HoangTuan
+Icon: file:///Library/tuandb.IconRepo/logo.png
+Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Author: Hoàng Tuân <contact.tuandb@gmail.com>
+Support: Hoàng Tuân <contact.tuandb@gmail.com>
+
+Package: vn.tuandb.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 296
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.iosgodsiapcracker
+Filename: ./debs/vn.tuandb.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 12468
+MD5sum: 89d11dcc3bf2904a4ee0f9dd717f8bbd
+SHA1: afd62aba2def04ac84792bd6e23260d22fbb7557
+SHA256: 2139da1e193825f809545860d1739fe7845383f586a86f9bca3b757918fd3418
+SHA512: 10c990f514da3445d4064f77ff4ff901dbe33dea732007b11c761d7ee98e3f7d586056df8b24d09ab87daccbd49fff670f2f69ac363bcfb29c855088dbdff1a4
+Homepage: https://repo.tuandb.name.vn
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Name: iOSGods iAP Cracker
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.iosgodsiapcracker
+Author: Laxus
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.kwyycrack
+Architecture: iphoneos-arm
+Version: 1.4-6
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 588
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: 1111111111
+Replaces: 1111111111
+Filename: ./debs/vn.tuandb.kwyycrack_1.4-6_iphoneos-arm.deb
+Size: 144336
+MD5sum: 7ae781a41a731dec9425dd39fff11905
+SHA1: 6ff158b10ebd10a1429d712d797e71680e7fdb7e
+SHA256: e3b1953d380b4e53aa4cd2d73d06a9f1f1a1a86f14d836c0cc87fc20ab60f193
+SHA512: cfadeaf3e24ebc886c7828a7d617cf18176f0ccd23322eff941b39503e9185f3404a93dddb1d79b6debbfb5cd2c97e86a43a87cf06380941f82ef1f71c5ebd9d
+Homepage: https://repo.tuandb.name.vn
+Description: Mở Khóa Premium Cho Kuwo Music
+Name: Kuwo Crack
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kwyycrack
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.Lightroom
+Architecture: iphoneos-arm
+Version: 6.0.2
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 8576
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.Lightroom
+Filename: ./debs/vn.tuandb.lightroom_6.0.2_iphoneos-arm.deb
+Size: 1627592
+MD5sum: fcde05fc86e7594ede0b607acef57b08
+SHA1: 7cd9683024b0d9d1b15fc55998fdc6d885e50555
+SHA256: 01265aafa37eeec040808400f919e391af7b7925b48c5138afe160f907a5ccb9
+SHA512: 26151586954bc9e90750c11d4ac6e27c5ae1b1a3359fba3ac5aed2105c4e3b933eb2e936ae253fc0cac66026e4bdf730ae89f3447e06c86dc4b903fb2afba07a
+Homepage: https://repo.tuandb.name.vn
+Description: Hack Premium cho Adobe Lightroom Photo Editor
+Name: Adobe Lightroom Photo Editor Cheats
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.Lightroom
+Author: Laxus
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.localiapstore13
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 136
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hoangtuan.localiapstore13
+Filename: ./debs/vn.tuandb.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3008
+MD5sum: 3e7bfcdfd3ce04af673124ee6866f41a
+SHA1: e6f60d2ee1050d6235618f3915f49dfe9b6abb94
+SHA256: f9de39cc4ddc0a8c606dff6dcb1da098cd83a5dd7ffa0ed9760bb5c2ffa0fc3a
+SHA512: 1ea322e29290c0acb22b981ac5d0a5553961fc374dd79a3eb1b3f6412e6ce58e32bd16d0ff052ec0e44d8d32bbf352bf97982b47242d031da996f19a001f5c81
+Homepage: https://repo.tuandb.name.vn
+Description: Mua in-app trong ứng dụng miễn phí
+Name: LocaliAPStore13
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.localiapstore13
+Author: pxcex
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4-5b
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 235
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Conflicts: com.hoangtuan.localiapstore
+Filename: ./debs/vn.tuandb.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 42580
+MD5sum: d85d198e6441535db5a1f8eb9ca2f501
+SHA1: dc98facf835dd48940f003bc7044085148ebc8d8
+SHA256: 04d311b8006aefbd192fa730ac1b43b7b474e2bcdc2df34573ad90e4cc6d3d2d
+SHA512: 3f47f1095296563c92af08fad2badaf1e2c4c7423033ae02a1a226dde5ae704072375cea5bb8cd88c092fb72621f1e69ab3991227e5b7b9c7aea8f8177117d32
+Homepage: https://repo.tuandb.name.vn
+Description: Mua in-app trong ứng dụng miễn phí
+Name: LocaliAPStore
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.localiapstore
+Author: Anondev
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.milkyway2-ios14fix
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 136
+Depends: vn.tuandb.milkyway2, mobilesubstrate
+Conflicts: com.hoangtuan.milkyway2-ios14fix
+Filename: ./debs/vn.tuandb.milkyway2-ios14fix_0.0.3_iphoneos-arm.deb
+Size: 10892
+MD5sum: 7cdf8ff142a6be6f2c74bffba250eb63
+SHA1: 84aafc4740a6166ec3711f85c7d40c86e51b446a
+SHA256: 33685982be9ead8a287f85db6880b1656f20959ce20584b7c730db67370fd1e4
+SHA512: 44f057a0cb320a2097d4fe6809833f20c7b4f9abfa1855e0383cde2c64dc343ab17c84647683bf61698a45c6c460fc177747f6263736d84deb71b18b9947a37a
+Homepage: https://repo.tuandb.name.vn
+Description: Sửa lỗi Milkyway2 không hoạt động trên iOS14.
+Name: MilkyWay2 (Fix iOS14)
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.milkyway2-ios14fix
+Author: Brend0n <brendonjkding@126.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 376
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.hoangtuan.milkyway2
+Filename: ./debs/vn.tuandb.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 47924
+MD5sum: 075450079dfd91f5ad0d3790c03e70b8
+SHA1: 84949c228e6c541e1db5669b90f9cf75d145d718
+SHA256: aba6ff834d972e10aa457af3d81e09c4791bac6ea3701b5c978615dfd00caa4d
+SHA512: df23cb71f1dc69337e07beeead60ee8a258661128c09bf7c6cf8834b4274acc5e34c6281a9e6817c7ca2d5a934d56b0bf312a0809ca69f6798afd6abe269d9b9
+Homepage: https://repo.tuandb.name.vn
+Description: Tinh chỉnh nâng cao cho đa nhiệm
+Name: MilkyWay2
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.milkyway2
+Author: akusio <akusio-report@neko2.net>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Development
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 6664
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: com.hoangtuan.newterm2, ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/vn.tuandb.newterm2_2.5_iphoneos-arm.deb
+Size: 2018368
+MD5sum: 163ab1af70b02f926029dceef03c163b
+SHA1: 0cfe97592db77d3ceee69d58332cb583c98ea567
+SHA256: fc5f56ec000f505b15722f44f60c9e164db1114adbada5a61e97652fc8ac0a14
+SHA512: a5788d48fb678ea9a0ad4c4d78a10184e6ff508196fde9c86962d5c0ee0b8eb291275704cab48bbc1c0737e8c6e148e04e61b3c329bda3b0fa25e6f34ed8eac3
+Homepage: https://repo.tuandb.name.vn
+Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS
+Name: NewTerm 2
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.newterm2
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://hashbang.productions/support/
+
+Package: vn.tuandb.nicegrampremium
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.nicegrampremium_1.0.0_iphoneos-arm.deb
+Size: 3920
+MD5sum: c83c2e053aec7c9e547f95ff7940ff9a
+SHA1: beb0c6f3b6c06ff3d442f8eb3b64be5900d4e80f
+SHA256: 3f1d22401e1e69b804a1b80b46efc4c2d1b15b7e8556182e44d188a555d0a371
+SHA512: 820e6131256a534ae31a9ed76bc1a88fca1ff0ccc4155ab7eb4720008f9596eabd46966f8485d9d80d321f1f49aa72b0d719fb45d3aa7840fedb96e539b24dcd
+Homepage: https://repo.tuandb.name.vn
+Description: Enables Premium features.
+Name: Nicegram (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.nicegrampremium
+Author: strejda603 <strejda603@centrum.cz>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.nopassafterrespringsafe
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 200
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.nopassafterrespringsafe
+Filename: ./debs/vn.tuandb.nopassafterrespringsafe_0.0.2_iphoneos-arm.deb
+Size: 6996
+MD5sum: 5da83bfa54a2c4fe2f7ea0a57e13228b
+SHA1: cd26e9e8022f826ec54a598e6dde32077988d5f2
+SHA256: 794a05d6085f63e5db870afa22094631128fb32454f5e01f05ac1ee0e9ad6dcd
+SHA512: 384ff8e59eea935144698e58d4da67a897913abcedb71c10a04cb4c149b779e854e626bc1b0b5635475e26dd51962f6f251b208f306610c6e292fcef88f87767
+Homepage: https://repo.tuandb.name.vn
+Description: Không cần nhập passcode sau khi respring
+Name: NoPassAfterRespring (Safe)
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.nopassafterrespringsafe
+Author: Brend0n <brendonjkding@126.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta9
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 596
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Conflicts: com.hoangtuan.ntspeed
+Filename: ./debs/vn.tuandb.ntspeed_0.2~beta9_iphoneos-arm.deb
+Size: 58056
+MD5sum: 9b269f088bc1c3042d3eda18c28e74ab
+SHA1: 75a3751e835c684f2530731943943ad29ee918a5
+SHA256: 331c3ceccfe1384256ba2f373b93b90f607f632e53fea1eebe86852cacbbea32
+SHA512: 6e32dc08838deed7ba9851f734aab626211cb1fd8072bdfe45e918301841e6e2bf9b0706ddf9df268b9e692261dae70fa5c1c0e4c99e85e5cbe72d682f89a319
+Homepage: https://repo.tuandb.name.vn
+Description: Hiện tốc độ mạng
+Name: NtSpeed
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ntspeed
+Author: julioverne
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.picsartpremium
+Architecture: iphoneos-arm
+Version: 1.1-2
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 376
+Depends: firmware (>= 12.2), mobilesubstrate
+Filename: ./debs/vn.tuandb.picsartpremium_1.1-2_iphoneos-arm.deb
+Size: 86100
+MD5sum: eec79c108311002ccfcbb52a20a1ad61
+SHA1: 3b08f6959e6d3f47b1c8585225555671b5b620d2
+SHA256: 3bf40e8bfcf45f11950e37787d6175477ad9de9f3ac5f9d8e5b5f9449f4229f3
+SHA512: 7249bc3df6082a09d18e2096d6bc9663cab1f46d2051174753be74f0a3f5ba559f5650323028769f9cf638cb7c5a67ee0be1843b319960db648021830e7fd278
+Homepage: https://repo.tuandb.name.vn
+Description: PicsArt Premium
+Name: PicsArt Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picsartpremium
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.powerselector11
+Architecture: iphoneos-arm
+Version: 1.3.7
+Section: Utilities
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1984
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/vn.tuandb.powerselector11_1.3.7_iphoneos-arm.deb
+Size: 198232
+MD5sum: 602736c9b7d33c3440c7d157dfac683d
+SHA1: 9153cfdb2df3de5a5805bd9c6f2fab6cf9537732
+SHA256: 6470eb6ed8271b87442cf0488564f895c20bc6bf13d02afd28b16a2a53eb8826
+SHA512: d2aaab1b7dec1615e9b325fb556c96539317b5dc06620be68a1791c7a32ed41bd8bc51dbc1ec52fce1a0240dbdf2d1713c9b9d2bfd2911554845205e17d360c7
+Homepage: https://repo.tuandb.name.vn
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3
+Name: PowerSelector
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.powerselector11
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+dev: ichitaso
+
+Package: vn.tuandb.psexpresspremium
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.psexpresspremium
+Filename: ./debs/vn.tuandb.psexpresspremium_1.0.0_iphoneos-arm.deb
+Size: 4716
+MD5sum: 8824533988b3467d37b2029429c8c2f4
+SHA1: 1b7c98d5c5b722dd9173289240f2528e6325481c
+SHA256: d2a583fcf877ff7ac3980b3f7daf235b339f90aea9f2690d997cc18ee07281d1
+SHA512: 298017317fe1fc32a7c4d55b7a8ef901f10851e3f2c1028a2f659b755701d69acacfdfccf651a311cc2bb02fb2e0aeda3888935e8d809ed4acff2064b4c75d3d
+Homepage: https://repo.tuandb.name.vn
+Description: Enables Premium features.
+Name: Adobe Photoshop Express (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.psexpresspremium
+Author: strejda603 <strejda603@centrum.cz>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.safariplus
+Architecture: iphoneos-arm
+Version: 1.7.22
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 5322
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.opa334.libsandy, com.opa334.libundirect (>=1.1.3) | firmware (<<14.0), ws.hbang.common | firmware (>=11.0), com.creaturesurvive.libcscolorpicker | ws.hbang.alderis (>= 1.1)
+Conflicts: 1111111111
+Replaces: 1111111111
+Filename: ./debs/vn.tuandb.safariplus_1.7.22_iphoneos-arm.deb
+Size: 1192964
+MD5sum: c1e8c9109d44503489057b439c536f42
+SHA1: 3145c6599370e3b1eb869f87ea7ba4cce2bfd81b
+SHA256: 87ddd641028993c4a089f92ff430c2626c64e9b27fbfc5489cbb3cb3a0ceb73a
+SHA512: c03a8ef2c0137bb63d1907c1a2904199c6869a2d0b20ee82d0dfdb862fbf63963c3c7b7f6527d32ffbbd15501655642740d337b1b4474686a33416ab90e67b4c
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm tinh chỉnh cho Safari
+Tag: purpose::extension
+Name: Safari Plus VH
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.safariplus
+Author: opa334 <opa334@protonmail.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+dev: opa334
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: vn.tuandb.spotilife
+Architecture: iphoneos-arm
+Version: 1.8
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 677
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.spotilife_1.8_iphoneos-arm.deb
+Size: 111220
+MD5sum: acf630f9cb078f10f1ef244e8079b161
+SHA1: 35d3b8647f987e2676626266db35d9144ae38adf
+SHA256: 406d66c00ffce4f129832746dbbd711ff6c654ad8ac873dea6eacc2d412ad4c5
+SHA512: 281c6d517f7a671667406f6d4ac1f958fa3d6523f9298548ce2c0405a6665d42eb24f751cbedc2db7ed592cbc7538c741d5e408b5053374bb7e4720e661f6e4a
+Homepage: https://repo.tuandb.name.vn
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotify Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.spotilife
+Author: julioverne
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.successionrestore
+Architecture: iphoneos-arm
+Version: 1.4.16~b4
+Section: Utilities
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 2370
+Depends: firmware-sbin, rsync
+Conflicts: com.samgisaninja.successionrestore
+Filename: ./debs/vn.tuandb.successionrestore_1.4.16~b4_iphoneos-arm.deb
+Size: 1009128
+MD5sum: 523d9e3ae5f383b4c1957a8e9390e155
+SHA1: 0446ff6ca2cbfd732c3044c39de841ba1341a321
+SHA256: bc4818f903cbf14c113fb3f0a1f79ca9cf95d1c6eecf61322dd7515ab204de1a
+SHA512: 99dff47dc809e23bbdd95361fd9d11779f8be867b7664be204cf51a0891efc90c1c04cfb55abbf9b5d43225482b3c68c411afb59df4c151fcc1854ee74388605
+Homepage: https://repo.tuandb.name.vn
+Description: Restore without updating via rootfilesystem DMG
+Name: Succession
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.successionrestore
+Author: Samg_is_a_Ninja
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.teraboxpremium
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: HackApps
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.teraboxpremium
+Filename: ./debs/vn.tuandb.teraboxpremium_1.0.0_iphoneos-arm.deb
+Size: 6056
+MD5sum: 8601b391f426e9b561e9c3a1f775178e
+SHA1: 878ef990b01bd69add39c4c0cfeb1d03ef10c2f6
+SHA256: 1c61900a165c775d4df8970dd205d47a83320c1a09c36c1eb615250e63594397
+SHA512: 7cba92248d7c0c2d9a91792d05dc1891042682bfec8de32010cb95378d0e15c1de649e1d746808df73eb8679b5dbfa4711e9d11f09b65844279a082647e23c06
+Homepage: https://repo.tuandb.name.vn
+Description: Enables Premium features.
+Name: TeraBox (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.teraboxpremium
+Author: strejda603 <strejda603@centrum.cz>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.tranzlo.tv
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Localization
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 10
+Filename: ./debs/vn.tuandb.tranzlo.tv_1.5_iphoneos-arm.deb
+Size: 5008
+MD5sum: 08483cc6337a4b570200ce53de93293d
+SHA1: 70b854da20b91666b148c49e286a307f134525c2
+SHA256: b2ee1e8af3bcce4ae0128ec67f662596e006eb7d1ac214bf45d8e070b2fcebbd
+SHA512: c569edead82b300be572ddedc463fdc962284739ddd1cfd813d4f5f1e7b692444a9705a803780e6d5c0eebf331a8e90e0332f50e06a96e09ec25f64a57b0fdbd
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm ngôn ngữ tiếng Việt cho Tranzlo
+Name: Tranzlo (Vietnamese)
+Icon: file:///Library/tuandb.IconRepo/Localization.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.tranzlo.tv
+Author: Hoàng Tuân <contact@tuandb.name.vn>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.u0smscompletefix
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.rpgfarm.u0smscompletefix
+Filename: ./debs/vn.tuandb.u0smscompletefix_1.0.1_iphoneos-arm.deb
+Size: 5944
+MD5sum: 23f3554d2e4f55df76b04551b2e06216
+SHA1: 21ecc33cceb42b24c50e9d4637d26bc4a3fbe406
+SHA256: 497562c2c973603bf159720556358c6eccd224962b4fc65f193e39df09781b4b
+SHA512: 2f139a6207c23b1f231cf68fdf695620ddfca8d2a9103cc82c1826bb0ee4bba44ef3789ad2be7327deecd99519e3d4180fa4107d1175bea934ee11252d7313c4
+Homepage: https://repo.tuandb.name.vn
+Description: Fix sms auto complete
+Name: u0SMSCompleteFix
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.u0smscompletefix
+Author: Baw Appie <pp121324@gmail.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.videoadsspeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 900
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.hoangtuan.videoadsspeed, com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/vn.tuandb.videoadsspeed_1.0.4-3_iphoneos-arm.deb
+Size: 103080
+MD5sum: 900052bbec1afdadd37a68a177f6d7a4
+SHA1: 99f73510d3a0738c543c71eaf3cb056a3b9ea703
+SHA256: 2aa936e12fcbc18ec67d27b584d774ad9f0d13eaf0da8395c183da41ea65aa72
+SHA512: 7b1590eff208e43ac47a08fb75e898a648183d9a44af08d8a48118b09ce6369ad532e450aef82023e8de636015ac305c1b88563237f184e2f4d8d97b9fc23366
+Homepage: https://repo.tuandb.name.vn
+Description: Tua nhanh video Quảng Cáo
+Name: VideoAdsSpeed
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoadsspeed
+Author: lenglengyu <lenglengyu@126.com>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+dev: lenglengyu
+
+Package: vn.tuandb.videoswipes
+Architecture: iphoneos-arm
+Version: 1.4-2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 1059
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.hoangtuan.videoswipes
+Filename: ./debs/vn.tuandb.videoswipes_1.4-2_iphoneos-arm.deb
+Size: 450112
+MD5sum: 069a88823a1b6ed64a43096b9124943d
+SHA1: a6aac3eadc9e712390a200bbcaed04b77bdb9dc7
+SHA256: 4b98f09867fdaecffec5c7454dafcce7b507e4493531626dd7a276a9db0b6ef4
+SHA512: 53a9010155b209f1b08b6d6cb8ff4383619f3cd2a3d8befde771dfd98b276993a48d833bfdd89ae31b2c7c239124f0a6ad21d1704b2ba84729dc27f33735aaaf
+Homepage: https://repo.tuandb.name.vn
+Description: Thêm thao tác vuốt trình phát video
+Name: VideoSwipes VH
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoswipes
+Author: AnthoPak <anthococagne@hotmail.fr>
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.weibonoads
+Architecture: iphoneos-arm
+Version: 1.8-8
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 656
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/vn.tuandb.weibonoads_1.8-8_iphoneos-arm.deb
+Size: 169652
+MD5sum: 530978fc1a5b417fab11575eb1b38819
+SHA1: e8a6bfae1042cbed15290cce9d6af87d71bd894e
+SHA256: 42c788c95f25f29f499d8072961389e5273cff9c9b1570f5b82eba51803b6665
+SHA512: 90f20fc8e84a027444a992f96c664730298a6ed5e764bfa713c2527a7d206000ce0e788e75936a22bb0781a3f2f858d3c30d83c3a090f1a08eb5fefbb8f3411c
+Homepage: https://repo.tuandb.name.vn
+Description: Xoá quảng cáo và tải video Weibo
+Name: Weibo NoAds
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.weibonoads
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.wifikey
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Utilities
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 168
+Conflicts: com.hoangtuan.wifikey
+Filename: ./debs/vn.tuandb.wifikey_1.8_iphoneos-arm.deb
+Size: 26560
+MD5sum: a6b63d789696282f3eb0a1eadb306540
+SHA1: 3abf494a9ac8d1f832f01344a51989e2306f74c4
+SHA256: 608c814ca9340aa52dd3d9d74156ee25b7dc8d8afdd026eb001d37d0d0a96bf5
+SHA512: 60c4f2e8de54d971d6326677990624bac60a19fc7ee7d66274c389f31a23f77aae7db0327d80e6aae27ad01b40a9c1e0050bfab552354930756f7a469341d3d5
+Homepage: https://repo.tuandb.name.vn
+Description: Xem và chia sẻ mật khẩu wifi
+Name: WiFi Key
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wifikey
+Author: fahlnbg
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.youtubenoads
+Architecture: iphoneos-arm
+Version: 1.2-2
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.hoangtuan.youtubenoads
+Filename: ./debs/vn.tuandb.youtubenoads_1.2-2_iphoneos-arm.deb
+Size: 65960
+MD5sum: a75756e26baf7e0afea39bc9b21e5841
+SHA1: d49f22cdf014f8d52b9217847cff58bfc4eafea9
+SHA256: d21c7e0c69d0bbbe4ad034bd6ff3e9896b8673d54533cc5ffd7d0b24d7aa0109
+SHA512: 1800d7683baef10ea3dbda53bd40bf29f97d91242dc0eba8b92431b4e77aba2b211d02a9a08c840e7b27ea8e939d530fe3303e83cf0ac0a9bf49f42f70192d70
+Homepage: https://repo.tuandb.name.vn
+Description: Xóa quảng cáo và phát nền video Youtube
+Name: YouTube NoAds
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.youtubenoads
+Author: Netskao
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ytnoupdate
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 144
+Depends: mobilesubstrate
+Conflicts: com.hoangtuan.ytnoupdate
+Filename: ./debs/vn.tuandb.ytnoupdate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10936
+MD5sum: 2ffa5d69e6396517541183a7c5d6b690
+SHA1: 6451aba69d970d915b6e5010d48b80b5e25fe089
+SHA256: 1ff4fe898a37b6f2a6ba0a12e961b13bca53aaf48e1fb63c959a12e3e688ac8b
+SHA512: ac70230f414607733758fe16cf239697fb1f61a4017af08d33b33bff11b3f87d6ab1ea2cac6505e95a60d3a4cb480a197476bb6c8528239cd36b7cd4c7134b79
+Homepage: https://repo.tuandb.name.vn
+Description: Disables upgrade dialog that pops up when running YouTube app on older iOS. Tested on iPad Air 1 running iOS 8.4 and YouTube app version 12.11.6
+Name: YouTube - Disable Update
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ytnoupdate
+Author: fahlnbg
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.zsign
+Architecture: iphoneos-arm
+Version: 1.1-8.3
+Section: Development
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Installed-Size: 4728
+Depends: firmware (>= 12.2), zip, unzip
+Conflicts: com.hoangtuan.zsign
+Filename: ./debs/vn.tuandb.zsign_1.1-8.3_iphoneos-arm.deb
+Size: 1231392
+MD5sum: c95368ff03577fd91f1df038992a14f7
+SHA1: 42550a715a02841393b95fddd050da91c1cac850
+SHA256: a60d526a49e5effc8e24c3cf6becdb51e3f12340f9399bd783091eaa011d85be
+SHA512: 13871d2c6f5e7a7aa86c5934eae7648bfe10b4ccc6665b439ff40accd44fc0d4b014476e06145a4eacb678bb710f9f1c3c0ef06a79f8b213f4b8d0b7be650a84
+Homepage: https://repo.tuandb.name.vn
+Description: Ký chứng chỉ cho IPA
+Name: zsign IPA
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.zsign
+Author: zhlynn
+Support: Hoàng Tuân <contact@tuandb.name.vn>
+

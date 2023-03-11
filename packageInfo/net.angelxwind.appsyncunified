@@ -1,0 +1,9 @@
+{
+	"name": "AppSync Unified",
+	"desc_short": "Enables the ability to install unsigned/fakesigned iOS applications.",
+	"desc_long": null,
+	"compatitle": "iOS 5.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

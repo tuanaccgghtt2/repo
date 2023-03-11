@@ -1,0 +1,9 @@
+{
+	"name": "Safari Plus VH",
+	"desc_short": "Thêm tinh chỉnh cho Safari",
+	"desc_long": "<p><b><i>Lưu ý:</i></b></p><p>Với chế độ tải ngay lập tức. Khi tải file (nhất là tải link GoogleDrive) lúc tải nó sẽ không load hoặc lỗi thì bạn chỉ cần tạm dừng rồi tải lại là được</p>",
+	"compatitle": "iOS 8.0 đến iOS 14.8",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009825458419929248/safariplus-img1.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009825458419929248/safariplus-img1.png'></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009827201824329789/safariplus-img2.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009827201824329789/safariplus-img2.png'></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009827214415626370/safariplus-img3.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009827214415626370/safariplus-img3.png'></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009827229724852276/safariplus-img4.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009827229724852276/safariplus-img4.png'></a><br></div>",
+	"open": true,
+}

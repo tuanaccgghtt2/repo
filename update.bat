@@ -1,0 +1,1 @@
+bash -c "cd /mnt/d/GitHub/repo; chmod +x ./update.sh; sed -i 's/\r//' ./update.sh; ./update.sh;"

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0MPDPCSJC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F0MPDPCSJC');
+  </script>
+
+  <!-- <noscript>
+    <link rel="stylesheet" href="/css/ios7.min.css?_=f" type="text/css" />
+  </noscript> -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Hoàng Tuân Repository</title>
+  <link rel="stylesheet" href="./css/main.css" type="text/css" />
+  <link rel="icon" type="image/png" href="./img/logo02_120x120.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- HTML Meta Tags -->
+  <meta name="description" content="Kho lưu trữ Cydia - Jailbreak của Hoàng Tuân">
+  <meta name="keywords" content="hoangtuan repo, hoang tuan repo, Hoàng Tuân Repo, repo hoang tuan, repo hoangtuan, tuandb repo, repo tuandb, tuandb">
+  <meta name="author" content="tuandb">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-title" content="Hoàng Tuân Repository">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- FB,TW Meta Tags -->
+  <meta property="og:url" content="https://repo.tuandb.name.vn/">
+  <meta property="og:title" content="Hoàng Tuân Repository">
+  <meta property="og:site_name" content="Hoàng Tuân Repository">
+  <meta property="og:description" content="Kho lưu trữ Cydia - Jailbreak của Hoàng Tuân">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://repo.tuandb.name.vn/img/logo02_500x500.png">
+  <meta property="twitter:domain" content="repo.tuandb.name.vn">
+  <meta property="twitter:url" content="https://repo.tuandb.name.vn/">
+  <meta property="twitter:card" content="summary">
+  <meta property="twitter:title" content="Hoàng Tuân Repository">
+  <meta property="twitter:description" content="Kho lưu trữ Cydia - Jailbreak của Hoàng Tuân">
+  <meta property="twitter:image" content="https://repo.tuandb.name.vn/img/logo02_500x500.png">
+  <!-- Google / Search Engine Tags -->
+  <meta itemprop="name" content="Hoàng Tuân Repository">
+  <meta itemprop="description" content="Kho lưu trữ Cydia - Jailbreak của Hoàng Tuân">
+  <meta itemprop="image" content="https://repo.tuandb.name.vn/img/logo02_500x500.png">
+</head>
+<body onload="loadPackageInfo();loadPackages();">
+  <header role="banner">
+    <h1>
+      <div class="header-banner">
+        <img src="./img/logo02_120x120.png" width="30" height="30" />
+        <a class="header-banner_color" href="https://repo.tuandb.name.vn/">Hoàng Tuân Repository</a>
+      </div>
+    </h1>
+  </header>
+
+  <main id="content">
+<!--
+      <h2 >Giao diện</h2>
+        <ul>
+          <li>
+            <a onclick="toogleTheme();" role="button">
+              <p>Thay đổi giao diện (Sáng/Tối)</p>
+            </a>
+          </li>
+        </ul>
+ -->
+    <span id="showAddRepo_" hidden>
+      <h2 >Kho lưu trữ Cydia - Jailbreak</h2>
+      <ul>
+        <li class="has-icon">
+          <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.tuandb.name.vn/" role="button" id="open_cydia">
+            <img class="icon" href="./img/cydia7.png" alt="" srcset="./img/cydia7.png 2x, ./img/cydia7.png 3x" /><label>Thêm nguồn của tôi vào Cydia</label>
+          </a>
+        </li>
+      </ul>
+      <p class="repo_add" role="footer">https://repo.tuandb.name.vn/</p>
+    </span>
+    <noscript>
+      <h2></h2>
+      <ul style="background:#ff0000"><center><li><p>Lỗi !!! JavaScript đã bị Tắt.</p></li></center></ul>
+    </noscript>
+
+    <span id="tweakStatusInfo">
+      <h2></h2>
+      <ul style="background:#c6e8ff"><center><li><p id="errorInfo">Đang tải mô tả...</p></li></center></ul>
+    </span>
+
+    <span id="desc_short_" hidden>
+      <h2 id="name" hidden></h2>
+      <ul style="background:#c6e8ff"><center><li><p id="desc_short"></p></li></center></ul>
+    </span>
+
+    <span id="compatitle_" hidden>
+      <ul style="background:#00ff24"><center><li><p><i>Tương thích với <span id="compatitle"></span></i></p></li></center></ul>
+      <p role="footer" class="cur_ios"></p>
+    </span>
+
+    <span id="warning_" hidden>
+      <ul style="background:#ffff80"><center><li><p><span id="warning"></span></p></li></center></ul>
+    </span>
+
+    <span id="screenshot_" hidden>
+      <h2>Hình ảnh</h2>
+      <ul><li><p id="screenshot"></p></li></ul>
+    </span>
+
+    <span id="desc_long_" hidden>
+      <h2>Mô tả</h2>
+      <ul><li><p id="desc_long"></p></li></ul>
+    </span>
+
+    <span id="changelog_" hidden>
+      <h2>Phiên bản</h2>
+      <ul><li><p id="changelog"></p></li></ul>
+    </span>
+
+    <span class="pkinfo" id="pkg_" hidden>
+      <h2 >Thông tin gói</h2>
+      <ul>
+        <li><p>Name:<span class="value" id="pkg_name">-</span></p></li>
+        <li><p>Package:<span class="value" id="pkg_id">-</span></p></li>
+        <li><p>Section:<span class="value" id="pkg_section">-</span></p></li>
+        <li><p>Version:<span class="value" id="pkg_version">-</span></p></li>
+        <li><p>Size:<span class="value" id="pkg_size">-</span></p></li>
+        <li><p>Installed-Size:<span class="value" id="pkg_installedsize">-</span></p></li>
+        <li><p>Last Updated:<span class="value" id="pkg_time">-</span></p></li>
+        <!-- <li><p>Time:<span class="value" id="pkg_timestamp">-</span></p></li> -->
+      </ul>
+    </span>
+
+    <h2>Donate / Ủng hộ</h2>
+    <ul>
+      <li>
+        <center>
+          <p>Qua <b style="color:blue">Pay</b><b style="color:#668cff">Pal</b></p><br />
+          <a href="https://www.paypal.me/hoangtuan09" target="_blank">
+            <img src="./img/donate-pay.png" alt="Donate PayPal" border="0" />
+          </a>
+        </center>
+      </li>
+      <li>
+        <center>
+          <p>Qua Tài khoản Ngân hàng</p><br />
+          <a href="https://www.tuandb.name.vn/donate" target="_blank">
+            <img src="./img/donate-bank.png" alt="Donate Bank" border="0" />
+          </a>
+        </center>
+      </li>
+    </ul>
+
+    <h2>Website</h2>
+    <ul>
+      <li class="has-icon">
+        <a href="https://www.ipa.tuandb.name.vn/" target="_blank" role="button">
+          <img alt="Web" srcset="./img/web.png 2x, ./img/web.png 3x" class="icon" /><label>iPA Library</label>
+        </a>
+      </li>
+      <li class="has-icon">
+        <a href="https://www.jb.tuandb.name.vn/" target="_blank" role="button">
+          <img alt="Web" srcset="./img/web.png 2x, ./img/web.png 3x" class="icon" /><label>Ra1nUSB_HT</label>
+        </a>
+      </li>
+    </ul>
+
+    <h2 >Mạng xã hội</h2>
+    <ul>
+      <li class="has-icon">
+        <a href="https://www.facebook.com/tuandb18" target="_blank" role="button">
+          <img alt="Facebook" srcset="./img/facebook.png 2x, ./img/facebook.png 3x" class="icon" /><label>Facebook - Follow me</label>
+        </a>
+      </li>
+      <li class="has-icon">
+        <a href="https://zalo.me/qq_robert" target="_blank" role="button">
+          <img alt="Zalo" srcset="./img/zalo.png 2x, ./img/zalo.png 3x" class="icon" /><label>Zalo - Message me</label>
+        </a>
+      </li>
+      <li class="has-icon">
+        <a href="https://t.me/tuandb" target="_blank" role="button">
+          <img alt="Telegram" srcset="./img/telegram.png 2x, ./img/telegram.png 3x" class="icon" /><label>Telegram - Message me</label>
+        </a>
+      </li>
+      <li class="has-icon">
+        <a href="mailto:contact@tuandb.name.vn" target="_blank" role="button">
+          <img alt="Email" srcset="./img/email.png 2x, ./img/email.png 3x" class="icon" /><label>contact@tuandb.name.vn</label>
+        </a>
+      </li>
+      <li class="has-icon">
+        <a href="mailto:contact.tuandb@gmail.com" target="_blank" role="button">
+          <img alt="Gmail" srcset="./img/gmail.png 2x, ./img/gmail.png 3x" class="icon" /><label>contact.tuandb@gmail.com</label>
+        </a>
+      </li>
+    </ul>
+    <span id="updates_" hidden><h2 >Cập nhật gần đây</h2><ul id="updates"></ul></span>
+    <span id="browser_" hidden><h2 >Duyệt qua các gói</h2><ul id="browser"></ul></span>
+    <p id="credits">Copyrights © 2020 - 2023 Hoàng Tuân</p>
+  </main>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="./js/info.js"></script>
+</body>
+</html>
