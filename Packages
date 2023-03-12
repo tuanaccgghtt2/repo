@@ -223,6 +223,26 @@ Author: Karen/あけみ
 Name: AppSync Unified Transitional Package
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional
 
+Package: net.cadoth.otaenabler
+Architecture: iphoneos-arm
+Version: 0.4.2
+Section: System
+Maintainer: alexia <me@alexia.lol>
+Installed-Size: 0
+Depends: awk | gawk, com.bingner.plutil, file-cmds
+Conflicts: com.apple.memecity, jp.akusio.kernbypass, jp.akusio.kernbypassbeta, jp.akusio.kernbypass-unofficial
+Filename: ./debs/backup/net.cadoth.otaenabler_0.4.2_iphoneos-arm.deb
+Size: 1892
+MD5sum: 34b5dbd95f03fc1bc1832660051ba24d
+SHA1: f1eaf9cc16ed7aec79078e384d3fdf6c42465c75
+SHA256: d5f0b690ee2131cb21db0b88f8edce4cd89c6a487729a9c31bcfdc670f5739f4
+SHA512: dfc6591d205ab469b4ce90c188d951f76f4840f421b251e4694f699ed33174269b68b6bd2026bde1e9b998fa4b3de748261f0f82d39194f01af94f1d0e7116bb
+Description: Re-enable OTA software updates blocked by various methods
+Name: OTAEnabler
+Depiction: https://repo.alexia.lol/depictions/net.cadoth.otaenabler
+SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.otaenabler
+Author: alexia <me@alexia.lol>
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.2.2-1
