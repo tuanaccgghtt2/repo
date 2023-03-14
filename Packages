@@ -185,6 +185,26 @@ Description: Tool for decrypting iOS apps and Mach-O binaries.
 Name: flexdecrypt
 Author: John Coates
 
+Package: h.ryan.youtubereborn
+Architecture: iphoneos-arm
+Version: 4.0.9
+Section: Tweaks
+Maintainer: Lillie
+Installed-Size: 24876
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/backup/h.ryan.youtubereborn_4.0.9_iphoneos-arm.deb
+Size: 9050400
+MD5sum: 68dcb156b4c296edc57c910dac9b323d
+SHA1: 9ec49d6ccdd9de9418d2b369055e7290d08e551c
+SHA256: d7a00f2a91d84e5953e908e525d8cd39cbee0fb48574686543663a5d3b4d12ff
+SHA512: e2f0093779c8dd849e8a7baee77c33ba55a542625dc5f2d8e804ebcdee4ad21a68dedfb3c97f8aeea3510ca38b711d7f4ad7fa6aa1851c8140ab6a97f515f4c2
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
+
 Package: me.alfhaily.opencli
 Architecture: iphoneos-arm
 Version: 1.0.0
