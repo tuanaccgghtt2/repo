@@ -1429,17 +1429,17 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.weibonoads
 Architecture: iphoneos-arm
-Version: 1.8-9
+Version: 1.9-1
 Section: Tweaks
 Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 672
+Installed-Size: 656
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/vn.tuandb.weibonoads_1.8-9_iphoneos-arm.deb
-Size: 170656
-MD5sum: 0e4736e4a49de124e3025961144472b7
-SHA1: 077fa45f63d8ccdf68259d7a2363548ae87f7b46
-SHA256: 7a75ffcdc4da3fdb14e3733472eba92125abae401f3279ab526e0caf0baf873e
-SHA512: 954b17f3a2588d69f8fd461d8b51d0a7ce7de0673deaa83417be3d887f7acd6f60030da73aa7f29cde0e3e0cb3f89d8ad80bc29bbf21f240b4167e5392ab1f42
+Filename: ./debs/vn.tuandb.weibonoads_1.9-1_iphoneos-arm.deb
+Size: 165140
+MD5sum: 48d27ed9004c241d940c2594f4552f50
+SHA1: 44b24eb26473966c496b42c95b6061ea05ba3c42
+SHA256: 05bc2e11cd679236e08d6a1251ef9da3d42f024037ca4e77fdd2ff663f1d61cf
+SHA512: b6e4fec9b5603518fa32452ec6b20d9d60a3bed80c3d6903d234e8b466ed16835763e9e45b354a2324ce9785e504d13be15fdafaa93b6c2f2399ac2abb2dcaf8
 Homepage: https://repo.tuandb.name.vn
 Description: Xoá quảng cáo và tải video Weibo
 Name: Weibo NoAds
