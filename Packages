@@ -966,14 +966,12 @@ Section: HackApps
 Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
 Installed-Size: 588
 Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: 1111111111
-Replaces: 1111111111
 Filename: ./debs/vn.tuandb.kwyycrack_1.4-6_iphoneos-arm.deb
-Size: 144336
-MD5sum: 7ae781a41a731dec9425dd39fff11905
-SHA1: 6ff158b10ebd10a1429d712d797e71680e7fdb7e
-SHA256: e3b1953d380b4e53aa4cd2d73d06a9f1f1a1a86f14d836c0cc87fc20ab60f193
-SHA512: cfadeaf3e24ebc886c7828a7d617cf18176f0ccd23322eff941b39503e9185f3404a93dddb1d79b6debbfb5cd2c97e86a43a87cf06380941f82ef1f71c5ebd9d
+Size: 144324
+MD5sum: 93b87860f9f05ba1ff1143e9e27ebddd
+SHA1: 120c2767cfc7d5f8919b7e02370d917e88fb49b4
+SHA256: 6f4d441df1a7d207c41684b7ec899846435d6af56e3cf2274b097ab82410ae26
+SHA512: 4f8abf5c0f9572ec26c8ea7e323262f745f4ffedfeef99bde39a288b18d2d2970cfeff4cfb11840d24a0870e16ef3828db24250e3cf5d53e9da172db9d1a2769
 Homepage: https://repo.tuandb.name.vn
 Description: Mở Khóa Premium Cho Kuwo Music
 Name: Kuwo Crack
