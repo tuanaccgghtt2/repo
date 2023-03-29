@@ -768,14 +768,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 348
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.douyinpatch_1.0_iphoneos-arm.deb
-Size: 12428
-MD5sum: c9e4f5fe3d8bbf8fcb61b8c23afb6fa9
-SHA1: 104e48791812bb6a1e44077658b1c9b32572de0a
-SHA256: 483682d5be9d8ef8ae44089ffd36d04f5e12cb2395f53e35ecd64c63b59baf43
-SHA512: 7deba9f1ef7ff69c1b3079aa3c284e4fc47df88717848cd28d942b4f34d4512a52a3f8c3e1d123438cec6f136c6de99e4b4bdc8a7e4791be1868c499231c51f2
+Size: 12412
+MD5sum: 24f460263571d7fe4064717591a10ffe
+SHA1: 466467368c2ae693f424aad943e7037dc7646551
+SHA256: 16fc3224b8bb466e305665a6642e812f9c8eee4bf0fca5deb4f0852099d3040b
+SHA512: 088efb666d8a61a2ae49cad6f3c9ae76db4bf484fece072c055db6b3431e18e79c0579896fec96072822a1ff6e045c676ec9e21beb75670013ec4d350944f291
 Homepage: https://repo.tuandb.name.vn
 Description: Thêm tính năng cho Douyin
-Name: Douyin++ 《抖音++》
+Name: Douyin++
 Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.douyinpatch
 Author: tuandb <contact@tuandb.name.vn>
