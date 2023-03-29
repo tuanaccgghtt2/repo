@@ -116,6 +116,27 @@ Author: Riley Testut <support@altstore.io>
 Icon: https://cdn.chariz.cloud/icon/altdaemon/icon@3x.png
 Depiction: https://chariz.com/get/altdaemon
 
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta1
+Section: System
+Maintainer: Kênh Táo
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/backup/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm.deb
+Size: 38356
+MD5sum: 81e0ab822b4606aa07766a89a3743517
+SHA1: 8af4a982625293d5ccdf11955a382390be724e5e
+SHA256: 4596a84d9bcafd367bf33cd48cbe6db989f66f9baa9f3054b1f085645b84e15f
+SHA512: 2c0de8c03ae1342b9b82f1b470071175516783c482f01f1f55a283988dd43da2e7e35157933b85ccde77ce58bcae0432094dee144f9e9fccf88b981db4efd613
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/com.rpetrich.rocketbootstrap
+Depiction: https://repo.kenhtao.net/view/4671
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm
 Version: 1.8.1-10
