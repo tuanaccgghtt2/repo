@@ -1,7 +1,7 @@
 {
 	"name": "Flex To Theos",
 	"desc_short": "Turn Flex 3 patches into Theos projects",
-	"desc_long": "Dùng lệnh ftt với quyền root",
+	"desc_long": "Dùng lệnh ftt trong Terminal",
 	"compatitle": "iOS ≥ 11.0",
 	"changelog": null,
 	"screenshot": null,
