@@ -1639,25 +1639,24 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.teraboxpremium
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.1
 Section: HackApps
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Conflicts: com.hoangtuan.teraboxpremium
-Filename: ./debs/vn.tuandb.teraboxpremium_1.0.0_iphoneos-arm.deb
-Size: 6056
-MD5sum: 8601b391f426e9b561e9c3a1f775178e
-SHA1: 878ef990b01bd69add39c4c0cfeb1d03ef10c2f6
-SHA256: 1c61900a165c775d4df8970dd205d47a83320c1a09c36c1eb615250e63594397
-SHA512: 7cba92248d7c0c2d9a91792d05dc1891042682bfec8de32010cb95378d0e15c1de649e1d746808df73eb8679b5dbfa4711e9d11f09b65844279a082647e23c06
+Filename: ./debs/vn.tuandb.teraboxpremium_1.1_iphoneos-arm.deb
+Size: 4160
+MD5sum: ba69d16cd21ae712a010d5ee0144301b
+SHA1: c038d4c9dc13cefeca7fcd6ccc15be3c780f6a70
+SHA256: 90c993867c066f3813d9f4a8336772b147da522464130d1a21ad4cd821cbd18a
+SHA512: 1798635634a0285fe8ac202216f3c1c3c17820d312908d6e465b232f0433e7cf4f874d328a69e8d9e54036e0c42841b9b9f4a1d98b2911ff6eb18d5e6c1ed883
 Homepage: https://repo.tuandb.name.vn
-Description: Enables Premium features.
-Name: TeraBox (Premium)
+Description: Enable Premium Version
+Name: TeraBox Premium
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.teraboxpremium
-Author: strejda603 <strejda603@centrum.cz>
-Support: Hoàng Tuân <contact@tuandb.name.vn>
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.timecutvip
 Architecture: iphoneos-arm
