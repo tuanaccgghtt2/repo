@@ -96,6 +96,28 @@ Name: appinst (App Installer)
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/com.linusyang.appinst
 
+Package: com.randy420.tools
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2215
+Depends: ws.hbang.common, preferenceloader
+Filename: ./debs/backup/com.randy420.tools_2.1_iphoneos-arm.deb
+Size: 806628
+MD5sum: 2ee7847b231c42cb763db6a56e185a05
+SHA1: 1b47f0a4bb3f5e883b1b8cf706c4dc203c9bfe2b
+SHA256: fd2f8f01722ad582c98fc49b143c93dab51c9938f3cea09855c7c4e3c7409425
+SHA512: 19d2c7f7fb76c317bfddf58a1daa271b754e9ae5408956ce9c572ec4411008e5777eb4cd93a0bf8109ce0034643077ebf138a47b072f0afc8f553d94800ae184
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Description: Tools for Randy420's tweaks
+Tag: role::developer, purpose::library
+Author: Randy420 <randy.skinner28@outlook.com>
+Name: 420 Tools
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: randy420
+
 Package: com.rileytestut.altdaemon
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -301,6 +323,27 @@ SHA512: bc10f67e9665195c2cd7928b898d6c58c06c31d87af3e2e954435e4991b92016c49df809
 Description: Utility for creating and editing Apple property list files.
 Tag: role::hacker
 Author: Samuel Bingner
+
+Package: preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./debs/backup/preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 36516
+MD5sum: 032c7372180eaedc7611e89cd5254675
+SHA1: aa0e86ef9684f4fd697623377e364eb131543fb9
+SHA256: 7bd72492b1a7b243ea8965ff1ce6b4682a6c150fad25b3c2508ea14f87c5c173
+SHA512: 90a1508aab6961174c62c7cb48d25ccc1c642db9ab100c4531752bdb7e2d09e20e444b87debae76d30dd71d1183b830b0ce697edb6ffe4205bf21ac945e66d48
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Name: PreferenceLoader
+Author: Sam Bingner <maintainer@sbdhi.com>
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 
 Package: com.alaise.azule
 Architecture: iphoneos-arm
@@ -952,29 +995,54 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.filzacrack
 Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
-Package: vn.tuandb.Flex3beta
+Package: vn.tuandb.flex3
 Architecture: iphoneos-arm
-Version: 1:3~Beta98
-Section: Tweaks
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 34600
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Version: 1:3~Beta100
+Section: Utilities
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 38000
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0), vn.tuandb.flex3fix
 Recommended: com.rpetrich.rocketbootstrap
-Conflicts: Flex3beta, Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flex3beta, Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/vn.tuandb.flex3beta_3~Beta98_iphoneos-arm.deb
-Size: 9919240
-MD5sum: 5482e86365960296e2a2f03f427885b3
-SHA1: d2a18d49543a7737a0d5bf0ee22b6013588f0018
-SHA256: cb2619a6382f40efa955509027c91e6f07859050f2b306a6a424e4efd6f8a814
-SHA512: 3d5634bb5ae3d43ad00f7ce76720fa6b406da4403476bafa0dddc6f117faf8f400d5ed543276363c6f1898afc03cc3ee9fe34342b111e8f69185bdee31713fb7
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly, Flex3beta, com.lailaazmi.flex3, com.lailaazmi.flex3fix
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly, Flex3beta
+Filename: ./debs/vn.tuandb.flex3_3~Beta100_iphoneos-arm.deb
+Size: 10268580
+MD5sum: 61c3d435aca43da89d5aa5d7a608b8f0
+SHA1: a93e987a26149d25849da332fcc137120a2afba0
+SHA256: 97ff1362e44cdc972734c60de15abf50116172da8ad6098753dd451247c77c48
+SHA512: 850c8213c61e9b6a1e842c0fe4be0af67b8c8e065a596909bfde1ea4f0e3a5106a5518ccdec772c701781fa3ea50643af7e54cce5222e352405de99b99523c66
 Homepage: https://repo.tuandb.name.vn
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Name: Flex 3 Beta
-Icon: file:///Library/tuandb.IconRepo/Tweaks.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.Flex3beta
+Description:
+   •FIXED FOR IOS 13 - 14 - 15
+   •Develop your own tweaks and share
+   •Them on the Flex Community Cloud
+Name: Flex 3
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.flex3
 Author: John Coates
-Support: Hoàng Tuân <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.flex3fix
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Utilities
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 264
+Depends: mobilesubstrate, vn.tuandb.flex3
+Conflicts: com.lailaazmi.flex3fix, com.lailaazmi.flex3
+Filename: ./debs/vn.tuandb.flex3fix_1.2.3_iphoneos-arm.deb
+Size: 4572
+MD5sum: 1970d95f299fc7a4453e9b201971d883
+SHA1: 40180f6bc40709f72cba9027dd5e1e4b410ab271
+SHA256: e2e25695756fd17beeec0a464301b21f930e12d70b5d2b69edbe929e65f3ec4b
+SHA512: 88b15220dea272905948de5cf1447f5e3bd1851b6a74611776e1f7496a69d19ac64f3e4182459cb206ca542d9e1a723f0d9ea53b674d260cf07aa6797a456444
+Homepage: https://repo.tuandb.name.vn
+Description: •Fixed Errors and Crash While extracting the application. •Unlimited editing features and more.
+Name: Flex 3 Fix
+Icon: file:///Library/tuandb.IconRepo/Utilities.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.flex3fix
+Author: Lailaazmi <(lailaazmi@my.com)>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.flyjbx
 Architecture: iphoneos-arm
@@ -1017,6 +1085,28 @@ Name: Fotor Pro
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fotorpro
 Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ftt
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Tweaks
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 359
+Depends: mobilesubstrate, com.randy420.tools (>=1.7)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/vn.tuandb.ftt_0.6_iphoneos-arm.deb
+Size: 43104
+MD5sum: 3a4667086211d7316c3d5eb97515e5d8
+SHA1: e6a06db9ef6a40ccd9934c77d90ad2c018e75bdd
+SHA256: 4d0e1549c985e0cdf32ec8f73ded10fdfe21f0be31ffa4ea09d698340a3aaf9f
+SHA512: c6fd1e0c969bcf1b02ab9e5b9e62e44292cd32c622b2c05a0bf5124d2f8b534d67be60f80adf17f67d54906d1450637cadb8bca11b9468f07a07af8b70a6aeef
+Homepage: https://repo.tuandb.name.vn
+Description: Turn Flex 3 patches into Theos projects
+Name: Flex To Theos
+Icon: file:///Library/tuandb.IconRepo/Tweaks.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ftt
+Author: ipad_kid_Randy420 <repo@hackyouriphone.org>
 Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.goodwifi
