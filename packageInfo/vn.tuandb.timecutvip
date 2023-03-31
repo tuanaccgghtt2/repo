@@ -1,0 +1,9 @@
+{
+	"name": "TimeCut VIP",
+	"desc_short": "Enable VIP Version",
+	"desc_long": null,
+	"compatitle": "iOS ≥ 8.0",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1091403054059884736/Time_Cut.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1091403054059884736/Time_Cut.png'/></a><br></div>",
+	"open": true,
+}

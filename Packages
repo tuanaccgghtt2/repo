@@ -1659,6 +1659,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.teraboxpremium
 Author: strejda603 <strejda603@centrum.cz>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.timecutvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.timecutvip_1.0_iphoneos-arm.deb
+Size: 4708
+MD5sum: 6511305ab61e7056a68db3d427f183fc
+SHA1: fb036881bbe144543f900d92d72c227c8d0264f0
+SHA256: 5ee51c1975700356b8a7717ebc80a85edaa1901199dbdf5acc6dd48d76dab4ba
+SHA512: 4744289194d374ea58021d044fe030cf58a9e934715695d45ac4168f9380b79e45a673e69fda97bf189c618ecb1c7fe119bbedbebd48f6b84a44c5e0c4c6d9a7
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: TimeCut VIP
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.timecutvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.tranzlo.tv
 Architecture: iphoneos-arm
 Version: 1.5
