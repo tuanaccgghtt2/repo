@@ -2,7 +2,7 @@
 	"name": "Facetune VIP",
 	"desc_short": "Enable VIP Version",
 	"desc_long": null,
-	"compatitle": "iOS 10.0 đến iOS 15.x",
+	"compatitle": "com.lightricks.Facetune2",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

@@ -2,7 +2,7 @@
 	"name": "Amber",
 	"desc_short": "Đèn LED màu vàng",
 	"desc_long": "<p>Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng.</p><hr /><p>Vào<b> Cài đặt, </b>đi đến<b> Trung Tâm điều khiển </b>và thêm<b> Amber </b>để sử dụng</p>",
-	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"compatitle": "iOS ≥ 11.0",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009829728062013512/amber-img1.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009829728062013512/amber-img1.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009829744096845894/amber-img2.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009829744096845894/amber-img2.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009829751931805716/amber-img3.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009829751931805716/amber-img3.png'/></a><br></div>",
 	"open": true,

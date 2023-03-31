@@ -2,7 +2,7 @@
 	"name": "flexdecrypt",
 	"desc_short": "Tool for decrypting iOS apps and Mach-O binaries.",
 	"desc_long": null,
-	"compatitle": "iOS >=12.2",
+	"compatitle": "iOS ≥ 12.2",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

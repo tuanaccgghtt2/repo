@@ -2,7 +2,7 @@
 	"name": "CPU-x Pro",
 	"desc_short": "Enable Pro Version",
 	"desc_long": null,
-	"compatitle": "iOS 10.0 đến iOS 15.x",
+	"compatitle": "com.benchu.ARMCPUZ",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1091337858675126432/CPU-x.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1091337858675126432/CPU-x.png'/></a><br></div>",
 	"open": true,

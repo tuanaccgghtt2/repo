@@ -2,7 +2,7 @@
 	"name": "WiFi Key",
 	"desc_short": "Xem và chia sẻ mật khẩu wifi",
 	"desc_long": null,
-	"compatitle": "iOS 11.0 đến iOS 14.8",
+	"compatitle": "iOS ≥ 11.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

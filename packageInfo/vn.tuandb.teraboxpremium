@@ -2,7 +2,7 @@
 	"name": "TeraBox (Premium)",
 	"desc_short": "Kích hoạt Premium cho TeraBox",
 	"desc_long": null,
-	"compatitle": "iOS 12.0 đến iOS 14.8",
+	"compatitle": "iOS ≥ 12.0",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009835436916625538/terabox-img1.jpg' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009835436916625538/terabox-img1.jpg'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009835449302396989/terabox-img2.jpg' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009835449302396989/terabox-img2.jpg'/></a><br></div>",
 	"open": true,

@@ -2,7 +2,7 @@
 	"name": "appinst (App Installer)",
 	"desc_short": "Install IPAs from the command line",
 	"desc_long": "<b>Command-line IPA app installer.</b><br />App Installer is a command-line utility to install .ipa packages. Requires AppSync Unified to install unsigned/fakesigned/self-signed apps",
-	"compatitle": "iOS >=5.0",
+	"compatitle": "iOS ≥ 5.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

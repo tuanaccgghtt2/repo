@@ -2,7 +2,7 @@
 	"name": "Flex 3 Fix",
 	"desc_short": "Fix Flex 3",
 	"desc_long": "• Fixed Errors and Crash...<br>- While extracting the application<br>• Unlimited editing features and more.",
-	"compatitle": "iOS 8 đến iOS 15",
+	"compatitle": "iOS ≥ 8.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

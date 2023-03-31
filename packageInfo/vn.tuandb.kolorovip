@@ -2,7 +2,7 @@
 	"name": "Koloro VIP",
 	"desc_short": "Enable VIP Version",
 	"desc_long": null,
-	"compatitle": "iOS 10.0 đến iOS 15.x",
+	"compatitle": "org.skydomain.foodcamera",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1091337859425906708/Koloro.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1091337859425906708/Koloro.png'/></a><br></div>",
 	"open": true,

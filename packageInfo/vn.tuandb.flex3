@@ -2,7 +2,7 @@
 	"name": "Flex 3",
 	"desc_short": "Tạo và cài đặt Patcher (Tương tự như Tweaks)",
 	"desc_long": null,
-	"compatitle": "iOS 9 đến iOS 15",
+	"compatitle": "iOS ≥ 9.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

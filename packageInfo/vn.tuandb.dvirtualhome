@@ -2,7 +2,7 @@
 	"name": "DVirtualHome VH",
 	"desc_short": "Nút Home thành cảm ứng",
 	"desc_long": "Cần bật Tầm với để Tweak hoạt động<hr />Vào Cài đặt (Settings) &#10140; Trợ năng (Accessibility) &#10140; Cảm ứng (Touch) &#10140; Tầm với (Reachability) &#10140; Bật (On) ",
-	"compatitle": "iOS 10.0 đến iOS 14.8",
+	"compatitle": "iOS ≥ 10.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

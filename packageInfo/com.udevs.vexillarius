@@ -2,7 +2,7 @@
 	"name": "vexillarius",
 	"desc_short": "Standard Bearer",
 	"desc_long": null,
-	"compatitle": "iOS 8.0 đến iOS 14.8",
+	"compatitle": "iOS ≥ 8.0",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,
