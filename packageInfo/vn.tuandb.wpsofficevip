@@ -1,0 +1,10 @@
+{
+	"name": "WPS Office VIP",
+	"desc_short": "Enable VIP Version",
+	"desc_long": null,
+	"compatitle": "com.kingsoft.office.g.wpsoffice",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1091692418610495568/WPS_Office_VIP.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1091692418610495568/WPS_Office_VIP.png'/></a>
+<br></div>",
+	"open": true,
+}

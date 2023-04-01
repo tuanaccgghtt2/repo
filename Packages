@@ -1934,6 +1934,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.winkvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.wpsofficevip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.wpsofficevip_1.0_iphoneos-arm.deb
+Size: 4292
+MD5sum: 62639bea15f981aa08f68b027bbbbc97
+SHA1: 09d5d0daf6bb2b3766efe00d2dbf8ac9b2f2a3b5
+SHA256: f0897d8b2dd336b853ea2e839c2afccf57fb4668404172539de1b9286680fdb6
+SHA512: 84597608310da5cf3b65d602af884a11b427c0d990f32a3f9689f89b7151e3e5f9ca8da161ffb64935eb7d5ede33a8ca487439c06a6c729636ad116ffd34d03e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: WPS Office VIP
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wpsofficevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.youtubenoads
 Architecture: iphoneos-arm
 Version: 1.2-2
