@@ -669,6 +669,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bypasstechcombank
 Author: Kan
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.calmpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.calmpremium_1.0_iphoneos-arm.deb
+Size: 4348
+MD5sum: 7d983482fe9758ea5aa55dc10854ac56
+SHA1: 858056272a9ac7c7f885c0333851611522e8b2c5
+SHA256: 81c9730f6df1f44e6b24a778086eeb86447706d2fa0bbdd62d7ca110d0d8bb34
+SHA512: 45fac38fa48d7a1e98910d63a232d682d821d3ca9b88053657e64e003d51a764983ba18d87116a5e3a0c1dda90178d9532b69fed30c83cba24f612088cd4390a
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Calm Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.calmpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.cercube
 Architecture: iphoneos-arm
 Version: 5.3.11
