@@ -1260,6 +1260,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.Lightroom
 Author: Laxus
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.livewallpapersfreepremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.livewallpapersfreepremium_1.0_iphoneos-arm.deb
+Size: 4608
+MD5sum: d04af5474679a43809f467dd311ea848
+SHA1: 39dbea287e5820e4f23c713f1004f61f343be39a
+SHA256: d988d6e348ba6ac5c1cb4d5de6b3873839131d731c9893c49e9eadf66511b4b3
+SHA512: 9fc5efe49e59de105093971749e67636813c0b32a26c909fee674ec5d66936b2d0084295563e0a8756bc78bd2fbb73dd2c2b3ee5393f1a69a5f55f1ff11d0d9d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Live Wallpapers Free Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.livewallpapersfreepremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.localiapstore13
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -1593,6 +1614,27 @@ Author: opa334 <opa334@protonmail.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: opa334
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: vn.tuandb.smulevip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.smulevip_1.0_iphoneos-arm.deb
+Size: 4292
+MD5sum: 05b284d996ff6c677fb71b779926b21e
+SHA1: 1085ece1a34943b1d81595d5fc5cd140064a53a3
+SHA256: e91a0534c0237c1ba84e41d075525fd69f43793f42ec2aaddbd3d13f3a20be3b
+SHA512: 55090e7965ada80a112edf48cfc7c09e60b493227f41ffc0df2c379ba8301e08daaa7067ae7adb80de49c1d3e0071b31d47d1d8d61687d8a755cdb1af2536790
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Smule VIP
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.smulevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.spotilife
 Architecture: iphoneos-arm
