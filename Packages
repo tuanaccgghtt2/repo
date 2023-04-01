@@ -1700,6 +1700,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.successionrestore
 Author: Samg_is_a_Ninja
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.tempopro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.tempopro_1.0_iphoneos-arm.deb
+Size: 3800
+MD5sum: 47a25b56208120010c29a920a7a26e5c
+SHA1: a9747a0c88452a4b77f7063be0a5cac52a3c619a
+SHA256: 4691ac8e82ed462c2dcaae2a56519653fd65210f939c325d3e24e3b356de3ee1
+SHA512: 9a5fa95a537e6d7e6713d425429d71a7da123250592fe9a082defab81bab5624530e21485ee1eeee1db2f90744cdf5a04461726477ada1df8e57244f0c6d437c
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Tempo Pro
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.tempopro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.teraboxpremium
 Architecture: iphoneos-arm
 Version: 1.1
