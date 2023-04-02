@@ -1,7 +1,7 @@
 {
 	"name": "ProVideo Plus",
 	"desc_short": "Enable Plus Version",
-	"desc_long": null,
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1535455909' target='_blank'>Download</a>",
 	"compatitle": "com.Andor.VideoMaker.ProVideo",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092004704273305630/ProVideo.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092004704273305630/ProVideo.png'/></a><br></div>",
