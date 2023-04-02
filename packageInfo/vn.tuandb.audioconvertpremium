@@ -1,7 +1,7 @@
 {
 	"name": "AudioConvert Premium",
 	"desc_short": "Enable Premium Version",
-	"desc_long": "AppStore URL<a href='https://apps.apple.com/app/id1393886341' target='_blank'>Download</a>",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1393886341' target='_blank'>Download</a>",
 	"compatitle": "com.audioconvert.audioextract",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092068730667798538/Audio_Converter-Screenshot.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092068730667798538/Audio_Converter-Screenshot.png'/><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092068730399371304/Audio_Converter.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092068730399371304/Audio_Converter.png'/></a><br></div>",
