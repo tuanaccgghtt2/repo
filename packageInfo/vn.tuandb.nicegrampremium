@@ -1,8 +1,8 @@
 {
 	"name": "Nicegram (Premium)",
 	"desc_short": "Mở khóa Premium cho Nicegram",
-	"desc_long": null,
-	"compatitle": null,
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1608870673' target='_blank'>Download</a>",
+	"compatitle": "app.nicegram",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,
