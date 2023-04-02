@@ -582,6 +582,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.assistivetouchx
 Author: jailbreak365
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.audioconvertpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.audioconvertpremium_1.0_iphoneos-arm.deb
+Size: 3860
+MD5sum: 2edc66f177c76452e16560fb8cd29785
+SHA1: 27651e237d13d36601da7718118cd94acb0399ce
+SHA256: 5c0f8d526b399bfd76e152d2c2a7ba0e6d7b1e2a21f00ac01584cd5b59a9d047
+SHA512: 736c75e6965f03eb4df36787c20c341d77e2999f6524c340ddaf6e4a2bc3e505fcea9f4651ea2faa5d85c01b0a8fa452a3b696a981d650bc4d3d39efdb7a108f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: AudioConvert Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.audioconvertpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.7.12
@@ -1016,6 +1037,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.filzacrack
 Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.fingpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.fingpremium_1.0_iphoneos-arm.deb
+Size: 4004
+MD5sum: dda631081b8c4eb5da6c7cb146a5df56
+SHA1: d36134b65e6510fef1aacec494678e3b2a028661
+SHA256: 6b3e01a6a0a58a4a575b7ba3db969a01dd570ee7c8f8332ab2740a4be12fd161
+SHA512: 667a2e479d480ac270722e102f87f0e10a0cd5e70334998110dcbd9ff1b614eb15de69b49b8959ecea0ef0b7f9621197564238723c2a087491bf4acf74574f5e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Fing Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fingpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.flex3
 Architecture: iphoneos-arm
 Version: 1:3~Beta100
@@ -1216,6 +1258,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.iosgodsiapcracker
 Author: Laxus
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ivcampremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.ivcampremium_1.0_iphoneos-arm.deb
+Size: 4000
+MD5sum: 2372759b46a02801f1762a8de7f85de9
+SHA1: 31e3c2b4d80d30b1922d213a529adfbce732d6e8
+SHA256: ea502216890f83bad93433c274244fd7ed194caf75e3bf2463de31c8ff917a7a
+SHA512: 6640053c4abd7c35ae1d5e774ab40d3e641225514538eae1e9e313ba15f47215ec60c2ec81882b3b9650b8a0ea14462d43940b4319a6218444c6aff5e9874a6d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: iVCam Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ivcampremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.kolorovip
 Architecture: iphoneos-arm

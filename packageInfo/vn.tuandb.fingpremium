@@ -1,0 +1,9 @@
+{
+	"name": "Fing Premium",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL<a href='https://apps.apple.com/app/id430921107' target='_blank'>Download</a>",
+	"compatitle": "overlook.fing",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092070050766278676/Fing-Screenshot.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092070050766278676/Fing-Screenshot.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092070050502017115/Fing.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092070050502017115/Fing.png'/></a><br></div>",
+	"open": true,
+}
