@@ -1,0 +1,9 @@
+{
+	"name": "ProVideo Plus",
+	"desc_short": "Enable Plus Version",
+	"desc_long": null,
+	"compatitle": "com.Andor.VideoMaker.ProVideo",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

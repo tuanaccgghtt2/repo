@@ -1281,6 +1281,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.Lightroom
 Author: Laxus
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.lightxpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.lightxpro_1.0_iphoneos-arm.deb
+Size: 3912
+MD5sum: 03981fe2a8fa6c3002cad3c8fa1029c4
+SHA1: f4ae1e7b54afecf5805303267e7b1b0641a21d58
+SHA256: 38499d6f156e800a376443313d6b7835757ef9d92789592bfa4d2e72c9dc944a
+SHA512: efbbedf80da9bee470dd7f43201d460cd1e5439f53f7a25cf36681463222997ebbc4a6b20e56b34495a4e0ec7912fd6f01a5ef0e28fc95e5105b90e4b023f4d0
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: LightX Pro
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.lightxpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.livewallpapersfreepremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1345,6 +1366,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.localiapstore
 Author: Anondev
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.mediaconvertpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.mediaconvertpremium_1.0_iphoneos-arm.deb
+Size: 3852
+MD5sum: a17730c0c45ffd89b5df1c9146824e6e
+SHA1: 7e5c91fe090f3067509d3d43718b8a448bdc6751
+SHA256: 78c603fe06a3d816cbe85e044fd9467e8bacbe3bd46c0b92d044e5dd0c851736
+SHA512: f4003188db8b2a71c6b6a3ed5976054122e665852c42caf9bcb2d0bc82e3dcc806f5f29af3e4914debd880f9efffd7a8a154fe498e61d3be6baa51ffe75d0dc6
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: MediaConvert Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.mediaconvertpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.milkyway2-ios14fix
 Architecture: iphoneos-arm
@@ -1588,6 +1630,27 @@ Author: ichitaso <willfeeltips+ps11@gmail.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: ichitaso
 
+Package: vn.tuandb.provideoplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.provideoplus_1.0_iphoneos-arm.deb
+Size: 3820
+MD5sum: f9b0890beaf6ecceb5d83f789950b503
+SHA1: 6269d538827c073bcfc1b1d188c0d4dbd560274f
+SHA256: a9a9b14f64466dd234c4e85b7a9291da3842fcfbcff49d9d43a3d35c401f9477
+SHA512: 6c1c0eb4e0ea674f4a3a715a59dc384d13102aa57e521887f092dbfce1c39be9fecf44ea3640632c8d23082226e8091561e78ba2de0d7599825790ea930e9088
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: ProVideo Plus
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.provideoplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.psexpresspremium
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1677,6 +1740,27 @@ Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.spotilife
 Author: julioverne
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.storyzpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.storyzpremium_1.0_iphoneos-arm.deb
+Size: 3912
+MD5sum: 49b2a34db07b83435978c911aa788ecf
+SHA1: 6c32dc2c5aea423296134b1f92912e05516af47b
+SHA256: aa81af628b5e73bb9049141efd4604daccb8a903634c67e1c42171c5fa6fde42
+SHA512: 7e76530dc596e71a526099995593945d74093e7a6d2ad8d1325a8e10253ffbc956c450854275644de744099e87efb76334567c156f8a52bf26dbe62b019efc42
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: StoryZ Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.storyzpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.successionrestore
 Architecture: iphoneos-arm
