@@ -1762,6 +1762,27 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: opa334
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: vn.tuandb.scannerpdfpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.scannerpdfpremium_1.0_iphoneos-arm.deb
+Size: 4184
+MD5sum: 32f3ae895915ec876f23f561bdbb00c5
+SHA1: f36c245d810b000cf9508dab03b341f341137fab
+SHA256: cf15cd0ec42d07f70175fd75254cb7acda1bb2d0d6421ceeaf9684f5e7d49e49
+SHA512: ff8adbb24d06759754e891f49cea271a62aa1556f1f770dbbb3ea1724f6273f454fb609629d1e661c39e56afa89b020044377d97f281e85d032bc24aa5d7c194
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Scanner PDF Premium
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerpdfpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.smulevip
 Architecture: iphoneos-arm
 Version: 1.0
