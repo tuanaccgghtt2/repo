@@ -1,9 +1,9 @@
 {
 	"name": "Name",
-	"desc_short": "Name",
-	"desc_long": "Name",
-	"compatitle": "xxxxxxxxxxx",
+	"desc_short": "Enable xxxzx Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/xxzxxx' target='_blank'>Download</a>",
+	"compatitle": "xxxxxxxxzzzzzzzzxxxxsxxx",
 	"changelog": null,
-	"screenshot": null,
+	"screenshot": "<div style='text-align:center;'><a href='xxszxxx' target='_blank'><img src='xxszxxx'/></a><br></div>",
 	"open": true,
 }
