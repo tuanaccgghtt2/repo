@@ -1972,6 +1972,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.spotilife
 Author: julioverne
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.stitchvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.stitchvip_1.0_iphoneos-arm.deb
+Size: 3904
+MD5sum: f782df46a54e9cb4e9a3397b0783b9c3
+SHA1: 5b5b2d27cf6d1a857c56c5e326cf309ecd9758ab
+SHA256: 5a760bba4893b74e4404efbc962f033afb4f58b1dacd251920f06f331fd6afba
+SHA512: c19d7ed533df714864349e00ae07f63cf362bf8fdd0a9d368c92748cc2952cf3cfb5820aaf8366b1dc389361d3efc840f30c923c86f9cb37de971a6e962f01ba
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Stitch VIP
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.stitchvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.storyzpremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2230,17 +2251,17 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.winkvip
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.winkvip_1.0_iphoneos-arm.deb
-Size: 4888
-MD5sum: 943a0a55bf5fddf0dbce44fa9948be81
-SHA1: ada3e16ec23bb48a5553897bba01015253fc0933
-SHA256: 338e8f97d942e0ce0ec409dc8d3b2ad3b5cbc93a8b52490cb160fec9c03b3b8e
-SHA512: 3a2ea8b4ea82cf7984ee8836afbba9c2449fe9d61d99b0cb85d00a2643335f93566555f934eb7626da0402ddd98e7994a609baa74d05f6a0ea2419839672ce86
+Filename: ./debs/vn.tuandb.winkvip_1.1_iphoneos-arm.deb
+Size: 4732
+MD5sum: 9b2a13cef669275e05b5198d75b24055
+SHA1: f8c5d5a3df8dd4b2c65c43f5b4a154c3fc4a4729
+SHA256: c76991bbb46cefcd36c39c7086c4949ac7fbe1e7132cfb83fbeb14b8a66d79ad
+SHA512: 29837990d08e1c2c8419b5b95d174ea0f687048971b09e984f94b429d92cd1a6041cd6bc03096177128f53fec73fc7ed9b6ea00ab43525afcd81c7b93c6525e8
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
 Name: Wink VIP
