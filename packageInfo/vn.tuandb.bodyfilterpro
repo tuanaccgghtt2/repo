@@ -1,0 +1,9 @@
+{
+	"name": "BodyFilter Pro",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1621270590' target='_blank'>Download</a>",
+	"compatitle": "com.tickettothemoon.bodyfilter",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1092806396355022968/BodyFilter.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1092806396355022968/BodyFilter.png'/></a><br></div>",
+	"open": true,
+}
