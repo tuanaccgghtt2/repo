@@ -418,14 +418,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.1998campremium_1.0_iphoneos-arm.deb
-Size: 4312
-MD5sum: 68bdb7b02694700f34394e85f383446b
-SHA1: 200917df7ecff4cf48334bd984e48aa0ac379892
-SHA256: 2f0aac5827a3bf25770424a726dac8bc9dd7b21568be92a2d3a2d839a6950549
-SHA512: 65f4c53da5de95c9cfceeb2571da2ee6d9ff4d03ec23dbd45ccb1eb2aab437fdcd55ea651ce4344f8b0aa2cf7c07270969ba64aaa7db806316c7fc7049016985
+Size: 3824
+MD5sum: c641b4ef45464b8ec4b60c9ec0ba850b
+SHA1: e086c343e5eb239f60b0d2657365bf8f44c83933
+SHA256: 78a53bfe8f6b7cbfd86cf5a0ab9ebffe050914bb04fdf4f751ba9ee7629c770a
+SHA512: f9c79c4276d973e44fbddc4d2ddd8b21cf1df0d8b5be698a7da99804af6f3f5c64feae5833b52493a6c4fd4baceed561e28d15bc771ec8521f06954ad26d6550
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: 1998 Cam Premium
+Name: 1998 Cam (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.1998campremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -462,13 +462,13 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.addmusicpremium_1.0_iphoneos-arm.deb
 Size: 4016
-MD5sum: 15fba220cd2907eb48390ebe7595947f
-SHA1: 8cbcc73948ecd0b405a43e724bf644e64dba3225
-SHA256: f0ad3306fe4882a92458f985a16ccd2b237e844459a5da59f55f67422051e0d8
-SHA512: c78c8ca80ce4693ec0001234b3db95ec69f342e8087e8e0e3a5e255ca18653906351eb863edfc48c7adc41e99f5a008042c42861b375fc8104ddcc860dcf3609
+MD5sum: c11c6d25c2d0320f1b667fc60165acba
+SHA1: bbd29578a80d7237adbd40d0ab39820f65e24c5c
+SHA256: 047c3c9744a1a6c86250893d15e1a05f431fbfa625636e61e69b171eea72c777
+SHA512: fb71cfcd67a8a41e48893f922daf6174c8ea89f460335bff93dd7ce5bc086a9846033e4dac074cd75dd503b2573b2799afe5affdb4f021ecf0ce581e99e25bc3
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Add Music Premium
+Name: Add Music (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.addmusicpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -566,21 +566,21 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
-Installed-Size: 284
+Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.armcpuzpro_1.0_iphoneos-arm.deb
-Size: 5564
-MD5sum: 95abdeecab88a1c49773828c8c423150
-SHA1: 939cb896242e761d390ce713d23c7b861eb42022
-SHA256: 216cd1a6559c9da66e5f47e4559e87e3e905385bd772aa7cd91f8d54620d528f
-SHA512: 7f7445c3068b1bbe7635a1e2765759076a42520f458d4a5fafee49afe236c7f5e6df8d0cd11e900decf8b5bb55f88ac55421ffcae76e10981d4a638748185000
+Size: 4580
+MD5sum: 1e0c56e7c729d505d56724c2c0331380
+SHA1: 7223cadbb695e2989aa89144f2a9c66061820879
+SHA256: 319aada973272ffcbc8e7ef2d425a2c20fee52bea96497a2cd1d785f4f632b8a
+SHA512: 69c58ec1a9338c21d6aea1dd9ab136f43bb5b12157febb1ac005efbe0621cc192b14e85c13a97f5f50772655c447b1903368a7e8245fc2dfad5d674c3da8ec6f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: CPU-x Pro
+Name: CPU-x (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.armcpuzpro
-Support: tuandb <contact@tuandb.name.vn>
 Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.assistivetouchx
 Architecture: iphoneos-arm
@@ -611,14 +611,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.audioconvertpremium_1.0_iphoneos-arm.deb
-Size: 3860
-MD5sum: 2edc66f177c76452e16560fb8cd29785
-SHA1: 27651e237d13d36601da7718118cd94acb0399ce
-SHA256: 5c0f8d526b399bfd76e152d2c2a7ba0e6d7b1e2a21f00ac01584cd5b59a9d047
-SHA512: 736c75e6965f03eb4df36787c20c341d77e2999f6524c340ddaf6e4a2bc3e505fcea9f4651ea2faa5d85c01b0a8fa452a3b696a981d650bc4d3d39efdb7a108f
+Size: 3852
+MD5sum: d799cbc82f26b95db60ac6f50c5330a9
+SHA1: 897cca1e3be4a2ebd355cc0dc8ce9a428272e1ff
+SHA256: 411423792d3a430947dc8da60032eaa007ee67ddd5e5de6de1101acad62be4bd
+SHA512: b9b4f57aee66edccdff4afd406521c74d8118776c9ae1c93cec0ac4ee5393a1154aa43408778a3b7ca140afb2c9ed2322ff5e9f272763cb9f0d79664ba8b7c9e
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: AudioConvert Premium
+Name: AudioConvert (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.audioconvertpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -654,13 +654,13 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.bodyfilterpro_1.0_iphoneos-arm.deb
 Size: 4232
-MD5sum: 2fa88c8caed70aca848506e1c3957a21
-SHA1: 5b310b9a2a1c1bd4c2ba71175a67799a264b782a
-SHA256: 00fa7c407db31fdfe4e441bfd6e5e07f885a681406bc6bf08883b02083e10d8d
-SHA512: f806ef834a274837df74a446b726a7e37249974f40e472ab84dbba7461a7c3fef95fac5391a3652d570797999ae8334c928405a4eab9d032354569c7120404e8
+MD5sum: 72fd3ee9818003df681a4ee6b92de6bf
+SHA1: e21bdcbfac6db573790512556db948452bc828c4
+SHA256: 331c61d84057d520692973a3e20d789200df84e9fa8c974196a41171a9e2633b
+SHA512: 5f006ce36545a24c0ac4c92ec1a6624aebb85f1255cfa7768b608b15dd48783299e67522d150116ec0ec382916ffd941a6356dc453b502ca68feeb3082a6161e
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: BodyFilter Pro
+Name: BodyFilter (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bodyfilterpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -741,13 +741,13 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.calmpremium_1.0_iphoneos-arm.deb
 Size: 4348
-MD5sum: 7d983482fe9758ea5aa55dc10854ac56
-SHA1: 858056272a9ac7c7f885c0333851611522e8b2c5
-SHA256: 81c9730f6df1f44e6b24a778086eeb86447706d2fa0bbdd62d7ca110d0d8bb34
-SHA512: 45fac38fa48d7a1e98910d63a232d682d821d3ca9b88053657e64e003d51a764983ba18d87116a5e3a0c1dda90178d9532b69fed30c83cba24f612088cd4390a
+MD5sum: e4177997e02725d4701b81643f6bd074
+SHA1: 8cfaa0b4929f6a5c8f6efe9ba63a9d007786f01e
+SHA256: cf5eaeca6750c0e2825fcc0d2a69989826aaffcfdd8036ed00100a47287d3e30
+SHA512: 5bb6eb932e87dc87fc63937ddba4651abca07260893b823d9cb22b125c6c6447602b3a464e2d8092dccf09ec1da89a4002dfb0cd6fcc17761e7e085c0b699fa2
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Calm Premium
+Name: Calm (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.calmpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1045,14 +1045,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.facetunevip_1.0_iphoneos-arm.deb
-Size: 4316
-MD5sum: a1aa01ace24285e48234572d861be7ff
-SHA1: 612ac4972440cec0361d677b25f6c39f03b8dbb9
-SHA256: 32e7b12d674f63a82bbe343cba6b43513879636c8bc914440fbf78d0390ce622
-SHA512: b148a2fa5fe185da3590231f8eef444482063de7b1330c3ddd3245f5e21318da0902b18b247dd637823043a535a1a027fc4ae53a8aa182f6ee3701cca02f25dc
+Size: 3812
+MD5sum: 9e89ffd095a9b0709c97f63c30bcbf44
+SHA1: c0e2eca231606ea4432add8e6965f94eadb94639
+SHA256: 639fe61bb6038dd62624aaecc02435757359fe0e51c7fdf231a608000b25f490
+SHA512: 73b52687ade66d2c0bf6cc11fe3d674b66093705c46845f8ca009e0ced45f278ba53ac3531c1050f43208a66e0f6c9e5b68fc3b0c937df0edf1a8e00175ba5d3
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Facetune VIP
+Name: Facetune (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.facetunevip
 Author: tuandb <contact@tuandb.name.vn>
@@ -1088,13 +1088,13 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.fingpremium_1.0_iphoneos-arm.deb
 Size: 4004
-MD5sum: dda631081b8c4eb5da6c7cb146a5df56
-SHA1: d36134b65e6510fef1aacec494678e3b2a028661
-SHA256: 6b3e01a6a0a58a4a575b7ba3db969a01dd570ee7c8f8332ab2740a4be12fd161
-SHA512: 667a2e479d480ac270722e102f87f0e10a0cd5e70334998110dcbd9ff1b614eb15de69b49b8959ecea0ef0b7f9621197564238723c2a087491bf4acf74574f5e
+MD5sum: fe682961922800f4c14ce1329480f959
+SHA1: 7622af88ef12a3600cf835ec46cf54e1f35abf74
+SHA256: 2c1527bacc7ae928c513b973e9e7dc0594cb9de9e12bd7a50250e7391a0d2170
+SHA512: c2fa40652c31b2bf98d2e7e9d30ad4031f14c0a4dbfb7eaa9a35dd2ddc6d2ff5bf406c07ac76d210f0e14d8e83ef9b2f96edf6fe58115c6ffb108725863cd54c
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Fing Premium
+Name: Fing (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fingpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1179,14 +1179,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.fotorpro_1.0_iphoneos-arm.deb
-Size: 4312
-MD5sum: a2e982a9f2c592c4ce5649686ddcc046
-SHA1: 213b5ff438308ef6bef937163a1db6f101f67735
-SHA256: aa54b75a8f1d6dd2cc770fcbb4a00a201365e2df6d15a15eda3df379ef402d51
-SHA512: b7cb06e805688a2da5f4cde2cbc65511abed4f159f05b8c6cf89fa3f5973f2c853ccec2572ab50f593b0582a50c49053744f7b5ec97c41fc1f0eafda5b3dd6f7
+Size: 3820
+MD5sum: 3e8b899e72ec3050ef5488335ad82436
+SHA1: a8b779386c612695d299f505b665a1333ac8e5ef
+SHA256: 10728b3d8129a8987f29e09a9ecaa9d26f756b6b5d56590c5c9333ef41a8a2d1
+SHA512: 605b19907bb8d1b94102e8f885147e8c4b2739e50920c4b6eff8053651dd8ec7870925945aab907dfcf7f91897336c83e0ea0495fef2c61c289fba8caaf1d8aa
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Fotor Pro
+Name: Fotor (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fotorpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1244,14 +1244,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.gradientmusicpro_1.0_iphoneos-arm.deb
-Size: 4132
-MD5sum: 92d9530b214269f923c221ce78fefbb1
-SHA1: eafacdf966844f11d4e725f760ee5af0a8f0870d
-SHA256: dd48ed763aacddf912418bd4b0962ccf74371c4714fb6fa58ffed866a0104557
-SHA512: d37741d185a4b2469dd5a3888bc0eb7683478c25e2d902b4d86fcd8759e59098e286fe892dc2475268add485e3436719ce80ad8f70bdbf15d59e10ceb52b8194
+Size: 4136
+MD5sum: 256a0f91955b39daea3038af3a6c16ba
+SHA1: 1dd6df7af8399f6445a362b93b29bdd11cb82664
+SHA256: 213981bba734a3216bac807d0e87463906a3a014b8e03781247076a571095809
+SHA512: afabd2c629f7315e08cb160bfaedeae24e742c2e83a748a8b6e0800c85564325d81715868b7b791afb58c5427de64c19d98ac0a8999c6747772e387c6be809e3
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Gradient Music Pro
+Name: Gradient Music (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.gradientmusicpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1265,14 +1265,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.gradientpremium_1.0_iphoneos-arm.deb
-Size: 4312
-MD5sum: a4d827fdf33127a3a12c951baff8b627
-SHA1: ae48029662dbccd7e0b267e1e4a68b2df8630edc
-SHA256: cf131cda27bdcfe05fe2a82b3c1c2618300fab8ffb7ecb28b5f5633f71df1f60
-SHA512: 8d0e62186c80d5ebbca36d11dc4e40cd797a42927b4d7af55e4160bfbeaf736a1b853752df92b5fc74d7a0cf1c8156ccfe53f438ed39bbac56092b7f43e98576
+Size: 4308
+MD5sum: 0f9fe454b98826295e71d434da18b89d
+SHA1: 10057c6d54331ab5c23d66d1264a5110b105de37
+SHA256: d51dfac882db83fce42fe7b23bec3b649f3cef884fe18d0c470703341e90324f
+SHA512: 6e89e08ce9ad3f91feed20c5b16ad2e0f6b2c2866aa150a4371499ad7886c2a25f95791d40deac5007ed37b5d45e73f9c14ab6ce6a065378abc0c142b965f02f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Gradient Premium
+Name: Gradient (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.gradientpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1308,14 +1308,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.infusepro_1.0_iphoneos-arm.deb
-Size: 4708
-MD5sum: 17aa98f414d441bbeaef93ac0697abff
-SHA1: e3700d0174d19d23f93a90cd636ff69cd4be13a1
-SHA256: fc31f2ad0745f973e75f2aaa40aad3f56fe465c4ce132d8da9f049b8d8061b08
-SHA512: a0662da6e55e2a80c353e5407a09f4acc9b741be46da954bde5511c8f84f59348865494f4e847cb2c8c5718b7a45faae6e7bd5ec46e01fd2d7f0bdc0af670dff
+Size: 3988
+MD5sum: 28382ffa78fee5e35feb84eace6544dd
+SHA1: 162d5eec801228fcc0d713b6fab0f831c67ed7ae
+SHA256: ca29cbcc66f2ad9a8a8827f65088a2d6d5a41afa6c13718bf8b7962fbba6a418
+SHA512: b20fcfd0f93a41365713c62c0ee66aebfe8b94a0f9c05f697a5c2df8ca98048c319a89f816bf5bb329fc44244f968d8d62c227b160ec4fd59c3dbed9cf118c4f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Infuse Pro
+Name: Infuse (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.infusepro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1330,13 +1330,13 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.inshotpro_1.0_iphoneos-arm.deb
 Size: 3816
-MD5sum: 706ef881c78cec51e9e98f2736e8d99f
-SHA1: 5163c727bdfbf0244bb4f842efde850de6852a0f
-SHA256: 1c3dbfec6079d357f8c7371d5505038426a5857d3bf8e382798791ffaa0423ed
-SHA512: d306b352d2433feb3f896d68e7d323c002d29e72e2c8d6ce3c211fd5f3c5c020b467440dd63019f96b146e40fc48803fb7c3c5d989c026eac880c84f416f4a73
+MD5sum: 9064bdefba5ed20efaf09dba08853280
+SHA1: aa9e4dc76d6c0c9a5a86adbfc4019a13f8680405
+SHA256: 9424c5c644f6ece1083fcd847d6c3ee2985431bc32a4a0a922b8d3b361fcca00
+SHA512: f63752faef17efd51a0412699991d8187ca071d893c0be077dbaeb286914ff4aed4362475fdadb5f38f63a2c68889281f110745173d530e8144d99406c78f4f0
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: InShot Pro
+Name: InShot (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.inshotpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1372,14 +1372,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.ivcampremium_1.0_iphoneos-arm.deb
-Size: 4000
-MD5sum: 2372759b46a02801f1762a8de7f85de9
-SHA1: 31e3c2b4d80d30b1922d213a529adfbce732d6e8
-SHA256: ea502216890f83bad93433c274244fd7ed194caf75e3bf2463de31c8ff917a7a
-SHA512: 6640053c4abd7c35ae1d5e774ab40d3e641225514538eae1e9e313ba15f47215ec60c2ec81882b3b9650b8a0ea14462d43940b4319a6218444c6aff5e9874a6d
+Size: 4008
+MD5sum: 1767bb29b5fc2552d6e60731af4f5c69
+SHA1: 62df655cb8ebf6a291679c1e87710bbc5f2498b2
+SHA256: a4aef82b25215a33df7600fba7ad325ca842a079f1147e7377155233bc91c0ff
+SHA512: 7f0b83c24b983ea169ce71e8c393fdfe078f0ca43fe518054aa47fef00a88423782b81de6eb5b4e52fe16de53c5a15c19858f7e86b0467906a8ecb7f135b7d7e
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: iVCam Premium
+Name: iVCam (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ivcampremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1393,14 +1393,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.kolorovip_1.0_iphoneos-arm.deb
-Size: 4316
-MD5sum: 5201669686a0231c3e027f4353aaa2bc
-SHA1: 52f4dd0c22589cab985f520139ab7366dd805737
-SHA256: c0ce999b058e7bc08ea119755400bc03afbe2ed7383b0a436fc99e56ce67d1d1
-SHA512: 2ef998dcd78f17027bc7dfec8083b1e64efe745818d6213d6fbee577430bc33efaad6e759fafa07fa3e6bd977dac807f8a4f135c25a0d5fb5c3e848f722ca1b0
+Size: 3804
+MD5sum: 8c4f791b465142f407c642d5af863654
+SHA1: df24dacfefd22b9e613125ee93226ba45374accf
+SHA256: cfce15fe417faf41f5ac11941796ce7e590d3fc957d816ac5ecd1c3a4261819d
+SHA512: 0fe8a30101198c107e558c00b084f218d6fc24a8d3821a21063e827a99fda517daad7a333845e9c8838b9327ba6c9e63a0d36a5bb1605f795b544d6d18d695fd
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Koloro VIP
+Name: Koloro (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kolorovip
 Author: tuandb <contact@tuandb.name.vn>
@@ -1457,14 +1457,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.lightxpro_1.0_iphoneos-arm.deb
-Size: 3912
-MD5sum: 03981fe2a8fa6c3002cad3c8fa1029c4
-SHA1: f4ae1e7b54afecf5805303267e7b1b0641a21d58
-SHA256: 38499d6f156e800a376443313d6b7835757ef9d92789592bfa4d2e72c9dc944a
-SHA512: efbbedf80da9bee470dd7f43201d460cd1e5439f53f7a25cf36681463222997ebbc4a6b20e56b34495a4e0ec7912fd6f01a5ef0e28fc95e5105b90e4b023f4d0
+Size: 3916
+MD5sum: 85ad586c9274ab72eefd381c489401c6
+SHA1: 2838ed202c6ccef050644c4fed33ddf9acb21f93
+SHA256: 74c084e68d802771920f93c0ae136dca1cbb758f4eecade5d17e2e5ddb4a8764
+SHA512: beb2d77252b8706c6f6fdb0ae346d14aa9ddcf2d0265b0b85d652a00560b8e14c75fe5243884510a0779092ecdc17763d127ffbb3ec38107188ef0703db756d9
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: LightX Pro
+Name: LightX (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.lightxpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1478,14 +1478,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.livewallpapersfreepremium_1.0_iphoneos-arm.deb
-Size: 4608
-MD5sum: d04af5474679a43809f467dd311ea848
-SHA1: 39dbea287e5820e4f23c713f1004f61f343be39a
-SHA256: d988d6e348ba6ac5c1cb4d5de6b3873839131d731c9893c49e9eadf66511b4b3
-SHA512: 9fc5efe49e59de105093971749e67636813c0b32a26c909fee674ec5d66936b2d0084295563e0a8756bc78bd2fbb73dd2c2b3ee5393f1a69a5f55f1ff11d0d9d
+Size: 4616
+MD5sum: 2da225181b4556f79121d1d70b9797d2
+SHA1: 1b51402d0cc9a5091359ea1486fb5828e3eb0bbd
+SHA256: 9c6a5b17a5ef1aca8b7c271f2cd0253d7b4157c613930737bc3f018e06b682ae
+SHA512: dc6496c984dd1bffbe93e9bddfd48eea4ed858f72dd4109f58c34bd5144d2b80f8ebb15134d402067818f1b651d347a7ce0cb6b992d7f4c68ca5837f690eea73
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Live Wallpapers Free Premium
+Name: Live Wallpapers Free (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.livewallpapersfreepremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1544,15 +1544,36 @@ Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.mediaconvertpremium_1.0_iphoneos-arm.deb
 Size: 3852
-MD5sum: a17730c0c45ffd89b5df1c9146824e6e
-SHA1: 7e5c91fe090f3067509d3d43718b8a448bdc6751
-SHA256: 78c603fe06a3d816cbe85e044fd9467e8bacbe3bd46c0b92d044e5dd0c851736
-SHA512: f4003188db8b2a71c6b6a3ed5976054122e665852c42caf9bcb2d0bc82e3dcc806f5f29af3e4914debd880f9efffd7a8a154fe498e61d3be6baa51ffe75d0dc6
+MD5sum: c4ec3bdf2d362474c962075cd7294c71
+SHA1: 35e9601d169c51aebf6cac05b7e1fdf62e4b8929
+SHA256: 2a600df1376f50649f7639aa3397e62899f0cc0ccc0b33d5d8d4463fb050e91d
+SHA512: 1f919983b337925b06743e05c619c8778a51800a06920647d6b00cbfcf045a12315a44bed920c5f5a495cfd395df697ff1b6ca09cb4df65315879150f1b02646
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: MediaConvert Premium
+Name: MediaConvert (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.mediaconvertpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.memorytimerpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.memorytimerpremium_1.0_iphoneos-arm.deb
+Size: 4444
+MD5sum: cb61647a9aae26130b635e1396d81108
+SHA1: adb4d22b5e6fe566dbe17e0337d6009a2feb00b4
+SHA256: 37e7e2f6dd6ed07742c42b0ef54e25daaf45f4a65a86bd05242026e5204b6878
+SHA512: 23db112c2df3e3187e8c21f63b9c2ed290d2dba190ad44c7d1d62c11cb854c356bb31b9a00c0dd21ed31716d8caaa87b4967c99242ac56c97bc06323301f447e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Memory Timer (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.memorytimerpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -1608,14 +1629,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.motionninjavip_1.0_iphoneos-arm.deb
-Size: 4320
-MD5sum: 72bff9027b07eef586a5d084156696d2
-SHA1: 2821355cca39a255684e8f7a28cd0f06d85ed783
-SHA256: bc089a6c0f0315355b09c6674ce80809b20f2794905548f9e3d8a2a4c5e37606
-SHA512: 0eae39926425e2ffd39cd373f7d0743b54932dff87505bd2e10ebbaa241d6599e7788d05cb9793905df0b427b966122cca812f4c9bc7024b4c21a824be715164
+Size: 3816
+MD5sum: 3e32b4d9f5456d7d88e5096e05b418a7
+SHA1: bdb587be9b1a93c10ae40b11d6d2849434f56b42
+SHA256: dca19650da5039cd7026fb67623ddd6e0ba6d381d0fc47749bbb5d4b1cd7f4fb
+SHA512: 48a7c350c8b9c0cb7be11fe578f7a0e8c849b43a65ab8622bc145c44eb17a4a53d8e58b9ac9dfd5c0824455c055e2afc5774983a9b36254e6c822ead04d74564
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Motion Ninja VIP
+Name: Motion Ninja (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.motionninjavip
 Author: tuandb <contact@tuandb.name.vn>
@@ -1709,6 +1730,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ntspeed
 Author: julioverne
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.pdfpropremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pdfpropremium_1.0_iphoneos-arm.deb
+Size: 4020
+MD5sum: de789af0c3c49957c0e6ce7cfea8ffed
+SHA1: d6d36f0fa77ad0833927fb111fc9f5cc2062b64c
+SHA256: f14201359aabed23ee694f78d71f84d633b8e2fa67249c33f5dbb0abd1731e04
+SHA512: 4f67bfc11d5cdf0acbcaf0eb9d5e0eb786e83d84faf473a0cf2398f831274a78fb1fb393da297bacdc8c45f5a155641442d59cd0d0a08707b4e10e5a02f3080b
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: PDF Pro (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pdfpropremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.peachypro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1717,14 +1759,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.peachypro_1.0_iphoneos-arm.deb
-Size: 3908
-MD5sum: 10e7dafcdc8c2ff8a218449dfc879b14
-SHA1: 4484441829c1aa104a1f520acbf077e2a0f5d2ba
-SHA256: 1f13fb6a7151a65c28f6ea9f7891c72d26de951f1acf51b16071bb0238714e7f
-SHA512: 4161441598c4473cd2fe2c68501ff3d48dcf57a78651159f8c8f6cb770b6dd04b418da8272dfdfafcf83aad5ad8a8a2d56071d5360433d13c54c04a817fc26ea
+Size: 3912
+MD5sum: 29a0c6c8d27fc01f313b32b58e737e09
+SHA1: 78159eb893ecc66c2bffaeae599be4cce37b09fa
+SHA256: 573b0fed779ef283145489e7607083cb84d1377cecde3784f2b5695391d6ff94
+SHA512: f0d7ab32f00ed05e387fdd009c95a86a8df2eebe8b2522a18782de665a62032f05b9e625ae29b8774c7dccbc9aa327968efafd326d070e3496c5ad92dd4eb03f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Peachy Pro
+Name: Peachy (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.peachypro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1738,14 +1780,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.perfectvideolitepro_1.0_iphoneos-arm.deb
-Size: 4320
-MD5sum: 2395ea0184a99769c294e73c9d152ff1
-SHA1: 90034db4cbd6fd2b1a05c5e50b811fa6a902a538
-SHA256: 79073a2c8b5f2dedbf32fa586d51307d2026868770c0bcfc4b80b534b52d9b7f
-SHA512: 4f2250898f49f7a61d067658bd521a7b724c18f426d946c1adde2e90414b080d9f62ce0f0b359d54f4bd3cb5d04a8c33fa69928eef653261f59ab00f739b7a25
+Size: 3820
+MD5sum: 514e266784f177b7414b1bfb81d815a0
+SHA1: 9498eff63fe948bb2a21a20e57910e2627b4621d
+SHA256: c4d5fb6dc29d488e7377b14da401cb15f53fa351ad209128dcaee2210dd575cd
+SHA512: 9d27af8005be4210bc2d98a70793770b8c1ba7683fccbc28d0a8d789562bc94c6cdaac9cb840468f33d99e07fd2fccdfa82978fc5e0178c4dd5f46aa4a0260dd
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: PerfectVideo Pro
+Name: PerfectVideo (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.perfectvideolitepro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1759,14 +1801,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.personapro_1.0_iphoneos-arm.deb
-Size: 4316
-MD5sum: 595cad9c29692322e23d42b17095d94b
-SHA1: 91d63ee85c747e281c61847b797391769192eb65
-SHA256: 4bdf3cf9afe3d30819a1f5918c7cbd9b74aba3ab1f6303dcf43fd43d55a54ab3
-SHA512: 84ed08caf038081dd0dd1d64c7268215203666f56960692368643fa8cf71435d2c40ec02b27b8c336408ed8356ad8602e6ae3708af6098bae48bb3e2397f863a
+Size: 4320
+MD5sum: 6bc6d38e6d8b4dbe6018a2306ed01c7f
+SHA1: 63436827106068a461314eab6d8718f178f56bec
+SHA256: e6d1bb3e8a45075d6e50ca8055acad06277cb229a7c6c1c84537c08af2e5071b
+SHA512: 492566949659830bb6f4cbb78d77f47562356809d767376a9de55846af6dfcdf53eec4f4589952fd70306eaead6bc35ab0ee04f6bd1ac3b47642fa6717a517af
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Persona Pro
+Name: Persona (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.personapro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1801,14 +1843,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.polishpro_1.0_iphoneos-arm.deb
-Size: 4308
-MD5sum: 0f43dda968a0d120a96f48b25a0b7f44
-SHA1: da63a0cdf4a22ac76476789287c3121755c9abe0
-SHA256: 189704753c777f5fe6f8f9975a217828f2c3d9900332c38b7db0ef9d7613f9f4
-SHA512: 865c91309379fa1f142ed0508825074992721f6cafa42ad32f50df0c44333c16be668226d0d575f676cebc839f3be90772ec5d592f6d4b8988aba8ac4e441c2a
+Size: 3808
+MD5sum: 067d670e51d3c2ed0b5924decc55d22d
+SHA1: 84845f0d83fec67453872942d1a136578dbb00eb
+SHA256: b5bb388e57e6c3689494264a56b913a733a375056dfeea3d84462dd4f29977b4
+SHA512: 4ab43b70fa932367256770834fffac0997894860ff4f142d786953324a960a475ef54a4e3f669f8252be12871c9b378bf4b17136a3d457b6ea26443532136c31
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Polish Pro
+Name: Polish (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.polishpro
 Author: tuandb <contact@tuandb.name.vn>
@@ -1848,14 +1890,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.provideoplus_1.0_iphoneos-arm.deb
-Size: 3820
-MD5sum: f9b0890beaf6ecceb5d83f789950b503
-SHA1: 6269d538827c073bcfc1b1d188c0d4dbd560274f
-SHA256: a9a9b14f64466dd234c4e85b7a9291da3842fcfbcff49d9d43a3d35c401f9477
-SHA512: 6c1c0eb4e0ea674f4a3a715a59dc384d13102aa57e521887f092dbfce1c39be9fecf44ea3640632c8d23082226e8091561e78ba2de0d7599825790ea930e9088
+Size: 3816
+MD5sum: 1f324d431f007324c3f30b28922157db
+SHA1: 74a918df8107dc899e99ef81a903ea513925b277
+SHA256: c4f1b86ba6e4d347e669092cf517ddc373d713313638c760acc71d5f14d21cd8
+SHA512: 7eccb1ff1b7cd8f19fe41e97332f4c39357f80e440ffae0baf2c4de0403dfd641ceb6c7e6ed25df08350116a692db6514692e5fcd383dfa131ac88796bfc61aa
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Plus Version
-Name: ProVideo Plus
+Name: ProVideo (Plus)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.provideoplus
 Author: tuandb <contact@tuandb.name.vn>
@@ -1883,6 +1925,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.psexpresspremium
 Author: strejda603 <strejda603@centrum.cz>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.qrreaderpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.qrreaderpro_1.0_iphoneos-arm.deb
+Size: 4344
+MD5sum: f134a961f38dd6875ba6c236f42f066a
+SHA1: fe1c1be7fd8026facce4e08b2e8fe2b6a312e7da
+SHA256: 45e3b2c670191686ba156afe6cf9335097de54b4a38617c0de37a48b9f8ca741
+SHA512: 9f0c9a900b75005c35af06c7375d21d90e0e979f27f386ae59037a0dae7b9fb5ac55dc861de1a80190847642f1da416dc5c694bea8f6e276d841315727fdfe34
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: QR Reader (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.qrreaderpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.safariplus
 Architecture: iphoneos-arm
 Version: 1.7.22
@@ -1909,6 +1972,27 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: opa334
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: vn.tuandb.scanmasterpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.scanmasterpremium_1.0_iphoneos-arm.deb
+Size: 4492
+MD5sum: 6b24cd6b417f2628b43cfbece19b5f52
+SHA1: d51f4169a54b15af3a9b79128d1acbd1bc713df3
+SHA256: 2c7184530fd09ce2ea44add6823b5c8e596edb4cbc703b95b578590794d20a02
+SHA512: 3707bef0ecf271ade27415f05e3c4f435818dbeb2f5f66ab0d861fa0a5181e250dfb61216035fa13e73fe16658823c3d45f5ea15c22937d299ebe8cc139c2884
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Scan Master (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scanmasterpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.scannerpdfpremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1917,14 +2001,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.scannerpdfpremium_1.0_iphoneos-arm.deb
-Size: 4184
-MD5sum: 32f3ae895915ec876f23f561bdbb00c5
-SHA1: f36c245d810b000cf9508dab03b341f341137fab
-SHA256: cf15cd0ec42d07f70175fd75254cb7acda1bb2d0d6421ceeaf9684f5e7d49e49
-SHA512: ff8adbb24d06759754e891f49cea271a62aa1556f1f770dbbb3ea1724f6273f454fb609629d1e661c39e56afa89b020044377d97f281e85d032bc24aa5d7c194
+Size: 4192
+MD5sum: 5d1f7d92ab3ddb478b55d9eb6cc517ab
+SHA1: 71324fa11d2c8bf6f5461fc7de042cf5c2b8e639
+SHA256: 90211f71b462362c42fd547dee913938bbe90ed2056d33d35d0a5adb69e9df87
+SHA512: 2d6c550afc683664096000ceda87b0fb79d3171d6b0365bf8a3a7ef7c654555c58afff1b40dd48097dbfd8f20cceba3f0888c146e0aec1a4df374c2a093ea982
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: Scanner PDF Premium
+Name: Scanner PDF (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerpdfpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -1938,14 +2022,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.smulevip_1.0_iphoneos-arm.deb
-Size: 4292
-MD5sum: 05b284d996ff6c677fb71b779926b21e
-SHA1: 1085ece1a34943b1d81595d5fc5cd140064a53a3
-SHA256: e91a0534c0237c1ba84e41d075525fd69f43793f42ec2aaddbd3d13f3a20be3b
-SHA512: 55090e7965ada80a112edf48cfc7c09e60b493227f41ffc0df2c379ba8301e08daaa7067ae7adb80de49c1d3e0071b31d47d1d8d61687d8a755cdb1af2536790
+Size: 4300
+MD5sum: 80b13291d0a1c49f16c9b7cedd78e86b
+SHA1: a21b5e02a101e10ccb437edbfcf7ee28e123ef63
+SHA256: 2b2568b63014c0b95786349b308ce59ea981bcdb02fb2bdb172f04a664968b18
+SHA512: db6cf17df6aa808ab657b8a3c5d4b25e58d6e5bbf174f927461dcf36cba6191c7fe8f8dff430fe04f9401bddba2f2d2bbae50d9c0197974ccde0cf215b4cd7bd
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Smule VIP
+Name: Smule (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.smulevip
 Author: tuandb <contact@tuandb.name.vn>
@@ -1980,14 +2064,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.stitchvip_1.0_iphoneos-arm.deb
-Size: 3904
-MD5sum: f782df46a54e9cb4e9a3397b0783b9c3
-SHA1: 5b5b2d27cf6d1a857c56c5e326cf309ecd9758ab
-SHA256: 5a760bba4893b74e4404efbc962f033afb4f58b1dacd251920f06f331fd6afba
-SHA512: c19d7ed533df714864349e00ae07f63cf362bf8fdd0a9d368c92748cc2952cf3cfb5820aaf8366b1dc389361d3efc840f30c923c86f9cb37de971a6e962f01ba
+Size: 3896
+MD5sum: 9f4007308428a1bf86212b176582f85d
+SHA1: 1f64d46cdc6fd97994d7fe95b71eb8dfe4974eab
+SHA256: e7879603805b18e32b93097a5695e9ecfe2548999cce04c47c7a5640883d5387
+SHA512: 880f1269bdfb6ba83c7c3eb2f1f22247fd2fb48502954c17743d74fe215bcfd35f2f7d466082fef7f3bbfb5dd7748d93117d986cf6cd6c3be4c75fbb998943fd
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Stitch VIP
+Name: Stitch (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.stitchvip
 Author: tuandb <contact@tuandb.name.vn>
@@ -2001,14 +2085,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.storyzpremium_1.0_iphoneos-arm.deb
-Size: 3912
-MD5sum: 49b2a34db07b83435978c911aa788ecf
-SHA1: 6c32dc2c5aea423296134b1f92912e05516af47b
-SHA256: aa81af628b5e73bb9049141efd4604daccb8a903634c67e1c42171c5fa6fde42
-SHA512: 7e76530dc596e71a526099995593945d74093e7a6d2ad8d1325a8e10253ffbc956c450854275644de744099e87efb76334567c156f8a52bf26dbe62b019efc42
+Size: 3916
+MD5sum: 66775c7d38373595b6e9d901517cc7dc
+SHA1: 8c661bcb988df9067eae3ca8200dd1cc2746b4f2
+SHA256: c70f3a2dcb15d8ada88751175e433cf049941486a942905f957e2d0b5787f124
+SHA512: 47ae3d79c4ec094acd6871307b168eb7523b67ec7f34854a2bd9dcbd0c3b10c42c8a3b04249f4068267863c948455773bda2229c1a59b511b4c3c676a9cc760f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: StoryZ Premium
+Name: StoryZ (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.storyzpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -2044,14 +2128,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.tempopro_1.0_iphoneos-arm.deb
-Size: 3800
-MD5sum: 47a25b56208120010c29a920a7a26e5c
-SHA1: a9747a0c88452a4b77f7063be0a5cac52a3c619a
-SHA256: 4691ac8e82ed462c2dcaae2a56519653fd65210f939c325d3e24e3b356de3ee1
-SHA512: 9a5fa95a537e6d7e6713d425429d71a7da123250592fe9a082defab81bab5624530e21485ee1eeee1db2f90744cdf5a04461726477ada1df8e57244f0c6d437c
+Size: 3808
+MD5sum: 0b9caf933aea385de09de5187f68ad0c
+SHA1: eb6b8744f0de0464d17948369d784423799c2942
+SHA256: 113ec75fbe5ec4f9130f03cb33bf09d495c2df5527f8506a82a97364337b546b
+SHA512: f364f3dbbe226a0a7161513761aa231676601ea75b7f23986555239a08713baf68b5549dddcac1fae47be15c4fc4b1de00dc192a8e6e1f87c359a8de24ec7425
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Tempo Pro
+Name: Tempo (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.tempopro
 Author: tuandb <contact@tuandb.name.vn>
@@ -2065,14 +2149,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.teraboxpremium_1.1_iphoneos-arm.deb
-Size: 4160
-MD5sum: ba69d16cd21ae712a010d5ee0144301b
-SHA1: c038d4c9dc13cefeca7fcd6ccc15be3c780f6a70
-SHA256: 90c993867c066f3813d9f4a8336772b147da522464130d1a21ad4cd821cbd18a
-SHA512: 1798635634a0285fe8ac202216f3c1c3c17820d312908d6e465b232f0433e7cf4f874d328a69e8d9e54036e0c42841b9b9f4a1d98b2911ff6eb18d5e6c1ed883
+Size: 4168
+MD5sum: 996a3b6021d860fa128a67cfd927c551
+SHA1: 09f51a45ca0f9734d871b8d359e8f4762cf5d48b
+SHA256: e470c941c2a7d55e3235dc5dde9bef38b7d49322a5d4c3f85ba5aeb2faa1b8fc
+SHA512: 880ec08239ae1860f68d2d8bba16e79b38ca96311e06728dd08a34ef03bf93947dd228ed2f2286bb3c8510b4510dfcf06f7a649b16100edf94d04dbfdf870265
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
-Name: TeraBox Premium
+Name: TeraBox (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.teraboxpremium
 Author: tuandb <contact@tuandb.name.vn>
@@ -2086,14 +2170,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.timecutvip_1.0_iphoneos-arm.deb
-Size: 4708
-MD5sum: 6511305ab61e7056a68db3d427f183fc
-SHA1: fb036881bbe144543f900d92d72c227c8d0264f0
-SHA256: 5ee51c1975700356b8a7717ebc80a85edaa1901199dbdf5acc6dd48d76dab4ba
-SHA512: 4744289194d374ea58021d044fe030cf58a9e934715695d45ac4168f9380b79e45a673e69fda97bf189c618ecb1c7fe119bbedbebd48f6b84a44c5e0c4c6d9a7
+Size: 4184
+MD5sum: e35401ee40f0a17e3ab70be568c590bb
+SHA1: 8b1f3db734d4395d480f2b86ce97c00ac5b55ff1
+SHA256: d86e802f20bc68645aad963517b3e12f9ef5d0cf60b44a9ed7de27545bb04c22
+SHA512: 0e22b3e4203f2d5e8e90372ad3e4d32cd7b106cbb282ee47b6a10bff1111bfba964c20302a67f277c54171ee4cd84cd0138027be6b1f5fc0c811be0f7f32b94b
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: TimeCut VIP
+Name: TimeCut (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.timecutvip
 Author: tuandb <contact@tuandb.name.vn>
@@ -2149,14 +2233,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.unzippro_1.0_iphoneos-arm.deb
-Size: 4352
-MD5sum: 82c1c773b140d7a73d17b19bc1e570a1
-SHA1: 8e95b6e453cb90470bf39dcb03a1be5f3980bb75
-SHA256: 5fdabcd01e0b0b743ac82c40f5937df36fbd58ce11f360dcdaa988d9a26e65bf
-SHA512: 17e78ba7c6e66b1d15e5c355e989028a34d6d33c590ea653d4798d258f043f68a0a1c3ed1d2fc11d3af2361811b8a5e202ea88e5fb764712469ff2e5b61b4043
+Size: 3840
+MD5sum: 2485e9792a47a07e621f67ebe13fa551
+SHA1: 6c0a5ba543ef0f0256f7e9f9147fc3cfedfc3d39
+SHA256: 2c91e182ddcb3075334f8f60b0047cfb7143448430187fdc0ee7b4232fb27e44
+SHA512: 5595d8f3904e093b9088d780823a414ee43641b4977c391319e685a18fe970ccbadea9ae8dc8b898c675550da9872cf40da1b914980fd09ede41cc3abf60bf6a
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Unzip Pro
+Name: Unzip (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unzippro
 Author: tuandb <contact@tuandb.name.vn>
@@ -2206,6 +2290,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoswipes
 Author: AnthoPak <anthococagne@hotmail.fr>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.wallpaperspremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.wallpaperspremium_1.0_iphoneos-arm.deb
+Size: 4564
+MD5sum: ec62d541cd8a16b9489564de5d0ca9e2
+SHA1: f806ddc84d018d475e60a7436020bedc02315782
+SHA256: a357361014c9038a3df5fd02694af58adfad5bcd88fe9bbb29991e15655eeae6
+SHA512: cfcc0b42322a70eb392853235018e5458712dcba3072e7567e4d9b538b21659d81a40b1f7e20fc33133bddf213619a06b78c6e5be96fefa69a7a27245a96aa5e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Wallpapers (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wallpaperspremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.weibonoads
 Architecture: iphoneos-arm
@@ -2257,14 +2362,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.winkvip_1.1_iphoneos-arm.deb
-Size: 4732
-MD5sum: 9b2a13cef669275e05b5198d75b24055
-SHA1: f8c5d5a3df8dd4b2c65c43f5b4a154c3fc4a4729
-SHA256: c76991bbb46cefcd36c39c7086c4949ac7fbe1e7132cfb83fbeb14b8a66d79ad
-SHA512: 29837990d08e1c2c8419b5b95d174ea0f687048971b09e984f94b429d92cd1a6041cd6bc03096177128f53fec73fc7ed9b6ea00ab43525afcd81c7b93c6525e8
+Size: 4716
+MD5sum: 440fde17e14c2f4b5aa1960b242a9d06
+SHA1: 141ae61154c25acb33d3dd410254698a226ccbd8
+SHA256: 83a1e4a996ba3172207691e3c1135b4c0c25d116b9436e8124de636b08816e67
+SHA512: 7eefa4f9d1284c959851137e1a240309334e944598c7d70ee2e4cfa6b985fc4781fb9ed1e71b9676e940f33d42465c8c7f2614f7946ec98cf3d08cd1a4eb9b4f
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: Wink VIP
+Name: Wink (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.winkvip
 Author: tuandb <contact@tuandb.name.vn>
@@ -2278,14 +2383,14 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.wpsofficevip_1.1_iphoneos-arm.deb
-Size: 4892
-MD5sum: 54316496e7d762295b78b00a2ac13625
-SHA1: 40cc85523614fd26f00ac26ea1e9421ab514124e
-SHA256: bacbe06a9e2a2e5b6d8dabfaef8a3766fdac96fe12b35c24e445a5f71213c68e
-SHA512: 8639885ced3daf9f14a576b48d99a949db0039af65b7150e67d65b91e1efd7fecbb805401ef9a510efeffc3b803c153a6406a3f357db497447d45916ab2c794b
+Size: 4896
+MD5sum: 8969fafe26466d25864f441483c9e041
+SHA1: d4dab6635d8f1f78023551186ff650fafaddaa95
+SHA256: 6358fb38800637cf3099857e6d7acedf5764c852f07a18b27edc27799065d08c
+SHA512: dfbfca0d78c3476bdccf3f79a2c1ea54d5dc852d60ac4bca17fcb45d79375a2df947696069a644ac31b0556bf784f8b32636c08394156e8833bc42e57188d4f7
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
-Name: WPS Office VIP
+Name: WPS Office (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wpsofficevip
 Author: tuandb <contact@tuandb.name.vn>

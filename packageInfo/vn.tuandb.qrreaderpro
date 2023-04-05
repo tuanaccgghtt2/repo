@@ -1,0 +1,9 @@
+{
+	"name": "QR Reader (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id368494609' target='_blank'>Download</a>",
+	"compatitle": "com.TapMediaLtd.QRReader",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093226565137080440/QR_Reader_Screenshot.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093226565137080440/QR_Reader_Screenshot.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093226564822519808/QR_Reader.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093226564822519808/QR_Reader.png'/></a><br></div>",
+	"open": true,
+}
