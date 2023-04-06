@@ -1793,6 +1793,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ntspeed
 Author: julioverne
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.oldrollvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.oldrollvip_1.0_iphoneos-arm.deb
+Size: 4156
+MD5sum: 50fb5f9883a9f3645c093beb26d48570
+SHA1: ae60f956eb2252e0a6b71028e0c68d81fad2a65a
+SHA256: c9debc4aeb3f76e12674208676d7698219cd450b8ce4502e9de9864bf4f3eff1
+SHA512: c1f46dba830dd216b96546d0652b37df0f8c3ab882e7d39aa57a29c103a68bf18149d045548fc35994c7e4669951327679daf051b5979f1441a5c7266c775018
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: OldRoll (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.oldrollvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.pdfpropremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2137,6 +2158,27 @@ Description: Enable VIP Version
 Name: Stitch (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.stitchvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.storylabvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.storylabvip_1.0_iphoneos-arm.deb
+Size: 4436
+MD5sum: 06cc572a4029d3490438acad83af0c86
+SHA1: 31fa5244c7422cebfcbaf5f60f4fc28bd70144ca
+SHA256: dca87633e7d6998571583c526ec73a837c2b99163ba624ce934b8dffa13b3121
+SHA512: a43dc51fd0a2fa4f431ae3965a65adf63bcd85169a713a14edb779a04039b82f31c54c7f6beffb070712dc037b66d4039b8d391ba359785d658678ce9ce1a6a9
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Story Lab (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.storylabvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
