@@ -1,0 +1,9 @@
+{
+	"name": "Bear (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1016366447' target='_blank'>Download</a>",
+	"compatitle": "net.shinyfrog.bear-iOS",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471017512484864/Bear.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471017512484864/Bear.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471017747370044/Bear-Screenshot.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471017747370044/Bear-Screenshot.png'/></a><br></div>",
+	"open": true,
+}

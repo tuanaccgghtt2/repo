@@ -1,0 +1,9 @@
+{
+	"name": "iSharing (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id416436167' target='_blank'>Download</a>",
+	"compatitle": "com.isharing.iSharing-Lite",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471057626796082/iSharing-Screenshot.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471057626796082/iSharing-Screenshot.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471057941385236/iSharing.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471057941385236/iSharing.png'/></a><br></div>",
+	"open": true,
+}

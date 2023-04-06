@@ -1,0 +1,9 @@
+{
+	"name": "Funimate (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id844570015' target='_blank'>Download</a>",
+	"compatitle": "com.avcr.Funimate",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471033878659103/Funimate-Screensho.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471033878659103/Funimate-Screensho.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093471034272915486/Funimate.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093471034272915486/Funimate.png'/></a><br></div>",
+	"open": true,
+}

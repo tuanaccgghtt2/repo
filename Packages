@@ -645,6 +645,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bakgrunnur
 Author: udevs
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.bearpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.bearpro_1.0_iphoneos-arm.deb
+Size: 3992
+MD5sum: 5e78d180f9dee20dd549585223c13c0e
+SHA1: e21f9e56ee55c2dd052dfb1c8415a1eb6907b6f9
+SHA256: a1cd99d4368dd40b2d0ddb3a7f82bc8c36c092b5a5d823772f9354c44d93485a
+SHA512: fdcbb1e84d7fb652afb6a8a3d78294d883381af26dfae188b86e3387a516589bcc4dbd5a001109d0c08662330b617d1f4a845950f6dc2c9db47558fa0e6d7946
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Bear (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bearpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.bodyfilterpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1214,6 +1235,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ftt
 Author: ipad_kid_Randy420 <repo@hackyouriphone.org>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.funimatepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.funimatepro_1.0_iphoneos-arm.deb
+Size: 4356
+MD5sum: 9779f52dec98cef7569f52086098056f
+SHA1: 6cc0edeca730c910dcdf27583bbcfcb0071857a1
+SHA256: ffae1b5ab5a584de8aad3ca79acbf25239ee312fefc8a774d37a693b5cc09456
+SHA512: 90e0d6db0fb14d9b169edc61df35c92bd4ab88d413c2de5ba31d42f117ea984aaff531d38510d867121ed0de75f5a32ac82858088092b598402497cb793ad4d7
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Funimate (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.funimatepro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.goodwifi
 Architecture: iphoneos-arm
 Version: 0.0~beta6
@@ -1363,6 +1405,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.iosgodsiapcracker
 Author: Laxus
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.isharingpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.isharingpremium_1.0_iphoneos-arm.deb
+Size: 4332
+MD5sum: 43e90bac2089dc0715e46c2f6e513b61
+SHA1: 5953e2f0d8baeb0eeb85510b919ba9b33542b038
+SHA256: 37799fe1111acebcc1fe19e381e04d442719759de1b093f5c14810c7ddae7a4a
+SHA512: cd841e21e2a3aebe89be01665a84a051d494bed83d168211935e23b02d154b52727b8acdf851e0992bb54f853dc3de1ff6c10696e8d325f4b2751ec6305b99f5
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: iSharing (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.isharingpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.ivcampremium
 Architecture: iphoneos-arm
