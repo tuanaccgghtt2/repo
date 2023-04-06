@@ -1,0 +1,9 @@
+{
+	"name": "ToonTap (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1661930425' target='_blank'>Download</a>",
+	"compatitle": "com.cartoon.toontap",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093633895796330527/ToonTap-SC.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093633895796330527/ToonTap-SC.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093633895414640770/ToonTap.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093633895414640770/ToonTap.png'/></a><br></div>",
+	"open": true,
+}

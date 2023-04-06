@@ -1,0 +1,9 @@
+{
+	"name": "YouCut (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1620499741' target='_blank'>Download</a>",
+	"compatitle": "com.shantanu.YouCut",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093633912250572831/YouCut-SC.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093633912250572831/YouCut-SC.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093633912556761128/YouCut.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093633912556761128/YouCut.png'/></a><br></div>",
+	"open": true,
+}

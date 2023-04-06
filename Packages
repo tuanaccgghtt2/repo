@@ -1342,6 +1342,27 @@ Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Author: Hoàng Tuân <contact.tuandb@gmail.com>
 Support: Hoàng Tuân <contact.tuandb@gmail.com>
 
+Package: vn.tuandb.incollagepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.incollagepro_1.0_iphoneos-arm.deb
+Size: 4292
+MD5sum: b906e8492302af452e5897c9b04202ad
+SHA1: b35d95d2dc433b93a22e8e74f912c42977129409
+SHA256: f944275a7fdd987e4f89dfddff6092be8e669ef1107b81be6560e7e9a80d908e
+SHA512: 39cffca53435b7d25319f71aefdf024e60727c8e3055d49bd989052cb42e4bfed4ced03f7b613d7a57b59cf66f311bdd8ff48ce838e53b83acf7ba85c590dcbb
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: InCollage (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.incollagepro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.infusepro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2288,6 +2309,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.timecutvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.toontappro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.toontappro_1.0_iphoneos-arm.deb
+Size: 3820
+MD5sum: d9f94363a89d5008f6cac86816180355
+SHA1: 53f23313d08bad9a59a2b79c5521ed198581ca3d
+SHA256: 581aef88ee470f37fc9cd5ed86952f13d5b25c4ca0c9d08690be4444ed02b8a8
+SHA512: de1850e9ecc7c1c20ef5dc668f967aeeee3f30d22cd528b0c68a1ed8633aaee13b8290a307afb6098f9582381ecfc94f2d023b7b1bf52a9f7b2e48ad2a50857b
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: ToonTap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.toontappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.tranzlo.tv
 Architecture: iphoneos-arm
 Version: 1.5
@@ -2498,6 +2540,27 @@ Description: Enable VIP Version
 Name: WPS Office (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wpsofficevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.youcutpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.youcutpro_1.0_iphoneos-arm.deb
+Size: 3828
+MD5sum: 57c832eb3943060fec885966b79fd0bb
+SHA1: 4631a3ea26d77339309cde82e2023800b4f102e1
+SHA256: 3bb3435d6c6b8c216f9e7b0f9cb36e303d127d23a50b74e6733a9f3ad89c7f1c
+SHA512: 8b6026cb59228993f2ef42abf7751132f4543130f8229ed10409bf6ebe8c255a2e7f32a591376be40a11be382a5223eade384591bd4a950c2bd222929aedb245
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: YouCut (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.youcutpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
