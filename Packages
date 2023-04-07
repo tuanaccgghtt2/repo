@@ -687,6 +687,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bearpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.beautyeditorpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.beautyeditorpremium_1.0_iphoneos-arm.deb
+Size: 3952
+MD5sum: 8a67cb85f74a4d9324630371914d53dd
+SHA1: 23c9924e548e42f2ddcd3dbceb27136d2b41be33
+SHA256: 0fd079e0b2aa2e0935498f28867ca89f418b7993e82fa240d83057c28252f8ee
+SHA512: 33e85c98bf902c447d434198c1a2e43281fb364057bdfe40b4512e269435f46378ba4b04dc501699397cf624635e91afe2336aee9afce57136cb29bd8b9faf93
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Beauty Editor (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyeditorpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.bodyfilterpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2521,6 +2542,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoswipes
 Author: AnthoPak <anthococagne@hotmail.fr>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.visagelabpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.visagelabpro_1.0_iphoneos-arm.deb
+Size: 4080
+MD5sum: 47dae4566ac94e83563d9f57b2bd0e5f
+SHA1: bec62d0d18e14f8061ac4682e287c9ef0d97c204
+SHA256: 92a08ed1d8c62328fcf96378680b188d01072f9261dc43f7f98a7cd38b08a565
+SHA512: e7caab79ec10151b3d98beedb03c6d65872a051515cf011ad876758f3cae76aadf6b24d4d79ba748509f55ffb193086e9a9a3a7ae344fca3677462767367738c
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Visage Lab (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.visagelabpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.wallpaperspremium
 Architecture: iphoneos-arm
