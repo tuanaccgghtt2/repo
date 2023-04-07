@@ -1,0 +1,9 @@
+{
+	"name": "Pomelo (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id839452750' target='_blank'>Download</a>",
+	"compatitle": "com.meitu.pomelo",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093846238199304242/Pomelo-SC.PNG' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093846238199304242/Pomelo-SC.PNG'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093846238455144579/Pomelo.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093846238455144579/Pomelo.png'/></a><br></div>",
+	"open": true,
+}

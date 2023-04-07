@@ -1,0 +1,9 @@
+{
+	"name": "Perfect Me (VIP)",
+	"desc_short": "Enable VIP Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1624662225' target='_blank'>Download</a>",
+	"compatitle": "com.frigidpine.lightmeup",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1093916225286975629/Perfect_Me.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1093916225286975629/Perfect_Me.png'/></a><br></div>",
+	"open": true,
+}

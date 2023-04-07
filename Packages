@@ -474,6 +474,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.addmusicpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.airbrushpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.airbrushpremium_1.0_iphoneos-arm.deb
+Size: 4404
+MD5sum: 1b0f11c3922c7247783886c29eaa6213
+SHA1: b3991cb736b4aacb90848fe9537468a4160b6bba
+SHA256: d80b1336d590d9aea6c36c203625648a683c7adcce3b7c80095f939cb0e692c0
+SHA512: 8788615026164e9cbe5891da1c8ebf9926fd3998acff3b05494ba7e51f0bb1f4b2d9cd29c6795439a5da9b72a65ad9b65cfe1d2a2d9b0fe7ae902c17d3e30d6c
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: AirBrush (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.airbrushpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.amber
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -1877,6 +1898,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.peachypro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.perfectmevip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.perfectmevip_1.0_iphoneos-arm.deb
+Size: 3796
+MD5sum: bade0e18b577d8436054f266d319f2cf
+SHA1: 398a7b7e43c14bb977f6cccef8b7232f810f0683
+SHA256: 07f3f72543004d056ecd6117fc097f951fe75d1ded4e0bc3f9a13164c60cf8bb
+SHA512: 9bfc3a814b5b7d82eb4c72946ad7092cf73f2cb63d0ac83f6e39702a8106a669f31561b5ab88663b1de985d6e8fa9be991d236e1b0f778a180bd4c5cc69a4eda
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Perfect Me (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.perfectmevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.perfectvideolitepro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1958,6 +2000,27 @@ Description: Enable Pro Version
 Name: Polish (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.polishpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.pomelopro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pomelopro_1.0_iphoneos-arm.deb
+Size: 4312
+MD5sum: 40426d028d09046bf1b2ea2911b5596f
+SHA1: 9df2bd1c95637528797933101a097950ee285367
+SHA256: 6ca8d3fef59a6d72a0efec9eba1a3e7f73f5e53f631778a53a06c5f37fcca543
+SHA512: 389e0b3be71eeee0aa2624b6c1d7fbfb6d7a20b1931c75b7bc242f55e8db6317cd09bdf32f46d2ecf28a760bf48b122f05529ad204bb9197ed9bad8e3320e8dc
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Pomelo (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pomelopro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2390,6 +2453,27 @@ Description: Enable Pro Version
 Name: Unzip (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unzippro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.vcuspro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.vcuspro_1.0_iphoneos-arm.deb
+Size: 4336
+MD5sum: 662f4cd347efbe34fcad06c4c6bcb208
+SHA1: 886f1e6b46033b22e5263b2a7f09ecd185bc89e5
+SHA256: c95eef515d68c9be0130770f8baef69100d1b1b609ed705f33841403fbc2ca39
+SHA512: 177663737b15a6fb82720ffd5fd12effbdecda7af06c2be22e419ce0585f47941f0a6be0031cec26d7be759cd96c7df6028080e583acd4dcd8a5591c1c88730d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: VCUS (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vcuspro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
