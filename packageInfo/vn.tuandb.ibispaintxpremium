@@ -1,0 +1,9 @@
+{
+	"name": "ibisPaint X (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id450722833' target='_blank'>Download</a>",
+	"compatitle": "jp.ne.ibis.ibisPaintX",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094347618739556402/ibisPaint_X.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094347618739556402/ibisPaint_X.png'/></a><br></div>",
+	"open": true,
+}

@@ -1,0 +1,9 @@
+{
+	"name": "EnhanceFox (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1544212575' target='_blank'>Download</a>",
+	"compatitle": "com.risingcabbage.enhancefox",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094347619507114084/EnhanceFox.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094347619507114084/EnhanceFox.png'/></a><br></div>",
+	"open": true,
+}

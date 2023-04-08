@@ -1119,6 +1119,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dvirtualhome
 Author: DGh0st <deeppwnage@yahoo.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.enhancefoxpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.enhancefoxpro_1.0_iphoneos-arm.deb
+Size: 4232
+MD5sum: 4534c2e3c64714271f674d6bcf82ad76
+SHA1: 03d416ee12bae9516dc9f7db981abcdb6b428911
+SHA256: b6a28da29614668f958f9f6857713d62aa2fa318ec5b382d1a0b9782c73b1a69
+SHA512: 1294f3292d9261b21f0dba446b98e7e067d58235c4d9b2128ccc7ba36d2693713268bcff7aa795aeefeebf6bfd178479241124d29a4672dc9ee20667d403c4cf
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: EnhanceFox (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.enhancefoxpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.ext3nder-installer
 Architecture: iphoneos-arm
 Version: 022b
@@ -1401,6 +1422,27 @@ Description: Enable Premium Version
 Name: Gradient (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.gradientpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ibispaintxpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.ibispaintxpremium_1.0_iphoneos-arm.deb
+Size: 3820
+MD5sum: 26d2a16c445b1da3070a49cfdd3c5413
+SHA1: 9d22663c9966e282334089bc074e4acd42f7d159
+SHA256: 7c7a27fc7924680429a41bfbc6320a8cae5056e0f06a9ddd84cc95720e8f6ab3
+SHA512: 2fac5cef8eccb37880475735434d8d467e38f658c62c15edc0e6ed675fb1dcde9db25a46f57a9e958fc850fd108d38c3882c136010e34754d6bed9ade847d1e1
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: ibisPaint X (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ibispaintxpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2198,6 +2240,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.relensvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.removalpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.removalpremium_1.0_iphoneos-arm.deb
+Size: 4472
+MD5sum: c796d1eff602f1348ebf7f16a6ca5239
+SHA1: fb42f9dff62eef77c9a52613b100f0b7d0dff7e8
+SHA256: 083474832c61816f1809fa99e3f4dd72d55ea89f2348b30d62a73c970773a57f
+SHA512: 74cc173afb3056af862df154ec1fe89bdf364c970f019c6cd566b31716fb929c5f6eccdc304ca5e29ad9536decf510d9d08a2311902af844cdf1899e6101e649
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Package Version
+Name: Removal (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.removalpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.safariplus
 Architecture: iphoneos-arm
 Version: 1.7.22
@@ -2263,6 +2326,27 @@ Description: Enable Premium Version
 Name: Scanner PDF (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerpdfpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.sketchbookpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.sketchbookpremium_1.0_iphoneos-arm.deb
+Size: 3996
+MD5sum: cc33f2f775e9178de80a8e969d3e5b0f
+SHA1: bda9afd6fe2cf8c73bd6f65c69268747810c66f1
+SHA256: 2781d12feea6d09396e23160a6b4ae8911f6351d8ba48bf213fb0b787edb09eb
+SHA512: a9afcc6c55e3da291b0455f1658e06b6eedf90adf476a9a1d798ca269ca77326ec77bcafa8b11c3f77067678a78708ef44de1e54faf4f91d39e9e26ff28bb424
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Sketchbook (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.sketchbookpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 

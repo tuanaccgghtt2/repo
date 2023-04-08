@@ -1,0 +1,9 @@
+{
+	"name": "Removal (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1457711961' target='_blank'>Download</a>",
+	"compatitle": "com.skysoft.removalfree",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094347618995421214/Removal.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094347618995421214/Removal.png'/></a><br></div>",
+	"open": true,
+}
