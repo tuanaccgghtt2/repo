@@ -645,6 +645,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.audioconvertpremiu
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.backgroundeditorpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.backgroundeditorpremium_1.0_iphoneos-arm.deb
+Size: 4200
+MD5sum: 5f92d02021ff1d11ea3631cb304c401a
+SHA1: d6a25b86e944f6007a3e5da7f3bdb38ecd74f2a5
+SHA256: a8633f99ea74e295b832d0a9ffd6b9bef9609fc0daa7470301a9d59ff87be93c
+SHA512: 33975939d10f2fcec723fb67a34d1d4215882a476b73e5f357501115f6b66ece7a30dac0a5f486ebf5394b940c165f7f554d1647dac2641e4b31071c1c8ba619
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Background Editor (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.backgroundeditorpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.7.12
