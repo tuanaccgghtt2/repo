@@ -1,0 +1,9 @@
+{
+	"name": "BeautyPlus Video (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1592035837' target='_blank'>Download</a>",
+	"compatitle": "com.pixocial.beautyplusvideo",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094238773505708082/BeautyPlus_Video-SC.PNG' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094238773505708082/BeautyPlus_Video-SC.PNG'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094238773824471060/BeautyPlus_Video.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094238773824471060/BeautyPlus_Video.png'/></a><br></div>",
+	"open": true,
+}

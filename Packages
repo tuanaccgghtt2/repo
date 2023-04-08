@@ -729,6 +729,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyeditorpremiu
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.beautyplusvideopro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.beautyplusvideopro_1.0_iphoneos-arm.deb
+Size: 4192
+MD5sum: d00343a0a87938392c6c7324e1f06065
+SHA1: b347b34a85fe8c38d401254f0eab5866051b7122
+SHA256: c2a2f83cb87a3b16e4553984c6ea35898c5bc758c7e4bbf63df41720bb5f1adb
+SHA512: b5493138cd4992cc0f5003620b755f5503dc0a3d4cab97d361cd87221d3e4a4030b1a39390f5973a0e6d09bd6169308ec85951a2fe27fd9edf6520c68d017f8d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: BeautyPlus Video (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyplusvideopro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.bodyfilterpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2156,6 +2177,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.qrreaderpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.relensvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.relensvip_1.0_iphoneos-arm.deb
+Size: 4004
+MD5sum: 15a7c6d589321cbb9493734e191dacc6
+SHA1: 57f16a6c56a5d91caf8a917d5baa1106668bcc92
+SHA256: fd312d01bfeb58b6718d191c802273f27dd717273f215ea9990940326d8a4229
+SHA512: c8650cbab28fb6eab7e3dcdb9af119dc150f89764cb99b881bb0c0bedb6e757b14e3d88dd551d5ed98f47dd74ff0e29e04efb830522d784524109ff76ddd94cf
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: ReLens (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.relensvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.safariplus
 Architecture: iphoneos-arm
 Version: 1.7.22
@@ -2687,6 +2729,27 @@ Description: Enable VIP Version
 Name: WPS Office (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wpsofficevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.wutacameravip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.wutacameravip_1.0_iphoneos-arm.deb
+Size: 4340
+MD5sum: f2c7163c81b211a98e2d41f2bd98133e
+SHA1: 61e80d83b4001a1aa25a642cd4a13a437621d382
+SHA256: 1017db7a28ca99c5efb849c53b8a071eff05cf9139fe952f78a99e3bff71ee1c
+SHA512: 5b4dba02d024921b80c6eb164a6ccb605d527d49858beb224ba0dc1f99fd922eebf199e32fa9c439c46ccead5c3c6b169cdfd2b407626ea4a5f073c4fd9674a2
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Wuta Camera (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wutacameravip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
