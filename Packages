@@ -1595,6 +1595,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ivcampremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.kinemasteroldpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.kinemasteroldpremium_1.0_iphoneos-arm.deb
+Size: 5116
+MD5sum: 1d490a702828218b6b373c5f7641c114
+SHA1: ac6b95d00e99ffd1549b4708efa6679941d1c9d8
+SHA256: 45c811dd3b828d2d976fc5dd9393c83a39b381c104667efb619780aeb4a6545f
+SHA512: 869ae9b89bd87bc16cf108207643ce7d1fbb879a7fb8fab5b251e02b8a291a636cd8f0f53693794953faa7d854a36f5d9f5e91e24f5013ebc3e30cbc6f3846bb
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: KineMaster (OLD) (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kinemasteroldpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.kolorovip
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2066,6 +2087,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.personapro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.photogridplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photogridplus_1.0_iphoneos-arm.deb
+Size: 4868
+MD5sum: dd97e6146f8e91bf3fb8b47b7356f652
+SHA1: c166b83ba2e1ffbd809b34e681b101ef68a7a5b9
+SHA256: 9909c5799b98950e3dd1064c67da763ead1fac8401db22d1e171354fe2709bcd
+SHA512: 8c2f4730c1ac70f7e7c1d6de20617896bf9890a4868020bf2c02256374fac6bb57998b96896a15271872054237c551b2a3f59e4bdce119c1af9ba8bbf927cc25
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: PhotoGrid (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photogridplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.picsartpremium
 Architecture: iphoneos-arm
 Version: 1.1-2
@@ -2178,25 +2220,24 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.psexpresspremium
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.1
 Section: HackApps
-Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
-Installed-Size: 152
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
 Depends: mobilesubstrate
-Conflicts: com.hoangtuan.psexpresspremium
-Filename: ./debs/vn.tuandb.psexpresspremium_1.0.0_iphoneos-arm.deb
-Size: 4716
-MD5sum: 8824533988b3467d37b2029429c8c2f4
-SHA1: 1b7c98d5c5b722dd9173289240f2528e6325481c
-SHA256: d2a583fcf877ff7ac3980b3f7daf235b339f90aea9f2690d997cc18ee07281d1
-SHA512: 298017317fe1fc32a7c4d55b7a8ef901f10851e3f2c1028a2f659b755701d69acacfdfccf651a311cc2bb02fb2e0aeda3888935e8d809ed4acff2064b4c75d3d
+Filename: ./debs/vn.tuandb.psexpresspremium_1.1_iphoneos-arm.deb
+Size: 4964
+MD5sum: d4b1d01132d7825205b852e26d51ae65
+SHA1: f302fa44648479c6e074611dc451787e5951db28
+SHA256: a3c918d7a76d8511e8289dbd614c20b0204f4818cb8c7b52ef4387d7e7c151c1
+SHA512: 63292d0153bfecc9ba08b4f206951aa88a2a80d9ee23db6f9b8b33b3b0ae30550d3092a517b13fbe3c3a78120be31e3ab57f7a715ffb9d6a9d6e5869785f0549
 Homepage: https://repo.tuandb.name.vn
-Description: Enables Premium features.
-Name: Adobe Photoshop Express (Premium)
+Description: Enable Premium Version
+Name: Photoshop Express (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.psexpresspremium
-Author: strejda603 <strejda603@centrum.cz>
-Support: Hoàng Tuân <contact@tuandb.name.vn>
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.qrreaderpro
 Architecture: iphoneos-arm
@@ -2540,6 +2581,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.timecutvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.toonmepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.toonmepro_1.0_iphoneos-arm.deb
+Size: 4744
+MD5sum: 5b3e3ac8cfe01a11783167f35034e2ca
+SHA1: 5fe142e5318f7a50380d94de2757295b07333281
+SHA256: ca2121e4ad232d9555265ce502b331e8aa50af629220e72aff296b027e201dd2
+SHA512: 52d96a1dc7270f9d4bb3d313d53baaa17588d13218fe2a85793eb430a7b2127314ec816afd09fbdd92882bcaa22c15cc3f582460bcd2ef963d0ca3cb0b775403
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: ToonMe (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.toonmepro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.toontappro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2667,6 +2729,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoadsspeed
 Author: lenglengyu <lenglengyu@126.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: lenglengyu
+
+Package: vn.tuandb.videostarpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.videostarpro_1.0_iphoneos-arm.deb
+Size: 3824
+MD5sum: f9b50efad5855abc15703647cf1cf1c0
+SHA1: b82f0823fbaec6fd13bddb7901e95ba481caec45
+SHA256: 445f48645e04e9ba1b48709570e557ef310f4adfc32ffe4239861d3858a591e0
+SHA512: af487fe0e575e854cd9b6ff15e9e7f2721ef074305b9be21ebfa8ff84cf6ba7dd4b1e158a083c3c9bca26914f0321e875bf2140a431f90501ac6e90f08fe8d62
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Video Star (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videostarpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.videoswipes
 Architecture: iphoneos-arm

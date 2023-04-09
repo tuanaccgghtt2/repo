@@ -1,9 +1,9 @@
 {
 	"name": "Adobe Photoshop Express (Premium)",
-	"desc_short": "Mở khóa Premium cho PS Express",
-	"desc_long": null,
-	"compatitle": "iOS ≥ 11.0",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id331975235' target='_blank'>Download</a>",
+	"compatitle": "com.adobe.PSMobile",
 	"changelog": null,
-	"screenshot": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094688986389303376/Photoshop_Express-SC.PNG' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094688986389303376/Photoshop_Express-SC.PNG'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094688986691280976/Photoshop_Express.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094688986691280976/Photoshop_Express.png'/></a><br></div>",
 	"open": true,
 }

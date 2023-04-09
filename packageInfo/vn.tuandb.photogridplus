@@ -1,0 +1,9 @@
+{
+	"name": "PhotoGrid (Plus) ",
+	"desc_short": "Enable Plus Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id543577420' target='_blank'>Download</a>",
+	"compatitle": "com.YunFang.PhotoGrid",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094738062862467152/PhotoGrid-SC1.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094738062862467152/PhotoGrid-SC1.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094738063109918810/PhotoGrid-SC2.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094738063109918810/PhotoGrid-SC2.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1094738063407710399/PhotoGrid.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1094738063407710399/PhotoGrid.png'/></a><br></div>",
+	"open": true,
+}
