@@ -410,6 +410,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bakgrunnur
 Author: udevs
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.facetunevip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/old/vn.tuandb.facetunevip_1.0_iphoneos-arm.deb
+Size: 3812
+MD5sum: 9e89ffd095a9b0709c97f63c30bcbf44
+SHA1: c0e2eca231606ea4432add8e6965f94eadb94639
+SHA256: 639fe61bb6038dd62624aaecc02435757359fe0e51c7fdf231a608000b25f490
+SHA512: 73b52687ade66d2c0bf6cc11fe3d674b66093705c46845f8ca009e0ced45f278ba53ac3531c1050f43208a66e0f6c9e5b68fc3b0c937df0edf1a8e00175ba5d3
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Facetune (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.facetunevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.1998campremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1165,17 +1186,17 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.facetunevip
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.facetunevip_1.0_iphoneos-arm.deb
-Size: 3812
-MD5sum: 9e89ffd095a9b0709c97f63c30bcbf44
-SHA1: c0e2eca231606ea4432add8e6965f94eadb94639
-SHA256: 639fe61bb6038dd62624aaecc02435757359fe0e51c7fdf231a608000b25f490
-SHA512: 73b52687ade66d2c0bf6cc11fe3d674b66093705c46845f8ca009e0ced45f278ba53ac3531c1050f43208a66e0f6c9e5b68fc3b0c937df0edf1a8e00175ba5d3
+Filename: ./debs/vn.tuandb.facetunevip_1.1_iphoneos-arm.deb
+Size: 5000
+MD5sum: a4d7afa9717774730bd18fa6b102b81b
+SHA1: 9c178a4470011c16326fe33a37b15346f2b88587
+SHA256: 55791328f5730cf0787274d2b635eb9c6d660f94e00ed699b9a38f40b3eabde6
+SHA512: c1e18911567b8e2788788f67e9dc8d838eadf24acd3807ed8adf9db30b5fae3d227c015194076c2e995cc446dc00474b21084f95ae6c11ff6dfc5944bf1ad476
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
 Name: Facetune (VIP)
