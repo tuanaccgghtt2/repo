@@ -666,6 +666,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.audioconvertpremiu
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.avatanpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.avatanpremium_1.0_iphoneos-arm.deb
+Size: 4120
+MD5sum: 512e8176a9813b04e958e8c376d58d2d
+SHA1: d0ac66651622ce67562dceb665384d1d3d741b11
+SHA256: 4a68fff1819fcec1d962282f9c460ff87f457d2bd71d89393bc07aed29288227
+SHA512: 83849e6745da91eecb9b511bbbac014193924a6ef4aad51dd46735d3979675e6673ffb5251cbb801c09d2b6a11ff58eb80ca3a92e7e1f87be6a921d81d515eb2
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Avatan (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.avatanpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.backgroundeditorpremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1938,6 +1959,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.nicegrampremium
 Author: strejda603 <strejda603@centrum.cz>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.nightskyplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.nightskyplus_1.0_iphoneos-arm.deb
+Size: 4428
+MD5sum: e7f8ba61a29994ff6d36ca80594f8410
+SHA1: 8e928fa7661600a8592e68a46d60900ed5a13f3e
+SHA256: b4dc8995e0509039142a169b48448da27519970f415801023e2eabd634f9c1c3
+SHA512: 21f38ae02bdd41fd8e84ea262f38412c993ec4ebfc23b453a1b7a537bf38ab926a8a43ce3548aa2a677f39b400601a9e365728dfee179ca00f649ba45052d34e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: Night Sky (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.nightskyplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.nopassafterrespringsafe
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -2126,6 +2168,27 @@ Description: Enable Plus Version
 Name: PhotoGrid (Plus)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photogridplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.photomathplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photomathplus_1.0_iphoneos-arm.deb
+Size: 3808
+MD5sum: 5d4ff54d01697e5461de6a4cb32caa33
+SHA1: 2aa0febf76afef6bd2e55e3c2fc95d76233b7a06
+SHA256: aa0f0710bc6a3bf05f978251eb2be10919bd978ac36c27b5445bbc747ce085b6
+SHA512: bd845d93adacc7a83b5f4331dd930c1f37f2a278e2f22534d139bf65d935bc2b9ddccf943e3b57c87e06c3095bdba4152d74388f33205047b2b0cf3409d684df
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: Photomath (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photomathplus
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2388,6 +2451,27 @@ Description: Enable Premium Version
 Name: Scanner PDF (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerpdfpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.scannerproplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.scannerproplus_1.0_iphoneos-arm.deb
+Size: 4412
+MD5sum: 932845b137c49d4acbac8a9bae879d53
+SHA1: 7d31eade868d8aacd750450789c2ab88a25f7755
+SHA256: c1852703e8c8ce69df64a32d3be1674edb58b262bf1f7e020cf9ae549f72869e
+SHA512: 229add02f5a58f5b94ed1484428fe195869ef6f12d03d0836ff0b62a9c038c89319bcf921b7c3f0fecbc30c37e209d422b6c565fd86eb5edbd2629b09af123f7
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: Scanner Pro (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerproplus
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
