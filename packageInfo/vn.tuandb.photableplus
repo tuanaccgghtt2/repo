@@ -1,0 +1,9 @@
+{
+	"name": "Photable (Plus)",
+	"desc_short": "Enable Plus Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1216590966' target='_blank'>Download</a>",
+	"compatitle": "com.alphatech.CollagePro",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1095420668297887776/Photable-SC.PNG' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1095420668297887776/Photable-SC.PNG'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1095420668075577455/Photable.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1095420668075577455/Photable.png'/></a><br></div>",
+	"open": true,
+}

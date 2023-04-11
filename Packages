@@ -481,6 +481,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.1998campremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.365scoresnoads
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.365scoresnoads_1.0_iphoneos-arm.deb
+Size: 5020
+MD5sum: 98ac58de20f9575aa7821cb6ab803e38
+SHA1: 3fc2196860962c259fa57f0c41cde4fe387cbda6
+SHA256: 8fb42604e3630acd9599098299673a405203f899c535ad8d88f79c9fe86c2942
+SHA512: 37ae218f7101773d08efa32b6387019e239f7e6d48eb0a510fa13c8af5ae0f99e09366302c89fecefde5f3ac2df3531cdc02edebaa01b9a1e2b69aede803a809
+Homepage: https://repo.tuandb.name.vn
+Description: Enable NoAds Version
+Name: 365Scores (NoAds)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.365scoresnoads
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.adblockplus
 Architecture: iphoneos-arm
 Version: 2.7
@@ -521,6 +542,27 @@ Description: Enable Premium Version
 Name: Add Music (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.addmusicpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.adobeexpresspremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.adobeexpresspremium_1.0_iphoneos-arm.deb
+Size: 4216
+MD5sum: cad8677a9fb1f26cf592e26856e075d7
+SHA1: 07d403d7ad4c25bf31d3872c51ebd9e83256d25f
+SHA256: 066bfbf78e693a38bd1e4424348bd0442d3270d997413c64b6a9e9aa50e5f34d
+SHA512: 11b1a5eeb43f362621b4a6e20a2461fab7381d5039d467705d033eaa7f5a4b70d3bc72d38722aba5bbf43371afc5e1877317213c8951167127c9d793c18ab315
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Adobe Express (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adobeexpresspremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2179,6 +2221,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.personapro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.photableplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photableplus_1.0_iphoneos-arm.deb
+Size: 4324
+MD5sum: d8f5481880bfd86aa29bc460b21ebdf4
+SHA1: 7c3ee4ea382e112b36c8d534986a074f5f419119
+SHA256: 9e09743866344e9da3501dc9475f0ef01f01df2905fc3239edbb4c7f29d5ed18
+SHA512: a2e18b0315924453ae977b60263c50bcd2b9fe55e24fc80fdb05c6d81522f18d9bd99271f84d64758a6f75941f2dfe4cbdbd12641febd84b527ef47a55aeeec5
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: Photable (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photableplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.photogridplus
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2197,6 +2260,27 @@ Description: Enable Plus Version
 Name: PhotoGrid (Plus)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photogridplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.photoleafpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photoleafpro_1.0_iphoneos-arm.deb
+Size: 4628
+MD5sum: 5e38d9b5dfed14185430336213317331
+SHA1: 3ccfdfdf0bfab69a195c6d3a6028ed80ef6840d7
+SHA256: 415f4093124693c4432dc2a418e346567eab04b3f7b391b2fd26e077bed015d3
+SHA512: 883b3d639dafb0ca798cce01c654a98153b566fa7e00209fea79649045c471900fa288efb73f10c2245614433066744a8182e76baab8184f6d1d4976a4f01f03
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: PhotoLeaf (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photoleafpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
