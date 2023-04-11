@@ -161,34 +161,42 @@ Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm
-Version: 1.8.1-10
+Version: 1.8.2-5
+Priority: optional
 Section: Utilities
-Maintainer: TIGI Software
-Installed-Size: 5236
-Filename: ./debs/backup/com.tigisoftware.appdatamanager_1.8.1-10_iphoneos-arm.deb
-Size: 1900236
-MD5sum: 3d8c81bd08b88a4bc2990d0b0e89eef0
-SHA1: 7f54cfc8efc4b35fd70cb41a12e4ff8ead359fed
-SHA256: 81401b3ba48dc6fc42dc0f4b307351506b0880fd86a6136c436b9281f0e2b25b
-SHA512: c440945ac580c28f98cd1400f79251c6a3bbc9b3dbb469a9213c01eef8b1cb31704034e715e41be24bc8a5c3d5533d32091049d131d082395221114d8eaaa00e
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9121
+Depends: firmware (>= 7.0)
+Filename: ./debs/backup/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm.deb
+Size: 2518478
+MD5sum: eb6c5095ab86800f5e49b8df091f07a2
+SHA1: 95d425e279d92a12dbb6ffe4eb6b48523e7ae928
+SHA256: 4ef336fc36f0b132b237a3ffb832259c729c2a237c42e9b39d8ee46573fddc5c
+SHA512: cc1b4157150060852c2a2bd3eaa07e3e833281f241789442a92aa4e145aceb79c653ff0b7c1739e5f5654f7b128ea14b798af061320d83efe6b433a79a76257a
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Tag: purpose::uikit
 Name: Apps Manager
-Author: TIGI Software
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm
-Version: 4.0.0-6
+Version: 4.0.1-4
 Section: Utilities
 Maintainer: TIGI Software
 Installed-Size: 23200
-Depends: zip, unzip, gzip, unrar, p7zip
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/backup/com.tigisoftware.filza64bit_4.0.0-6_iphoneos-arm.deb
-Size: 8700444
-MD5sum: 023705537cb119fd58564b5918ed5cc8
-SHA1: 7c3d8234fa820d3a5f17e52dba8c8ed4596547ab
-SHA256: 1dbe2b7ff2d9463bc92454b3ad3159fc2d3b1ab8dee9f40844d719c3d7c73397
-SHA512: 410d5908344433622dac4ec83078bc43dba1fc43495efa45f55fe70171e6aabe9534c42b1f9a64ddd21fad68cc9a1b33c684cc1b4ddb95bfff9d160ffffb71d0
+Filename: ./debs/backup/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm.deb
+Size: 8701068
+MD5sum: f7d33ec0b35a3398401d5755165a4298
+SHA1: d34724796db536b91a6f1ed242088f0bfaeb1995
+SHA256: 1a20cd1ca85ac0f5d7069d548438b4efa82ecce5d7bd640b3a7f07af1f5faca0
+SHA512: 9d74aa518772684c1396d5bb00210bac7c499a3fcc24486198644e92d72b04b43fce76ce587ae79dc5861f9d19a3e10b6be550fa5f9115e41b4b4f4a19ba30e4
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
@@ -428,6 +436,27 @@ Description: Enable VIP Version
 Name: Facetune (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.facetunevip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.teraboxpremium
+Architecture: iphoneos-arm
+Version: 1.1
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/old/vn.tuandb.teraboxpremium_1.1_iphoneos-arm.deb
+Size: 4168
+MD5sum: 996a3b6021d860fa128a67cfd927c551
+SHA1: 09f51a45ca0f9734d871b8d359e8f4762cf5d48b
+SHA256: e470c941c2a7d55e3235dc5dde9bef38b7d49322a5d4c3f85ba5aeb2faa1b8fc
+SHA512: 880ec08239ae1860f68d2d8bba16e79b38ca96311e06728dd08a34ef03bf93947dd228ed2f2286bb3c8510b4510dfcf06f7a649b16100edf94d04dbfdf870265
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: TeraBox (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.teraboxpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2646,17 +2675,17 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.teraboxpremium
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.teraboxpremium_1.1_iphoneos-arm.deb
-Size: 4168
-MD5sum: 996a3b6021d860fa128a67cfd927c551
-SHA1: 09f51a45ca0f9734d871b8d359e8f4762cf5d48b
-SHA256: e470c941c2a7d55e3235dc5dde9bef38b7d49322a5d4c3f85ba5aeb2faa1b8fc
-SHA512: 880ec08239ae1860f68d2d8bba16e79b38ca96311e06728dd08a34ef03bf93947dd228ed2f2286bb3c8510b4510dfcf06f7a649b16100edf94d04dbfdf870265
+Filename: ./debs/vn.tuandb.teraboxpremium_1.2_iphoneos-arm.deb
+Size: 4856
+MD5sum: 1f9fe0ee18973815f486974647cfbb4d
+SHA1: 50c5f10d92313d3c79934c9259e9db676010d847
+SHA256: 544d0a7b3864fb19278b2f399bbcfc17bb70f3c5344001816802de7b7f184a5d
+SHA512: a1f201b26e0ccbb3b39276a2f2f796e03c3c4cc2c691470c212a379f15b5f48146304f2e329499fdf73955996242d563e3955dcdd032c65eb1953ef134d69ce2
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Premium Version
 Name: TeraBox (Premium)
