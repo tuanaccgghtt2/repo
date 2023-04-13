@@ -994,6 +994,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cercube
 Author: Majd Alfhaily
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.chicvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.chicvip_1.0_iphoneos-arm.deb
+Size: 4640
+MD5sum: 4c91ed697ca2a43abd6cb5d547fdc4d4
+SHA1: 82cfe64d720704b39e956c649e3ef8279cfdb3e0
+SHA256: 3746452859422aebb0d75d3bd08bcd0ecce2e2d517f46cab03ec5f120418dcd7
+SHA512: 90abc59f9935cb1e4397388a4e451582eb09d560e391f68d8685ac46486ceb7b2f0dc3eea7d1ccac7f997e7d5ee3c672bf7fb94a8916b4f9a8e5a028c82b0b7c
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: Chic (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.chicvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b2
@@ -2585,6 +2606,27 @@ Description: Enable Plus Version
 Name: Scanner Pro (Plus)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.scannerproplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.selfiecityvip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.selfiecityvip_1.0_iphoneos-arm.deb
+Size: 5084
+MD5sum: b88d148af9f08352b48e17afb57da8e8
+SHA1: 38ce243e4483c7ea3aa2cacaf18233fa49b2fe71
+SHA256: d06fff37a6a6d22df80bb2c379940b22fee474774a9beabb384e69f2abab210d
+SHA512: c9e0c1aa9bf1eb2f8a518c2957e722865236dc71bbf722f80463327492f3d1484be97a35e673c2b93b758a39c9b9a4e8067458ee069f25a5880376d48afb9543
+Homepage: https://repo.tuandb.name.vn
+Description: Enable VIP Version
+Name: SelfieCity (VIP)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.selfiecityvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
