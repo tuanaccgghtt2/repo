@@ -1,0 +1,9 @@
+{
+	"name": "Photo Retouch (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1352785876' target='_blank'>Download</a>",
+	"compatitle": "com.photoedit.cleanwatermark",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1096195468872142898/PhotoRetouch.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1096195468872142898/PhotoRetouch.png'/></a><br></div>",
+	"open": true,
+}
