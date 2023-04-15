@@ -1,0 +1,9 @@
+{
+	"name": "VNeID Bypass",
+	"desc_short": "Chặn phát hiện Jailbreak cho VNeID",
+	"desc_long": null,
+	"compatitle": "iOS ≥ 11.0",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

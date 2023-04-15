@@ -3159,6 +3159,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.visagelabpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.vneidbypass
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.vneidbypass_1.0_iphoneos-arm.deb
+Size: 3808
+MD5sum: faf0eb06264a4b43bc8b034eb39f3c12
+SHA1: 6128ef2942ee8237c047e9c1f9003928462fde3d
+SHA256: 51d0c84c78dbfacb39fd907b38f5d27206d013ee99d2524fe6a8532ed621e425
+SHA512: af9573b8042ab18048b60fd56fc79e399a435207bcf2c728ac13233632cd2ba75e712d3f153f1b5d54109591d78a7ce4c6f37fa7ad3b5952a953bb32e2af351c
+Homepage: https://repo.tuandb.name.vn
+Description: Hide Jailbroken Device
+Name: VNeID Bypass
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vneidbypass
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.wallpaperspremium
 Architecture: iphoneos-arm
 Version: 1.0
