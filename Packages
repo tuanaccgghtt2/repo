@@ -1015,6 +1015,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.chicvip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.clockfacepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.clockfacepro_1.0_iphoneos-arm.deb
+Size: 4376
+MD5sum: f3ac29a477f9158512f402b1708a6e11
+SHA1: 3be2dceb5821bd38584804df65b06d72b54f7d15
+SHA256: f7e5c6bdab55be6ea420f9c1d6afb6018a850571942414987ec16602ebfd97c3
+SHA512: 98a8fbebac3dd8dcec1db0ee779adee7627c5260eb8617f9576d76797b4e8ce8b2cc48fa33d1732d16d7e71941aba63c8a7b08cc744758e01d7d4b4e4e30c4b6
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: ClockFace (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.clockfacepro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b2
@@ -2347,6 +2368,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photomathplus
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.photoretouchhwpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photoretouchhwpro_1.0_iphoneos-arm.deb
+Size: 4400
+MD5sum: 227e9b3f70f3e5a1db768dd5ffb4859a
+SHA1: 42efaf7888ee1da38faeb25c0ad9a1a086705822
+SHA256: 2f1d15562570ac0ac717528a50d7a17f688da238a2cdeaece8b8f88d8b052536
+SHA512: 84e5fbd6277803d38de47399cb819dbed5c6093fe03076013c5b9639bfc5331de597d6e4c78e86d2a31eb64a062e71c790730abb44fb89b7e8d4ad1d4c294dce
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Photo Retouch (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photoretouchhwpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.photoretouchpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2365,6 +2407,27 @@ Description: Enable Pro Version
 Name: Photo Retouch (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photoretouchpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.pianoacademypremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pianoacademypremium_1.0_iphoneos-arm.deb
+Size: 4952
+MD5sum: af533b428475d4b5660b1125bf4d8b73
+SHA1: 0f58cc1af2be5804bc843f4f2fb1ebfbc8fe19c3
+SHA256: d77a1391ee814b044c53136886dd2bc6cad76a5313aa39763c4c78324ec3357e
+SHA512: 7c6c7d558c30ce41f2313fbf69aa79b9d85adab735601ef98f8a1e4108683637adb2e65ddb4f588372ff9116332c59f25bb6306967c645cff523f473eb099ac4
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Piano Academy (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pianoacademypremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2580,6 +2643,27 @@ Description: Enable Package Version
 Name: Removal (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.removalpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.ringtonemasterpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.ringtonemasterpro_1.0_iphoneos-arm.deb
+Size: 4396
+MD5sum: 43133db7c447241697375d4420b90b27
+SHA1: 1ed44e21516bf9f9de485cbcea2d8b7315e631c7
+SHA256: 4ef74bd32411630723338fa22da200c65576066cb8c4c6ca1799c179346bf7ea
+SHA512: 6d74de394e21cfb1ab00dba6bd4567d20b5a659cbdc351ab68690ae60d53e446993c977ec6e550dd55a13d2f26ac224c95d8c43d31edfd025b788294d2a107f0
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Ringtone Master (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ringtonemasterpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2988,6 +3072,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.u0smscompletefix
 Author: Baw Appie <pp121324@gmail.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.unarchiverpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.unarchiverpro_1.0_iphoneos-arm.deb
+Size: 3828
+MD5sum: 4a73c11f009521d66a1a5fb861a8a813
+SHA1: 405cbe2f80e0d193b52ccca3314e707d048502a6
+SHA256: ab74ef70b01c2658b7c5540ec48066eb8846d38fb613d001406d49a3ec0d126b
+SHA512: 06c7c93224c2129511fd1e880c7e9c034d7f37f1bbc0476228dc82b664cc9d97c2574f67981462edcfd0c0ef9e2113fb8ae79ccfa01c14380ef552ec9f63a72d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Unarchiver (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unarchiverpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.unzippro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3092,6 +3197,27 @@ Description: Enable Pro Version
 Name: Video Converter (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoconverterpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.videosplitterpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.videosplitterpro_1.0_iphoneos-arm.deb
+Size: 4400
+MD5sum: 2c7204b32faa13315c30387c6cc48f68
+SHA1: 28f12ffceaf891a1422b8ff19bc643ae16bc8dc6
+SHA256: 12fcbb4258c34133f5335c95f6b10e6af97f2637dd1f7cacfcf3e8558f292f32
+SHA512: 9c5a819f1b09fa6619bbd9c4266768c108311484289cc780a6b7310f6187eada6f6aae678dc9d8029fe67bfa3c1455d25672fc1e546c49cfcbed05ae14c32904
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Video Splitter (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videosplitterpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
