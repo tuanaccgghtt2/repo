@@ -1601,6 +1601,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.gradientpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.groovopremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.groovopremium_1.0_iphoneos-arm.deb
+Size: 4184
+MD5sum: e504d845a88879d2cc5a8a655e0b7d2c
+SHA1: ba47a24944569db32499be87e45e0c73b9b0adf0
+SHA256: c6be8f4ee4ab2b65cd02627ef66857a1bd170493bed5570f41bdb38fc4d53b2e
+SHA512: 45ff96a36785ea0b49ffe88c9d9f0fcf2aeecdb753ec734bcf11a07fa4744e7aeb4c81fac93bf9ec70469cafe23c37f5ba815144105aa030e4f329574db46e0a
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Groovo (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.groovopremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.ibispaintxpremium
 Architecture: iphoneos-arm
 Version: 1.0
