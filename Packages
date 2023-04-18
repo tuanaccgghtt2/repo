@@ -1688,17 +1688,17 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.infusepro
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.infusepro_1.0_iphoneos-arm.deb
-Size: 3988
-MD5sum: 28382ffa78fee5e35feb84eace6544dd
-SHA1: 162d5eec801228fcc0d713b6fab0f831c67ed7ae
-SHA256: ca29cbcc66f2ad9a8a8827f65088a2d6d5a41afa6c13718bf8b7962fbba6a418
-SHA512: b20fcfd0f93a41365713c62c0ee66aebfe8b94a0f9c05f697a5c2df8ca98048c319a89f816bf5bb329fc44244f968d8d62c227b160ec4fd59c3dbed9cf118c4f
+Filename: ./debs/vn.tuandb.infusepro_1.1_iphoneos-arm.deb
+Size: 4664
+MD5sum: ea66915bf165dd90c37e14ac3566e171
+SHA1: 54cafb2b2b0e623b911a350f61ea65f398f68920
+SHA256: 8e66a8c554ec78c01a29ba34caf09c84087fd678e4e2410511d04d990c3e5e16
+SHA512: 4633af8ed5efce28bb9c26c2a24645b2213b43464bd5d19b22f9c6fe3b4609f53c76ec31ad9bb7bb0ba76e1d84617f358cb1ec3564ac065bec426bf0de9714f9
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
 Name: Infuse (Pro)
