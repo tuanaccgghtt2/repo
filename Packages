@@ -2819,6 +2819,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.sketchbookpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.slidepluspro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.slidepluspro_1.0_iphoneos-arm.deb
+Size: 4508
+MD5sum: 9fbb9ca1c642dabd680016ef199c1667
+SHA1: 2802ba580b66254e699e70349bae7a5c85ab2af9
+SHA256: d07e6ba3c6dd496e716035401c6ac5423d53a7f19949708ddfadfda1fd946068
+SHA512: ea8ccb87a9cdc168fa1d53301695e00688c84729f87546cd689fc0ed3a0cbd8a1cedb948b20f2d5b363f83d3663467ee3dcae13db75dcc4695f4d71a3a792224
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: SlidePlus (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.slidepluspro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.smulevip
 Architecture: iphoneos-arm
 Version: 1.0
