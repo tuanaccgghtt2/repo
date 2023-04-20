@@ -1,4 +1,0 @@
-User:Group
-dpkg-deb --contents /_deb/*.deb;
-
-dpkg-deb --info /_deb/*.deb;
