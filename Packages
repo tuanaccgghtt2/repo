@@ -3348,6 +3348,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.visagelabpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.vmxpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.vmxpro_1.0_iphoneos-arm.deb
+Size: 4556
+MD5sum: 4417e08fa65639d0cc0e4c1358efec40
+SHA1: b12a18bab9fcdcb008c33b3dc82c8a4a3d63585e
+SHA256: e51cda143203dc68da4520f605a5995f66bf94aebe92bf45be04b9d25959cb35
+SHA512: 1e08a3b03fdc612943f2ebb57e1faa885ed194a9a261570c8acbdaa23166907d60612cb9e2578c5f14cdde704bfa400a780b996933200ca332be4715485e6949
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: VMX (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vmxpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.vneidbypass
 Architecture: iphoneos-arm
 Version: 1.0
