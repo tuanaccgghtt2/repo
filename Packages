@@ -1295,6 +1295,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.enhancefoxpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.evertagpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.evertagpremium_1.0_iphoneos-arm.deb
+Size: 4016
+MD5sum: ead67ed530aca6d5929b951aa3a4a303
+SHA1: 210237c57f737461923802402ee852c1bd20b2ac
+SHA256: c458591c15c2be79578861ac137aa960d8e820f5ff07105b476c8a6ab3c33c4f
+SHA512: b1b7d1b79802729bfd71b4b56228e21f11ab90f05bd378d72244b0033d3ce4d6ff1cac000b6dd8a98d66421dc8593820b5615478d0745e5a07679fc5b1721d3b
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Evertag (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.evertagpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.ext3nder-installer
 Architecture: iphoneos-arm
 Version: 022b

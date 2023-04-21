@@ -1,0 +1,9 @@
+{
+	"name": "Evertag (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1450763230' target='_blank'>Download</a>",
+	"compatitle": "com.leshko.tagseditor",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2B8p6Ci381UjaxLLBwNy2s8vF-wdLqs7CB2WcOR7YLqaXgZ6CUWfQgHfG0d1NR8NNQy4AQisprvCpEiLr9YGV5GRINey7tFQWk5A0b-aK1hgEQ4VWs8O9DrF1V6ilAbfeTy80fdarTLi01sozEQwXOCGMckMOCuD58UdPVATOeH85HZxWjbuu8sB2EQ/s1000/Evertag.png' target='_blank'><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2B8p6Ci381UjaxLLBwNy2s8vF-wdLqs7CB2WcOR7YLqaXgZ6CUWfQgHfG0d1NR8NNQy4AQisprvCpEiLr9YGV5GRINey7tFQWk5A0b-aK1hgEQ4VWs8O9DrF1V6ilAbfeTy80fdarTLi01sozEQwXOCGMckMOCuD58UdPVATOeH85HZxWjbuu8sB2EQ/s1000/Evertag.png'/></a><br></div>",
+	"open": true,
+}
