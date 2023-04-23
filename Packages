@@ -3156,6 +3156,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unarchiverpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.unidreampro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.unidreampro_1.0_iphoneos-arm.deb
+Size: 4540
+MD5sum: 43e2173329f585c7f5f95d6f352373ba
+SHA1: d1cf4ed6fd5e5b9fc222e59b09f25ac8d69d4da5
+SHA256: 74e5347480543be143b131b2b4ced005e5bd7ac86196b7aadb604eb3a53a5e07
+SHA512: 11cc86e71ee97a6f6c562145a28630ff72aa890cf39d2f214121678044c02d71dfe33233a0ad347fb5f713cc5334acc4c975741d227c212a8a2e42d37143b775
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: UniDream (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unidreampro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.unzippro
 Architecture: iphoneos-arm
 Version: 1.0
