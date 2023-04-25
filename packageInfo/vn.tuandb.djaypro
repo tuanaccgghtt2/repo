@@ -1,0 +1,9 @@
+{
+	"name": "djay (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id450527929' target='_blank'>Download</a>",
+	"compatitle": "com.algoriddim.djay-iphone-free",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1100321561354960977/djay-SC.PNG' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1100321561354960977/djay-SC.PNG'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1100321561795371018/djay.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1100321561795371018/djay.png'/></a><br></div>",
+	"open": true,
+}

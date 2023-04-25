@@ -1,0 +1,9 @@
+{
+	"name": "Adobe Spark Page (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id968433730' target='_blank'>Download</a>",
+	"compatitle": "com.adobe.slate",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1100321586139119616/AdobeSparkPage-SC.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1100321586139119616/AdobeSparkPage-SC.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1100321586415927336/AdobeSparkPage.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1100321586415927336/AdobeSparkPage.png'/></a><br></div>",
+	"open": true,
+}

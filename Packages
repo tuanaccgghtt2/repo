@@ -566,6 +566,48 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adobeexpresspremiu
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.adobesparkpagepremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.adobesparkpagepremium_1.0_iphoneos-arm.deb
+Size: 4032
+MD5sum: 2650678be1c745b13d887a7cbc7778b6
+SHA1: 17812a7295d79bb2f9e33f528474767a79320670
+SHA256: dfa831a99c95c3005fa795ea030874f327dc8b28cf4bcbc0c19710df7801b745
+SHA512: de2240a03a88262e04bbcf812b9c5fc564fd49aa47a04e947cf9d66d019d8840e2f32a6433f666f6f79b47013e31cf11370944da3bdc708aeca2f08572a271c2
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Adobe Spark Page (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adobesparkpagepremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.adobesparkvideopremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.adobesparkvideopremium_1.0_iphoneos-arm.deb
+Size: 4032
+MD5sum: 97356c65a28b792d7147f07d7a5f6378
+SHA1: 6c5399af9bc18ade2e912712bd9e2ed8966efaa8
+SHA256: 65f7fb1045163f58e7682b7efdac4be8f26805b8f84564704aff2542d0d8d7d2
+SHA512: 900453cfb0916c060958a9340c95d9d10e509b83756f2c591bed82934365cdaaedf2e528a11b353a8d764f33b19c0ecfde93423bf8198a888934d70c55606d2b
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Adobe Spark Video (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.adobesparkvideopremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.airbrushpremium
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1143,6 +1185,27 @@ Icon: file:///Library/tuandb.IconRepo/Tweaks.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cydown
 Author: julioverne <julioverne@me.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.djaypro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.djaypro_1.0_iphoneos-arm.deb
+Size: 3928
+MD5sum: 787a77e9240af0e5cf85514909588d5f
+SHA1: 28635279bfe7034c274d394bbdcc44fe57424566
+SHA256: 5c2c4c254e71d1b2bfc2dd9acf8bb22ca341b2e9559257eddc67ce9527073cef
+SHA512: 463a2b829122588547103f8225122fb3eee3d39fa288bd715c586ae59615bde2e28688c209bf93282992efc2ceb377e6bbdc99ff123406a1c89dffb4c649761d
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: djay (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.djaypro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.dlgmemorinjected
 Architecture: iphoneos-arm
