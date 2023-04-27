@@ -737,6 +737,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.armcpuzpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.artleappro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.artleappro_1.0_iphoneos-arm.deb
+Size: 4372
+MD5sum: 37f9ca5f71462ae57c26af9ad4e3d92f
+SHA1: 2687d5ed48c75aae510d00c412203470aa11f255
+SHA256: 73623670901d5b267d5277cb5d3b25aeadfc4f47710ed7336b48ad277c74ee6d
+SHA512: 29130f2b951b77f35f8b3e5e3ef85677e2b2a9cccfca20a53e3b2debaf6326231347eb0845caf59e0cf6d7641ab440763b6d7da7d2486aeb417ebe5071a98242
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Artleap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.artleappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.assistivetouchx
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1010,6 +1031,48 @@ Description: Enable Premium Version
 Name: Calm (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.calmpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.camtoplan3dscannerpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.camtoplan3dscannerpremium_1.0_iphoneos-arm.deb
+Size: 4064
+MD5sum: d934bc6a8ff8b1d3e25cefbc7a5420e7
+SHA1: 9e35ce2c011f1306a25a04d8715a034f16404eaf
+SHA256: 9eb4954fd88ce8608818dfddc61bc35ea475bf6a24ca9aa06bf8297a353d0232
+SHA512: 953125f0e089627b9b7b21af71ffe1278738e51ae9943acb2a2d9b0ac06d66c71f558ce1c426c626e6ced8442bd3235f55004f3177b53cfee92a0e55cfbeee1f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: CamToPlan 3D Scanner (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.camtoplan3dscannerpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.camtoplanpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.camtoplanpremium_1.0_iphoneos-arm.deb
+Size: 4204
+MD5sum: baf7b8844cfd4447252df21a3e381ae1
+SHA1: 6e131c37e154df33fb177b6f6160722272340462
+SHA256: 7f8a0043679f969854c885396981009fb4149d7466605de1c577b58a114b5a1e
+SHA512: 6c6804050b6647bec4017fbf299361267b585001ec2961c6fa044ed513a24339299b7e36784195a60807abd5bfe137827aa0145f64c13b040ca3cdaa929db92a
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: CamToPlan (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.camtoplanpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -1939,6 +2002,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kwyycrack
 Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.lightleappro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.lightleappro_1.0_iphoneos-arm.deb
+Size: 4316
+MD5sum: 839bf1c5d00663bf80101e3b66ae44ff
+SHA1: 1afc55f2c21f7e9de6814ef9aacaa3dd8296cbdc
+SHA256: 8158e404c120f4ae7a76afd8b41edd2cf38f18fe3e2132f1e607bdeeb3bacf89
+SHA512: 4691ea35496c18c709fc014c5f89a1cfc7f9d890e61ed8a3eea2988627f5b156b79d3940f670d42b0499f8ceab7dda3990aa42b890a5b8788414fb169913a917
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Lightleap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.lightleappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.Lightroom
 Architecture: iphoneos-arm
 Version: 6.0.2
@@ -2133,6 +2217,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.milkyway2
 Author: akusio <akusio-report@neko2.net>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.motionleappro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.motionleappro_1.0_iphoneos-arm.deb
+Size: 4332
+MD5sum: fa2a154f1ce03f56a515ba35f9d838e7
+SHA1: 71a37655c83136044ea00a47c54ec023f06490cd
+SHA256: 3ce90ec01d6ad5beaf2b4cc256e2522a9b44bb87adbf49a82be9e4726303f973
+SHA512: bf948b499c71e279d049054dac11f073eddb74dad69987200c33638a82a881aee6ce3d0629e073b336530938debae5959ad09a28ee621c156d630a9c37d3a3c5
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Motionleap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.motionleappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.motionninjavip
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2281,6 +2386,27 @@ Description: Enable VIP Version
 Name: OldRoll (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.oldrollvip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.overclippremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.overclippremium_1.0_iphoneos-arm.deb
+Size: 4004
+MD5sum: e52e0124da50e7588a5591ff4df6e593
+SHA1: 933041c2a7cfd9d842c979bb1cf82945bfe89906
+SHA256: 0326166cd2db70aae1c922f645318d90ab6b00137d229f772d148cdbc493f0e7
+SHA512: 62535e4e6cd5fc0e7119b1a32abd2ef8ef715d1bab40df08f746ebf1eb2a44dcc69cf9c4441a6c534076be85fbfdf78faa5f1ffcccb18e040041627b66d06e34
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Overclip (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.overclippremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2449,6 +2575,27 @@ Description: Enable Pro Version
 Name: PhotoLeaf (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photoleafpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.photoleappremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.photoleappremium_1.0_iphoneos-arm.deb
+Size: 5052
+MD5sum: 6bb78e8c3baf27ec9df96dd7966b5482
+SHA1: 7f553a69c4f31f33565ac77b3015fdc5a360124d
+SHA256: 9cc267669606f22ef441569de2a2f03071eb8a964a149b4ce8ccbe7899d9c108
+SHA512: ea30471c13da66ac32e59e022cd2fc1c0c0c3ef37fcde5bcbad908b7d358ff9c1b4ad2b2c4d98aaee3d49f1c88578d7483576858f42a2f39e1a3b38a50833723
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Photoleap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.photoleappremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -3347,6 +3494,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoconverterpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.videoleappro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.videoleappro_1.0_iphoneos-arm.deb
+Size: 5068
+MD5sum: 0729a59a077af364a9535ec2a125f281
+SHA1: b19d7fbaba499290d95d9bd6ec463ba60521a17c
+SHA256: 20e3620fa68ba5e9aaced61b6270c14e4211c1faef936dfaadbce6d756536119
+SHA512: 28bcf66342652533a55c23f6b00ce87873b485deb54ac44079da89a4bddcec24e05e78482d743b61b60d22ad91fadba1bbc7471c0a482508c648e2bb5013c685
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Videoleap (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.videoleappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.videosplitterpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3492,6 +3660,27 @@ Description: Enable Premium Version
 Name: Wallpapers (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wallpaperspremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.weather14daypremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.weather14daypremium_1.0_iphoneos-arm.deb
+Size: 4036
+MD5sum: 8e543854c4a5bdec99c5eeab26699588
+SHA1: 5251a1ccec6f3fd4601b575ae69d67b50f796219
+SHA256: e6b23743da10bcf5d246fb41bae80b7703c4ae422966dd4c3ca035cf1b822bef
+SHA512: fee802acd079506f5b611a13345dab3f276af28fbf02abe1b0602b05e354b0b4bf7370284edae48fbdbe61b3cf26c50f15d1f2cc81042a0a7488e45b12d12a4f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Weather 14 day (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.weather14daypremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 

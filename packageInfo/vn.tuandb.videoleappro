@@ -1,0 +1,9 @@
+{
+	"name": "Videoleap (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1255135442' target='_blank'>Download</a>",
+	"compatitle": "com.lightricks.Enlight-Video",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1101008010337333318/Videoleap.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1101008010337333318/Videoleap.png'/></a><br></div>",
+	"open": true,
+}
