@@ -647,6 +647,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.airbrushpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.airbrushvideopremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.airbrushvideopremium_1.0_iphoneos-arm.deb
+Size: 4456
+MD5sum: 0b10fa2c9e845d417c4cd2dccc72fbaf
+SHA1: ff2f79a27f37fdd8f386266c90b52e7eac09b6c6
+SHA256: 434dedd3cb90736e84fd9c2152c04915c848716943d2fb0b40c0b1af9a1a6a0a
+SHA512: 5f136964fe842608e8cfac9afb157795e7802ea63c703f8cc0b56456fdf9f10e68a005c349aa89f2e98420798c6529df2d6cff8b9b9dc4cada128af25f059ed3
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: AirBrush Video (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.airbrushvideopremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.amber
 Architecture: iphoneos-arm
 Version: 1.2.0
