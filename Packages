@@ -1962,17 +1962,17 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.kolorovip
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.kolorovip_1.0_iphoneos-arm.deb
-Size: 3804
-MD5sum: 8c4f791b465142f407c642d5af863654
-SHA1: df24dacfefd22b9e613125ee93226ba45374accf
-SHA256: cfce15fe417faf41f5ac11941796ce7e590d3fc957d816ac5ecd1c3a4261819d
-SHA512: 0fe8a30101198c107e558c00b084f218d6fc24a8d3821a21063e827a99fda517daad7a333845e9c8838b9327ba6c9e63a0d36a5bb1605f795b544d6d18d695fd
+Filename: ./debs/vn.tuandb.kolorovip_1.1_iphoneos-arm.deb
+Size: 3988
+MD5sum: 78d349d9c8e29dfd248b0a112e81c9fa
+SHA1: b6e8b0e58bdc79ea38212cea2338d3e3b00c5e3b
+SHA256: ad43979e5f65c76b5320f0317a381d7d8c57e6686d39c305a4ac4c021ac0d6e1
+SHA512: 6cad0857595e7abc7514b7d36c9a3437792977dc1f8440b90dc9b1d9a521e2b72a93593d04b72055d09176c61adf5d5c82d180d902c5b2340bdc42218f0e3724
 Homepage: https://repo.tuandb.name.vn
 Description: Enable VIP Version
 Name: Koloro (VIP)
@@ -2771,6 +2771,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.powerselector11
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: ichitaso
+
+Package: vn.tuandb.prettyuppro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.prettyuppro_1.0_iphoneos-arm.deb
+Size: 4272
+MD5sum: c7dde889f9d55690d9f0dc7950250967
+SHA1: 0a513f8fd2a0b9d5bef3171d515ecbbcae13c411
+SHA256: 67744144a6eb9e6d910a57b16a05103b5a79c1607762e5d39a4a2fb11525ace5
+SHA512: d1a255068fad01fde1bff824154bfe2d7047cb04682ca8200b249b89729e68fe620dc2ee31e293f854cb9ae6318ddeec76b4a53618dd602bd3d65b9d31bf1a8e
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: PrettyUp (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.prettyuppro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.prizmogopro
 Architecture: iphoneos-arm
