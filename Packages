@@ -2785,6 +2785,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pomelopro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.potoplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.potoplus_1.0_iphoneos-arm.deb
+Size: 4516
+MD5sum: 68e346bd90a85358a140465f433bce64
+SHA1: 1a739daf3c5363714b22e67a7c79c52e9c2a8ce1
+SHA256: 5a9a013efa696c72bf2c104f57de2e052fbfd3f4ac64893137df6caf9c8d5220
+SHA512: 431a1db579dd0028495bf6e5cf22217d40700fc07435dbe2825cc49f493080043a7338adb889058018b794abcf9bc06e2e4918d2835274069cdf3c1371822840
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: POTO (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.potoplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.powerselector11
 Architecture: iphoneos-arm
 Version: 1.3.7
@@ -3004,6 +3025,27 @@ Author: opa334 <opa334@protonmail.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 dev: opa334
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: vn.tuandb.safevaultplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.safevaultplus_1.0_iphoneos-arm.deb
+Size: 4624
+MD5sum: 3129d3e3fe776ca866c94afac6dd7760
+SHA1: 09f29ac24bb2910f175c94315b50eaf5cd2fa073
+SHA256: 329564988074e1532223020131d43c207eb2c9cd99779c5d1a842547efce55c7
+SHA512: a47448ea7c8cb288db4e2dd47f3e582d8bb27f9a9aceb4bdc432ce462435728cef544c63a16b971b451a9ca2cb647b97a50db48156ef3ac8edf7cbf33e551cff
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: SafeVault (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.safevaultplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.scanmasterpremium
 Architecture: iphoneos-arm
