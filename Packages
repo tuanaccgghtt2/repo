@@ -2874,6 +2874,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.prizmogopro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.protakepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.protakepro_1.0_iphoneos-arm.deb
+Size: 4216
+MD5sum: 38762ab5022d80c0918d6f37e3ba6a13
+SHA1: 14583c72560a1bc0311ab85470a23d7d4560c064
+SHA256: fa86bea9ea26228e67ea7ab040e84df59e94e77cf6ecc18ac9053034198bec3a
+SHA512: e3dd23e223043a82b29aab501a078c23b929fdd212b3ed2dd89a11d7dca7839f4f02c5246fe7ce30ef7637f93468d15906375e493a30c993aa6985fa1682d4c5
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Protake (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.protakepro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.provideoplus
 Architecture: iphoneos-arm
 Version: 1.0
