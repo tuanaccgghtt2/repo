@@ -1202,6 +1202,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cloneappcmd
 Author: shin-chan
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.coinsnappremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.coinsnappremium_1.0_iphoneos-arm.deb
+Size: 3836
+MD5sum: 98d957866edebcadf9a42e9833c3bbd4
+SHA1: edc790736d4f7ba5bfdb1dd5fb55a2fa66d3606c
+SHA256: ff47641f73c460fbdef5cf0eb9627d545a80bd60c0dcb4b8df9e0fcb669ebf80
+SHA512: 552173c916108ed5d2d57998994c6c93f1acc5974bf0908ccc4598e29ecc9116120633d2c25bf5a7256df5ba03e38c35b6f244ad21c5ee00288b3e92f5332b7f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: CoinSnap (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.coinsnappremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.copylog.tv
 Architecture: iphoneos-arm
 Version: 1.5.3
@@ -1352,6 +1373,27 @@ Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.documentspremium
 Author: strejda603 <strejda603@centrum.cz>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.dogpalpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.dogpalpremium_1.0_iphoneos-arm.deb
+Size: 3832
+MD5sum: 871727a3633fa292266e595a6046a1a0
+SHA1: cdc34c7dee032e46c2725f0e9a6be76af431d4e5
+SHA256: e0b5714ba5ad885c3509b32a9dcedb127f3fd05ec5fcc0c16e564f5bd264458b
+SHA512: 00f32048a669815cad3fd7e649ff12d0189406357d3b93d1515dd41347ce2aaca92027fe8cefa0c0bcba4b140e7aa4ec0670fc5945f1d84db7c79a71c62ed685
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Dog Pal (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dogpalpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.douyinnoads
 Architecture: iphoneos-arm
@@ -1585,6 +1627,27 @@ Description: Enable Premium Version
 Name: Fing (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fingpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.fishingpalpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.fishingpalpremium_1.0_iphoneos-arm.deb
+Size: 3832
+MD5sum: 11273cc236d72ac3016d57db1221e360
+SHA1: 6f09dee71909c646eb56b02ad01a0a6f4a1ef49e
+SHA256: 14cfdae60d42271d386b7452c548528108b4ba43f8b7e0f65bafa07dcfe01263
+SHA512: 124a48064fe43235217575777ee79560326179503929bf58f161631f1e744fc60d0c87ebd7a52bc5b719f632ed7753973711e88b9f0039ba52249a0640dcca6f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Fishing Pal (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.fishingpalpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2040,6 +2103,27 @@ Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.kwyycrack
 Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.lazyfitpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.lazyfitpremium_1.0_iphoneos-arm.deb
+Size: 3824
+MD5sum: f460d714ab700e3a78cd6e59ee93d0ee
+SHA1: bff7a0e5e86b4a0d77184a840d55b53e70f8f260
+SHA256: 8da9c6ee5131b481f9bdb44eec045138ae63c1f8dde5051bc347afb6a119d1cd
+SHA512: 391692f5dcb39f424d707e1dc7e840b3240ad174b81582c8df929ea5348ae59a37e29acc8627d1a5d1adfe8f7d96a436c349a071f8740718e2d4525aa5c951f1
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: LazyFit (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.lazyfitpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.lightleappro
 Architecture: iphoneos-arm
@@ -2743,6 +2827,90 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picsartpremium
 Author: Netskao
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.picturebirdpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.picturebirdpremium_1.0_iphoneos-arm.deb
+Size: 3852
+MD5sum: 889db4e6c5988ecaf9754a582bb2c90c
+SHA1: dfcfef5d9983f619bf42446d3264d8b77a1b804b
+SHA256: 528feca4918886d237f5d70a8347b9a0e49ed3dcbd871332bd55e1b6d53fbc7a
+SHA512: f1e9d1414a77605d64107232ccfe7f6ddc07bbfb8280c0f6cf34e60ad7f3d2e046a473083d0928c227eae87dc93bb2243c3f2313497588b39d9625691128bd30
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Picture Bird (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturebirdpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.picturefishpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.picturefishpremium_1.0_iphoneos-arm.deb
+Size: 3852
+MD5sum: e37ce3ea2bc991eb6b5f410669d18eb8
+SHA1: 5776de97485dd8e8f894df0e530919020addaea7
+SHA256: 7fb97832c78e0d3f50dbf42b1e0114fdd03f2c1b1bdc6d15b5a551b3d27cbdba
+SHA512: 5b2d8dee71d7e1ca123da7dd4c86b2783d4483207008725442e335b48c242a17e69f56243e71679435588b822f6e1188e6cb2fc9d93d2371d878d9b1c8732c80
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Picture Fish (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturefishpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.pictureinsectpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pictureinsectpremium_1.0_iphoneos-arm.deb
+Size: 3852
+MD5sum: 4ab79582c850e053014bf36bfc6f2766
+SHA1: ed15e8cc929702fa9a5dcb76a17980fe2cce060b
+SHA256: 1c71f4d3758c46d83a68ff03773c6e712401844471e18d4cf71cc65715b6f810
+SHA512: 165ca81f3099c845fce2d3155739ce3f5069b6723f61ad452ba7391392c08a5060fe051951a6c78dc6d348435a5a307467d82b6710f0c56babfb94cc7c82d1be
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Picture Insect (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pictureinsectpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.picturemushroompremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.picturemushroompremium_1.0_iphoneos-arm.deb
+Size: 3856
+MD5sum: 8850532b9dab081495c6f29adfcd5dd8
+SHA1: 6f8569f8a6f716cda34fcbba48ee474892c4fee2
+SHA256: 9b026825e29a743b35399a58f672fe890f67b7a77dfffa48a134f159a3b1eadc
+SHA512: 1b82e4f8862305f5426219282d561ddcba645a659abe8a582dac05a5519ca7a3b152f73a1b818667c4df27904a38186c9711865fb8b1769877ed2ad2d2b018d9
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Picture Mushroom (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturemushroompremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.polishpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3018,6 +3186,27 @@ Description: Enable Pro Version
 Name: Ringtone Master (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.ringtonemasterpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.rockidentifierpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.rockidentifierpremium_1.0_iphoneos-arm.deb
+Size: 3844
+MD5sum: e34aa7f4118997ec3cceff9b27acf7c7
+SHA1: 31e44059e18a699cd5a7cbaa8d2d4a38e02ae848
+SHA256: bb9335fafaf483e0ba635a5383aed23d7a171cf8a8b3d5f8fa1958b5840f7abd
+SHA512: 08d9a635d6e0c56c80d662c4c08f71ec9e67dcbb2eebb3584ee6137477f76c199dcaa1f164ff212804a55df22202b1f177cf9fb10045b0b7898b703391e4b305
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Rock Identifier (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.rockidentifierpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
