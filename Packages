@@ -797,6 +797,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.artleappro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.assemblypro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.assemblypro_1.0_iphoneos-arm.deb
+Size: 4176
+MD5sum: 07b361c4499e95b4984940dfa85c9bf8
+SHA1: 9376fb07b805f9531ff3e882c8a8815192acce29
+SHA256: 064ccaebb32d7196da4ecd3666269f1005cc6a92e8004b31a2f98dd6dabb653e
+SHA512: e313e9e36835a100bdec4e11ad72e6576e51d5672989f877e90917dc0b8645a0078e2dc55422fcd6c0099b8fa3a4ca601e539938b16aed9a6cd624f8f3431880
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Assembly (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.assemblypro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.assistivetouchx
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3696,6 +3717,27 @@ Description: Enable Pro Version
 Name: UniDream (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unidreampro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.unionpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.unionpro_1.0_iphoneos-arm.deb
+Size: 3916
+MD5sum: 892819653abe03a809cf57c3683f04f8
+SHA1: d6eeab7ac276a90756f959edf0a92a4ebd07e15e
+SHA256: 2e5c969fa03e8f06902cd40f34edba84ee5fccf852e81b08a10de0223d7e7528
+SHA512: 719014c0bd9db4087d7e3bc2f5f19217032701fb8637986e9c92d2df7105b3091e2dd4ace1335cdc8c867d00fb8ee96cb0513877045056da327921b28d26c9e6
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Union (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unionpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
