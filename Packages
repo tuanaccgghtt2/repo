@@ -38,6 +38,24 @@ Name: OTADisabler
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 Author: ichitaso
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm
+Version: 0.4
+Section: System
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/backup/com.ichitaso.otadisabler_0.4_iphoneos-arm.deb
+Size: 27638
+MD5sum: 0149e8a8fcaf33577bef70ed4ba48c1e
+SHA1: fa50aa7e45eb218c506f0fad726d1ae744ac87d0
+SHA256: 0b0dabbbd4a7e4a2cd250fdf3799830a9ba124dbe5655dd9f9f8f5c2441aac16
+SHA512: c0302d2a31e848c4cdd93031c80ea1dd0730688803b0a0225eedf47b2c0ecfe70cbbcb77e98d9c42fab2338d254e16cd448e6d8e9745392b42300e448ac34460
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Author: ichitaso
+
 Package: com.level3tjg.bfdecrypt
 Architecture: iphoneos-arm
 Version: 1.3.4
