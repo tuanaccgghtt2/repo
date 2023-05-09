@@ -1,0 +1,9 @@
+{
+	"name": "Easy Color (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1602360083' target='_blank'>Download</a>",
+	"compatitle": "com.mwm.ColorByNumber",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/33/00/4833009a-544e-7de9-7839-801d2137848e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg' target='_blank'><img src='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/33/00/4833009a-544e-7de9-7839-801d2137848e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg'/></a><br></div>",
+	"open": true,
+}

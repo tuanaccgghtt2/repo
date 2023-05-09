@@ -1,0 +1,9 @@
+{
+	"name": "Equalizer+ (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id777191669' target='_blank'>Download</a>",
+	"compatitle": "com.djit.equalizerPlus-iOS",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/78/d3/44/78d344e8-728a-66be-45c5-1b665cbe69b1/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg' target='_blank'><img src='https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/78/d3/44/78d344e8-728a-66be-45c5-1b665cbe69b1/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg'/></a><br></div>",
+	"open": true,
+}

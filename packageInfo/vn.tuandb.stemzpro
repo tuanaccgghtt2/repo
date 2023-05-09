@@ -1,0 +1,9 @@
+{
+	"name": "Stemz (Pro)",
+	"desc_short": "Enable Pro Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1596495598' target='_blank'>Download</a>",
+	"compatitle": "com.mwm.stems",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/6e/47/ed6e473c-c605-78ea-6ef9-cc26a68f1116/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg' target='_blank'><img src='https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/6e/47/ed6e473c-c605-78ea-6ef9-cc26a68f1116/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg'/></a><br></div>",
+	"open": true,
+}

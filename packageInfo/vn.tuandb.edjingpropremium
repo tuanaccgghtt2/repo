@@ -1,0 +1,9 @@
+{
+	"name": "edjing Pro (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1022000001' target='_blank'>Download</a>",
+	"compatitle": "com.edjing.edjingexpert-le",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/c8/8b/a9c88b23-b918-050c-1087-ee99f0b661f0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg' target='_blank'><img src='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/c8/8b/a9c88b23-b918-050c-1087-ee99f0b661f0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg'/></a><br></div>",
+	"open": true,
+}

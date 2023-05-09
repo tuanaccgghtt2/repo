@@ -1262,6 +1262,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.coinsnappremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.colorpoppremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.colorpoppremium_1.0_iphoneos-arm.deb
+Size: 4924
+MD5sum: 27de26aabb1c4bb7082721e329506fde
+SHA1: feba53fd751b0700e7be7a94f6852643c5e3c0a0
+SHA256: d7c94320c50a047ff47897730e7605430d25a8f3a3701a4fbf2e04f22470ecce
+SHA512: 956230e3fd4713b555735d0c0bbae23d6fd32d0cef58c95e976187e43976f7e546fcb53fb44ffedd6e56c971d26150be600e629c6dcc88f7b28f4a25572879ad
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Color Pop (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.colorpoppremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.copylog.tv
 Architecture: iphoneos-arm
 Version: 1.5.3
@@ -1520,6 +1541,48 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.dvirtualhome
 Author: DGh0st <deeppwnage@yahoo.com>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.easycolorpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.easycolorpremium_1.0_iphoneos-arm.deb
+Size: 4768
+MD5sum: 9b002c997c61ac9d4e1c470ab42447f4
+SHA1: c578938780850139a1b07729701fa159bd071e75
+SHA256: e10e89c9a74f043bbedfef1a71b3a723375f47e6b164e4196be9c94b995f6e3d
+SHA512: 399a9aec6934923c0919d14afc84da7cd8155178c25c9438faacbc7c65f2b7f38b561ed138f1046a2e15c43480fe9b0d26e687d6f99199391e030d063d61f9ac
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Easy Color (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.easycolorpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.edjingpropremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.edjingpropremium_1.0_iphoneos-arm.deb
+Size: 4092
+MD5sum: 683a67d1ef2c09d5ab65a566d8b9f9ba
+SHA1: a5eb95b39d4c9b07e4e24ab2fcd295dc8dccd223
+SHA256: f33d7bcbcdeb664e2ea59b6c1f8d2072a8f2e6fdcc78be9c511930cdf16fad3d
+SHA512: 5920f982139b77f28f7dc1ad51a3457878be5b86fc670b4fe3ead551a76a61b159611129567cfde82ce4cc0fbb1d92563ee4284e8cd91424bcd043726b598951
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: edjing Pro (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.edjingpropremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.enhancefoxpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1538,6 +1601,27 @@ Description: Enable Pro Version
 Name: EnhanceFox (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.enhancefoxpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.equalizerpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.equalizerpremium_1.0_iphoneos-arm.deb
+Size: 4172
+MD5sum: a9e208326168917f9e08d7345aa2e1b9
+SHA1: 47ee0735a0d6d7f38e04f552a6625553ac5e4389
+SHA256: e386d6078b1bd23cde0255af180b76f37e823e3058dcb97be99caec304fc9420
+SHA512: 23f5f23636fbb106bd26a790033c5d640bda04da49885cf044ff894330e63e391f79d562866f5d82f3f2d4ee239832ea488c3d618c5a864f731c4bce48b02933
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Equalizer+ (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.equalizerpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -2950,6 +3034,48 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturemushroompre
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.pinspro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pinspro_1.0_iphoneos-arm.deb
+Size: 3988
+MD5sum: 0a52de0b1e83227b20317eb09c07aa83
+SHA1: 250d02d28fa9869af700606b7e5384f88749ea7c
+SHA256: f2d83d7fdb8870480207bb30076398e278a27968fed653b619ff93540fd9e856
+SHA512: 24e42fc6add1a104bf8d1ca9cc1f30d2a9799c2bb35daa4fcdf53bcf33c79d6df34b60777fa2d7ef231eefb351e6f10ef39173b1c832ceaf3ddace36baca709a
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: PINS (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pinspro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.pixelpluspremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.pixelpluspremium_1.0_iphoneos-arm.deb
+Size: 5160
+MD5sum: 860840e0643ededfc4997673f83ea9c2
+SHA1: 312b9eda9bafd5d0e8c844b946f855b978a36759
+SHA256: 67e6c96a6bea09c473b5d60d42d3230a764716a1a404d2a465ce11553ffe8449
+SHA512: 0170ea47218560ae9baa6218dfbf0278f65f368239fba413e69b2e6f4e069a0cd1624132e19657f8021dc6523d77f6375ffed0d4de0d72e1f3777ac98cf3db01
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Pixel Plus (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pixelpluspremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.polishpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3463,6 +3589,27 @@ Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.spotilife
 Author: julioverne
 Support: Hoàng Tuân <contact@tuandb.name.vn>
+
+Package: vn.tuandb.stemzpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.stemzpro_1.0_iphoneos-arm.deb
+Size: 4396
+MD5sum: 4eb76235fcf04aff16e915ec6a017558
+SHA1: 89c9f5fe9447a4e6c85cb903f71b258a4c17952f
+SHA256: 8a7ae5ce1cf4e2aa4aec8020c4dd4a523cf6a539271b2a0b99b4d6d464611c1c
+SHA512: 13e82c60b1a0c3a48a60ef222bc0ebe1539fe718b01491a214492c30860a589aaef21de6d7f29628d714abb41abcb62a1226270bf409aabf67ef7ca9a4a74e96
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Stemz (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.stemzpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.stitchvip
 Architecture: iphoneos-arm

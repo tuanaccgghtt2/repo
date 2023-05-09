@@ -1,0 +1,9 @@
+{
+	"name": "Color Pop (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1517805311' target='_blank'>Download</a>",
+	"compatitle": "com.mwm.procolor",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/dc/bf/07dcbfda-4aa7-3cb3-fb9b-f9e5dc8a122d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg' target='_blank'><img src='https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/dc/bf/07dcbfda-4aa7-3cb3-fb9b-f9e5dc8a122d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg'/></a><br></div>",
+	"open": true,
+}
