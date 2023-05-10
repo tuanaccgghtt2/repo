@@ -1,0 +1,9 @@
+{
+	"name": "AllTrails (Plus)",
+	"desc_short": "Enable Plus Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id405075943' target='_blank'>Download</a>",
+	"compatitle": "com.alltrails.AllTrails",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/9GFt5AU.png' target='_blank'><img src='https://i.imgur.com/9GFt5AU.png'/></a><br></div>",
+	"open": true,
+}

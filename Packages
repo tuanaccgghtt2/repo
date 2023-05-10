@@ -686,6 +686,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.airbrushvideopremi
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.alltrailsplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.alltrailsplus_1.0_iphoneos-arm.deb
+Size: 5172
+MD5sum: 39cf2f6b23e08cffb0fb6feb179b2e39
+SHA1: 4180e5904182b0fa396e944600b6b812fbc8b7b5
+SHA256: be704966e2b8357eabad2b23d158b2daaeeb03e055598de8d48df8588b9ee21f
+SHA512: 077e9bfffd8b206c60dffc160d90a9302e42f3536490434d957543ba07ecbb3d89bcc00652b55b3db382cdb52ed9430f397782f47e413c4d6087b0d0d287457f
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Plus Version
+Name: AllTrails (Plus)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.alltrailsplus
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.amber
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -2100,6 +2121,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.inshotpro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.invideofilmrpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.invideofilmrpro_1.0_iphoneos-arm.deb
+Size: 5328
+MD5sum: 8ff76be25ed8c96ccd29b4e00a50ec5c
+SHA1: 569d315423e0f995a6d630c081b1e8e0f8a6ee49
+SHA256: 77bb2883635081628005387704b369048a05dc0732f165ad2e83bcecdb981e76
+SHA512: 42e95093ab441f8db8a1833ed4ebc0284a5891cac1837f06f5c0f6527e78e2da034ea2ab90778b9b6c86dc2b2280b6bdd24af0c5f5e689bea2ada09e2e6ae4a6
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: InVideo(Filmr) (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.invideofilmrpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
@@ -2502,6 +2544,27 @@ Description: Enable VIP Version
 Name: Motion Ninja (VIP)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.motionninjavip
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.naturetrailspremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.naturetrailspremium_1.0_iphoneos-arm.deb
+Size: 4040
+MD5sum: 0ebe84738c84ee092e2005b6cc99b1b5
+SHA1: ef4485bd00cc12fb6d1f7a9cbeae438752726013
+SHA256: c965316edb51ea8c03c6d5a014b3855bfe78296bf21b525f409926805fe91594
+SHA512: 467f310d3658ffa016e7261993f332d24b55a50aee40c81211311c13275d1a9563ed7322e6997efdf97f69ace3d05caa08da2827a6c948bcba2cb6ff8a505114
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: NatureTrails (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.naturetrailspremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
@@ -3034,6 +3097,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturemushroompre
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
+Package: vn.tuandb.picturethispremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.picturethispremium_1.0_iphoneos-arm.deb
+Size: 4216
+MD5sum: ed23d0b6726fa5f63915b79748237fb5
+SHA1: 8715614b1d9901221f7ade89471cf7b17e08e5db
+SHA256: 9ea65855829288e81f7eeb24259b52e24741c749c2e50e63091fe8108ac4ebd0
+SHA512: 8c4e1759ef818ad0c4d1edaa0d6e0a132cf822f410aa2483d27daeb4c88ed228f4860aee50d953ec23f0276484e67f3a31ea17176008ba85eca65d890ded6442
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: PictureThis (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.picturethispremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.pinspro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3073,6 +3157,27 @@ Description: Enable Premium Version
 Name: Pixel Plus (Premium)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pixelpluspremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.plantparentpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.plantparentpremium_1.0_iphoneos-arm.deb
+Size: 4524
+MD5sum: bde9f7a229eab0f48e79809cd2254252
+SHA1: d3972ee559e2d7343835e1cc04a0796bcf22282c
+SHA256: 0dc33a7b89a8333dd760a56afcbaa8addb085dbb581bc28139dcc8d7839716b6
+SHA512: a71bc4c003369dc7c1bdd360ea15e254be5f95f7a44a33d940df2a387ba30e7b71b7ebfd4c96303a36fb6d90d4880a454b5c720cd1eff3f7e83e107d32b3cd65
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Plant Parent (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.plantparentpremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
