@@ -2547,27 +2547,6 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.motionninjavip
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
-Package: vn.tuandb.naturetrailspremium
-Architecture: iphoneos-arm
-Version: 1.0
-Section: HackApps
-Maintainer: tuandb <contact@tuandb.name.vn>
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.naturetrailspremium_1.0_iphoneos-arm.deb
-Size: 4040
-MD5sum: 0ebe84738c84ee092e2005b6cc99b1b5
-SHA1: ef4485bd00cc12fb6d1f7a9cbeae438752726013
-SHA256: c965316edb51ea8c03c6d5a014b3855bfe78296bf21b525f409926805fe91594
-SHA512: 467f310d3658ffa016e7261993f332d24b55a50aee40c81211311c13275d1a9563ed7322e6997efdf97f69ace3d05caa08da2827a6c948bcba2cb6ff8a505114
-Homepage: https://repo.tuandb.name.vn
-Description: Enable Premium Version
-Name: NatureTrails (Premium)
-Icon: file:///Library/tuandb.IconRepo/HackApps.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.naturetrailspremium
-Author: tuandb <contact@tuandb.name.vn>
-Support: tuandb <contact@tuandb.name.vn>
-
 Package: vn.tuandb.newterm2
 Architecture: iphoneos-arm
 Version: 2.5
@@ -3903,6 +3882,27 @@ Description: Enable Pro Version
 Name: ToonTap (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.toontappro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.trailscapepremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.trailscapepremium_1.0_iphoneos-arm.deb
+Size: 4052
+MD5sum: c82ba0b8c32db1f2c55f82750c8b4eea
+SHA1: f7a99382b0169187c96ee15951a93e9568389de6
+SHA256: 7e957bd1aba0402af4b4f3ccfe71cd86add7201f9981651868d9d0d4b70e52ba
+SHA512: ab45a6d1f55703cd8f0b1b203358c8407197a9c92203d4918a8084c310b80608175855d70873f4b4df22cb1990465d3e21a897c1f663e403f2c8284cde0fb966
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Trailscape (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.naturetrailspremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
