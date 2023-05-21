@@ -2505,6 +2505,27 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.milkyway2
 Author: akusio <akusio-report@neko2.net>
 Support: Hoàng Tuân <contact@tuandb.name.vn>
 
+Package: vn.tuandb.mobilescannerpremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.mobilescannerpremium_1.0_iphoneos-arm.deb
+Size: 4776
+MD5sum: cc2eec4c339cd51510aff8302517090c
+SHA1: 226c90968cc4c5fdaf7ece148511a84dcb89975b
+SHA256: 550ef9b5b3aa8e29dd7d02076b0a51beb1e4e513702e55171415823f630fa5d3
+SHA512: 8fecf25eb3e963ec7755db4223db74e22577ab86a2e5bc6c7f4020f3f8759ad23dad9d2b2e04bfe88f024a8af1b7cc9a53aed1fa5314125a271080ac83aeeb96
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Mobile Scanner (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.mobilescannerpremium
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
 Package: vn.tuandb.motionleappro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3372,6 +3393,27 @@ Description: Enable Pro Version
 Name: QR Reader (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.qrreaderpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.receiptlenspremium
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.receiptlenspremium_1.0_iphoneos-arm.deb
+Size: 4472
+MD5sum: 3013fcd7a08165455bd239dde318dcfc
+SHA1: 55b03d7b633f2b9411fea2184c1f0f0ee9c4a65d
+SHA256: 3eb69db36e373da70ad6e9096519096cfa6852be143c0c8cd8b1989bfc098733
+SHA512: dfe1887d178bb6e8f9ebb31822319dac7fc256704117bbd70c68142662811ee02a51ea7afe18d7c24f88534459ff57ea902953ec72e8991ce974e9cd9856ad35
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Premium Version
+Name: Receipt Lens (Premium)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.receiptlenspremium
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 

@@ -1,0 +1,9 @@
+{
+	"name": "Receipt Lens (Premium)",
+	"desc_short": "Enable Premium Version",
+	"desc_long": "AppStore URL: <a href='https://apps.apple.com/app/id1424280764' target='_blank'>Download</a>",
+	"compatitle": "com.glority.receipt",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/qWSPPA4.png' target='_blank'><img src='https://i.imgur.com/qWSPPA4.png'/></a><a href='https://i.imgur.com/NThMTyU.png' target='_blank'><img src='https://i.imgur.com/NThMTyU.png'/></a><br></div>",
+	"open": true,
+}
