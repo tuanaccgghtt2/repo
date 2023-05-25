@@ -1713,17 +1713,17 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.filemasterpro
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.filemasterpro_1.0_iphoneos-arm.deb
-Size: 3824
-MD5sum: 5ee4d9955f607723827d6e421f129afd
-SHA1: 2c868fe542b4bfbfc26a56f8834e5b4151472f6c
-SHA256: 62d9749781267a9798583d6c59a192aa15147b0ead4b9310c991de843af13b4d
-SHA512: 5dc6a24427b8d0160fb2a77fbc745ab52ea5b2bb0a426b7e4a55e83ab3765c92862b208ee89dec59a186e20f24c796c9d8339ddca2a7d4649c149060ba2cb171
+Filename: ./debs/vn.tuandb.filemasterpro_1.1_iphoneos-arm.deb
+Size: 3916
+MD5sum: 9f8ac9b6f0dc0dd0eca19ccd5f5838ff
+SHA1: 82fc91ee904c14e62f0dada6ac84febbaa692794
+SHA256: b1595c36a613cbc79bbe32e1b822094f2996e4b5c9298915d6e9a628dd01387c
+SHA512: 9b3d238c070f8cade8259afebeab7f831a38d2726137d1e78d9a14d72bcf332c26030514bb9c4189c298c007f18bc80e90582938fda43d08f048ff2f5deb87d2
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
 Name: File Master (Pro)
