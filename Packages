@@ -1004,27 +1004,6 @@ Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyeditorpremiu
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
-Package: vn.tuandb.beautyplusvideopro
-Architecture: iphoneos-arm
-Version: 1.0
-Section: HackApps
-Maintainer: tuandb <contact@tuandb.name.vn>
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.beautyplusvideopro_1.0_iphoneos-arm.deb
-Size: 4192
-MD5sum: d00343a0a87938392c6c7324e1f06065
-SHA1: b347b34a85fe8c38d401254f0eab5866051b7122
-SHA256: c2a2f83cb87a3b16e4553984c6ea35898c5bc758c7e4bbf63df41720bb5f1adb
-SHA512: b5493138cd4992cc0f5003620b755f5503dc0a3d4cab97d361cd87221d3e4a4030b1a39390f5973a0e6d09bd6169308ec85951a2fe27fd9edf6520c68d017f8d
-Homepage: https://repo.tuandb.name.vn
-Description: Enable Pro Version
-Name: BeautyPlus Video (Pro)
-Icon: file:///Library/tuandb.IconRepo/HackApps.png
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyplusvideopro
-Author: tuandb <contact@tuandb.name.vn>
-Support: tuandb <contact@tuandb.name.vn>
-
 Package: vn.tuandb.bodyfilterpro
 Architecture: iphoneos-arm
 Version: 1.0
@@ -4019,11 +3998,11 @@ Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/vn.tuandb.unidreampro_1.0_iphoneos-arm.deb
-Size: 4540
-MD5sum: 43e2173329f585c7f5f95d6f352373ba
-SHA1: d1cf4ed6fd5e5b9fc222e59b09f25ac8d69d4da5
-SHA256: 74e5347480543be143b131b2b4ced005e5bd7ac86196b7aadb604eb3a53a5e07
-SHA512: 11cc86e71ee97a6f6c562145a28630ff72aa890cf39d2f214121678044c02d71dfe33233a0ad347fb5f713cc5334acc4c975741d227c212a8a2e42d37143b775
+Size: 4548
+MD5sum: f637b953d5e06af30c605146a747430e
+SHA1: b959939a2573a4bc9e4a71ee8046049a10163b6f
+SHA256: aa938b0fd1d69f7c95e8cd4d0ca0173dffc7a36144af7282f728461241778eb5
+SHA512: 6006b9bd6544a92de80f0d9c3cf0d24b0174ab53cc64197d6ad3fadbc295cf4a1f78264cdceb66cce44d8e56d221008df11ae895e53b8ce74d1d087821c89171
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
 Name: UniDream (Pro)
@@ -4263,6 +4242,27 @@ Description: Enable Pro Version
 Name: Visage Lab (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.visagelabpro
+Author: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+
+Package: vn.tuandb.vmakeopro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: HackApps
+Maintainer: tuandb <contact@tuandb.name.vn>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/vn.tuandb.vmakeopro_1.0_iphoneos-arm.deb
+Size: 4168
+MD5sum: f5ef70a1fb31a3ec37bc63ce0ea92821
+SHA1: e18d134cabb4e3c2a6c3fc7d0abe2669ec19e7a0
+SHA256: 0633ba9fdd56b367178fb44c0a2b9cd365febcd8aa5fe75ec3ee0266eb98ddbb
+SHA512: 40e4c69a340fa544e075a3c2b4841a5c375d78ec2c1445a4516acc7c819507d7d5a8b8761f0b2c1ba8d96bc6a408be8a7c58acbdcc11d56ab84b5347ecca9219
+Homepage: https://repo.tuandb.name.vn
+Description: Enable Pro Version
+Name: Vmake (Pro)
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vmakeopro
 Author: tuandb <contact@tuandb.name.vn>
 Support: tuandb <contact@tuandb.name.vn>
 
