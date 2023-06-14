@@ -4099,17 +4099,17 @@ dev: lenglengyu
 
 Package: vn.tuandb.videocompresspro
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.videocompresspro_1.0_iphoneos-arm.deb
-Size: 3836
-MD5sum: 9abf957a9a71915445ff26de95d8c7bc
-SHA1: cab0323b49cb1306f0e4ab6eeb9394139e734c99
-SHA256: 2472d8f02299fdfb8312ac959c10b81d3e3f3a08c25d0f2c1df1cca00627f129
-SHA512: d26ef203ed734cbcb2093994fa183bdac6f17ab9cb36e685a2191226d5590ae02d89af0fdf67bceeae84528d912d0253279cc1ae03a4c02052da219be9a5097a
+Filename: ./debs/vn.tuandb.videocompresspro_1.1_iphoneos-arm.deb
+Size: 3920
+MD5sum: 70db7ddd85f79bbe9eabca4a026be3c1
+SHA1: 36f4e750b2ed70f95ac229a713e0b78f57227876
+SHA256: 7cb2c1dbedc4bceedf2766e08a598092f34d53fe7ac79eb770b38eb43c7ff025
+SHA512: a1755c41c913a71a73052b922ad90e3af77d3a46864239ade963db31aa49333cb625cdee59a675c3d21c0fab74f57fccd47406042bb5700c8ab6cddd5f3df192
 Homepage: https://repo.tuandb.name.vn
 Description: Emable Pro Version
 Name: Video Compress (Pro)
