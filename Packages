@@ -4120,17 +4120,17 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.videoconverterpro
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.videoconverterpro_1.0_iphoneos-arm.deb
-Size: 4044
-MD5sum: 24110318d4175c64906c9d284028882f
-SHA1: 5485f7e7ada35844c353713536f9813e4401e59c
-SHA256: 5b2a34204d25bc17830a9db8f31cab6f104cc94f9632f0cb34cb89a82598dd8a
-SHA512: 9de33c3d8cd8fa85728f63b8772f79a0e64d56c434460dbb8b48bc716317d0d70e7d352abbb2bdbe4789fa02feeb335f58f60a2365079cfb02372871cd11ebeb
+Filename: ./debs/vn.tuandb.videoconverterpro_1.1_iphoneos-arm.deb
+Size: 4264
+MD5sum: 3081403b53b40a6a56bea83986680d9f
+SHA1: 111d49bf2139d3a4a26544b37bdb6ecf287d225f
+SHA256: 7cf188395599b6d1c275efdf0b2d7215994900c6f10ad8eaf9471253996cca14
+SHA512: af1c510ecf74ea2642343f06ef29f0024a813b1c0d2fb09b90e80a371541905d79c78cbef5a422f028e0de1824986d5dcb341e1ef4f796b4f1e3cf78eb90cbfd
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
 Name: Video Converter (Pro)
