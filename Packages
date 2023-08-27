@@ -4038,20 +4038,20 @@ Support: Hoàng Tuân <contact@tuandb.name.vn>
 
 Package: vn.tuandb.unarchiverpro
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: HackApps
 Maintainer: tuandb <contact@tuandb.name.vn>
-Installed-Size: 280
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/vn.tuandb.unarchiverpro_1.0_iphoneos-arm.deb
-Size: 3828
-MD5sum: 4a73c11f009521d66a1a5fb861a8a813
-SHA1: 405cbe2f80e0d193b52ccca3314e707d048502a6
-SHA256: ab74ef70b01c2658b7c5540ec48066eb8846d38fb613d001406d49a3ec0d126b
-SHA512: 06c7c93224c2129511fd1e880c7e9c034d7f37f1bbc0476228dc82b664cc9d97c2574f67981462edcfd0c0ef9e2113fb8ae79ccfa01c14380ef552ec9f63a72d
+Filename: ./debs/vn.tuandb.unarchiverpro_1.1_iphoneos-arm.deb
+Size: 2388
+MD5sum: 560d2be895d49f8314cd7fcddc251f23
+SHA1: 92f0de26ca14ad8fbd0f4685bc009b0913bcbebc
+SHA256: 791e5998e229344e68b6959f89e25df864279dafe49c4d2bb0d3e57b2109c61b
+SHA512: 30c7156b7a1274593b64412ba7f67c48620dfcf6a6763f68ae13b359df562ba60f658980a9e3e97e5a53b450bdb56255517b07afc0770ebb0447118482b2b42d
 Homepage: https://repo.tuandb.name.vn
 Description: Enable Pro Version
-Name: Unarchiver (Pro)
+Name: UnRAR (Pro)
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unarchiverpro
 Author: tuandb <contact@tuandb.name.vn>
