@@ -3293,7 +3293,7 @@ Support: tuandb <contact@tuandb.name.vn>
 
 Package: vn.tuandb.powerselector11
 Architecture: iphoneos-arm
-Version: 1.3.9
+Version: 1.4.0
 Section: Utilities
 Maintainer: tuandb <contact@tuandb.name.vn>
 Installed-Size: 2052
@@ -3301,12 +3301,12 @@ Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Filename: ./debs/vn.tuandb.powerselector11_1.3.9_iphoneos-arm.deb
-Size: 210092
-MD5sum: dd421cf798d1d25cb5f7c1b2bb9fd956
-SHA1: 2b6cf52f9285ccdf8c3439c963f761d91d315b90
-SHA256: a33fc367a6bc8d57aa28e1c9d03b11d2c0cc18e8a6217ea3617c428a3c8435ed
-SHA512: e8421cfc3aec6f43f01a50204957a1ad608ed32519636ca7f32541d6646169840cb63a80548fd0ce547e380a1f2cc787259de573960af403c300632ed0801f57
+Filename: ./debs/vn.tuandb.powerselector11_1.4.0_iphoneos-arm.deb
+Size: 210152
+MD5sum: 530ec7f5a84793df8b68733ebfde074b
+SHA1: f049e0cf94a9e7ce399c26fe00627cd2319acb24
+SHA256: 9b5aaed3ab1fec047c2086ec45f9b6295306015a3d98e461906a3f39a640d916
+SHA512: 678e0b5d1c75e42d9186ee26c68d793eb0db210b054ac93754b759f37f8f33283b6d15d0e815075c5cc441100c57645af6cff8fa64b8b80f23aec2e3bf76bb63
 Homepage: https://repo.tuandb.name.vn
 Description: The power supply relation of a device is operated.
 Name: PowerSelector
@@ -3314,7 +3314,6 @@ Icon: file:///Library/tuandb.IconRepo/Utilities.png
 Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.powerselector11
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Support: tuandb <contact@tuandb.name.vn>
-dev: ichitaso
 
 Package: vn.tuandb.prettyuppro
 Architecture: iphoneos-arm
