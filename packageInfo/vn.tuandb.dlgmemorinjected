@@ -4,6 +4,6 @@
 	"desc_long": "&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
 	"compatitle": "iOS ≥ 11.0",
 	"changelog": null,
-	"screenshot": "<div style='text-align:center;'><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009832972461019165/dlgmemorinjected-img1.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009832972461019165/dlgmemorinjected-img1.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009832970917523477/dlgmemorinjected-img2.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009832970917523477/dlgmemorinjected-img2.png'/></a><a href='https://cdn.discordapp.com/attachments/859785099523784749/1009832978169483344/dlgmemorinjected-img3.png' target='_blank'><img src='https://cdn.discordapp.com/attachments/859785099523784749/1009832978169483344/dlgmemorinjected-img3.png'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='/imgsc/dlgmemorinjected-img1.png' target='_blank'><img src='/imgsc/dlgmemorinjected-img1.png'/></a><a href='/imgsc/dlgmemorinjected-img2.png' target='_blank'><img src='/imgsc/dlgmemorinjected-img2.png'/></a><a href='/imgsc/dlgmemorinjected-img3.png' target='_blank'><img src='/imgsc/dlgmemorinjected-img3.png'/></a><br></div>",
 	"open": true,
 }
