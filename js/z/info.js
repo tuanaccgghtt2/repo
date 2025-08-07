@@ -27,6 +27,7 @@ function iOSVersion() {
 // 	  }
 //   });
 // });
+
 function loadPackageInfo() {
 	var urlSelfParts = window.location.href.split('info.html?id=');
 	var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
@@ -106,6 +107,7 @@ function openSection(sectionName)
 	
 	$("#browser").html(sectionContent);
 }
+
 function loadMainSection()
 {
 	var sectionContent = "";
@@ -114,6 +116,7 @@ function loadMainSection()
 	}
 	$("#browser").html(sectionContent);
 }
+
 function getPackageWithID(pkg_id)
 {
 	for (var dicNow in allPackages) {
@@ -123,6 +126,7 @@ function getPackageWithID(pkg_id)
 	}
 	return null;
 }
+
 function loadPackageDetail()
 {
 	var packageID = window.location.href.split('info.html?id=')[1];
@@ -135,10 +139,21 @@ function loadPackageDetail()
 		$("#pkg_version").html(packageInfo.version);
 		$("#pkg_size").html(filesize(packageInfo.size));
 		$("#pkg_installedsize").html(filesize(packageInfo.installedsize*1024));
-		$("#pkg_time").html(timeago.format(packageInfo.time*1000));
-		$("#pkg_timestamp").html(packageInfo.timestamp);
+        // Định dạng thời gian
+        const timestamp = new Date(packageInfo.time * 1000);
+        const year = timestamp.getFullYear();
+        const month = (timestamp.getMonth() + 1).toString().padStart(2, '0');
+        const day = timestamp.getDate().toString().padStart(2, '0');
+        const hours = timestamp.getHours().toString().padStart(2, '0');
+        const minutes = timestamp.getMinutes().toString().padStart(2, '0');
+        const seconds = timestamp.getSeconds().toString().padStart(2, '0');
+        const formattedTime = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+
+        $("#pkg_time").html(formattedTime); // Sử dụng thời gian đã định dạng
+        $("#pkg_timestamp").html(packageInfo.timestamp);
 	}
 }
+
 function loadRecentUpdates()
 {
 	var htmlnews = "";
@@ -157,6 +172,7 @@ function loadRecentUpdates()
 	}
 	$("#updates").html(htmlnews);
 }
+
 function loadPackages() {
 	var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 	var form_url = current_url_path+"/all.packages";
